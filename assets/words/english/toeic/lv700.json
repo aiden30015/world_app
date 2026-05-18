@@ -1,0 +1,2170 @@
+[
+  {
+    "text": "quarterly",
+    "meaning": "분기별의"
+  },
+  {
+    "text": "expenditure",
+    "meaning": "지출"
+  },
+  {
+    "text": "procurement",
+    "meaning": "조달"
+  },
+  {
+    "text": "inventory",
+    "meaning": "재고"
+  },
+  {
+    "text": "logistics",
+    "meaning": "물류"
+  },
+  {
+    "text": "compliance",
+    "meaning": "준수"
+  },
+  {
+    "text": "benchmark",
+    "meaning": "기준점"
+  },
+  {
+    "text": "forecast",
+    "meaning": "예측"
+  },
+  {
+    "text": "subsidiary",
+    "meaning": "자회사"
+  },
+  {
+    "text": "acquisition",
+    "meaning": "인수"
+  },
+  {
+    "text": "liability",
+    "meaning": "부채"
+  },
+  {
+    "text": "overhead",
+    "meaning": "간접비"
+  },
+  {
+    "text": "stakeholder",
+    "meaning": "이해관계자"
+  },
+  {
+    "text": "shareholder",
+    "meaning": "주주"
+  },
+  {
+    "text": "dividend",
+    "meaning": "배당금"
+  },
+  {
+    "text": "equity",
+    "meaning": "자기자본"
+  },
+  {
+    "text": "capital",
+    "meaning": "자본"
+  },
+  {
+    "text": "asset",
+    "meaning": "자산"
+  },
+  {
+    "text": "allocation",
+    "meaning": "할당"
+  },
+  {
+    "text": "audit",
+    "meaning": "감사"
+  },
+  {
+    "text": "fiscal",
+    "meaning": "재정의"
+  },
+  {
+    "text": "merger",
+    "meaning": "합병"
+  },
+  {
+    "text": "restructure",
+    "meaning": "구조조정하다"
+  },
+  {
+    "text": "outsource",
+    "meaning": "외주를 주다"
+  },
+  {
+    "text": "quota",
+    "meaning": "할당량"
+  },
+  {
+    "text": "throughput",
+    "meaning": "처리량"
+  },
+  {
+    "text": "output",
+    "meaning": "생산량"
+  },
+  {
+    "text": "productivity",
+    "meaning": "생산성"
+  },
+  {
+    "text": "efficiency",
+    "meaning": "효율"
+  },
+  {
+    "text": "receivable",
+    "meaning": "미수금"
+  },
+  {
+    "text": "payable",
+    "meaning": "미지급금"
+  },
+  {
+    "text": "debit",
+    "meaning": "차변, 출금"
+  },
+  {
+    "text": "credit",
+    "meaning": "신용, 입금"
+  },
+  {
+    "text": "amortize",
+    "meaning": "상각하다"
+  },
+  {
+    "text": "capitalize",
+    "meaning": "자본화하다"
+  },
+  {
+    "text": "depreciate",
+    "meaning": "가치가 떨어지다"
+  },
+  {
+    "text": "diversify",
+    "meaning": "다각화하다"
+  },
+  {
+    "text": "valuation",
+    "meaning": "가치 평가"
+  },
+  {
+    "text": "appraisal",
+    "meaning": "평가"
+  },
+  {
+    "text": "assessment",
+    "meaning": "사정, 평가"
+  },
+  {
+    "text": "projection",
+    "meaning": "예상"
+  },
+  {
+    "text": "default",
+    "meaning": "채무 불이행"
+  },
+  {
+    "text": "breach",
+    "meaning": "위반"
+  },
+  {
+    "text": "infringement",
+    "meaning": "침해"
+  },
+  {
+    "text": "mandate",
+    "meaning": "권한, 명령"
+  },
+  {
+    "text": "regulation",
+    "meaning": "규제"
+  },
+  {
+    "text": "statute",
+    "meaning": "법규"
+  },
+  {
+    "text": "headcount",
+    "meaning": "인원수"
+  },
+  {
+    "text": "attrition",
+    "meaning": "인력 감소"
+  },
+  {
+    "text": "turnover",
+    "meaning": "이직률, 매출액"
+  },
+  {
+    "text": "conglomerate",
+    "meaning": "복합기업"
+  },
+  {
+    "text": "consortium",
+    "meaning": "컨소시엄"
+  },
+  {
+    "text": "syndicate",
+    "meaning": "연합체"
+  },
+  {
+    "text": "overhaul",
+    "meaning": "정비하다"
+  },
+  {
+    "text": "streamline",
+    "meaning": "간소화하다"
+  },
+  {
+    "text": "endorse",
+    "meaning": "지지하다"
+  },
+  {
+    "text": "solicit",
+    "meaning": "요청하다"
+  },
+  {
+    "text": "discontinue",
+    "meaning": "중단하다"
+  },
+  {
+    "text": "comply",
+    "meaning": "따르다"
+  },
+  {
+    "text": "certify",
+    "meaning": "증명하다"
+  },
+  {
+    "text": "disclose",
+    "meaning": "공개하다"
+  },
+  {
+    "text": "allocate",
+    "meaning": "할당하다"
+  },
+  {
+    "text": "expedite",
+    "meaning": "신속히 처리하다"
+  },
+  {
+    "text": "postpone",
+    "meaning": "연기하다"
+  },
+  {
+    "text": "delegate",
+    "meaning": "위임하다"
+  },
+  {
+    "text": "implement",
+    "meaning": "시행하다"
+  },
+  {
+    "text": "execute",
+    "meaning": "실행하다"
+  },
+  {
+    "text": "facilitate",
+    "meaning": "촉진하다"
+  },
+  {
+    "text": "negotiate",
+    "meaning": "협상하다"
+  },
+  {
+    "text": "mediate",
+    "meaning": "중재하다"
+  },
+  {
+    "text": "collaborate",
+    "meaning": "협력하다"
+  },
+  {
+    "text": "coordinate",
+    "meaning": "조정하다"
+  },
+  {
+    "text": "supervise",
+    "meaning": "감독하다"
+  },
+  {
+    "text": "evaluate",
+    "meaning": "평가하다"
+  },
+  {
+    "text": "monitor",
+    "meaning": "감시하다"
+  },
+  {
+    "text": "regulate",
+    "meaning": "규제하다"
+  },
+  {
+    "text": "enforce",
+    "meaning": "집행하다"
+  },
+  {
+    "text": "prohibit",
+    "meaning": "금지하다"
+  },
+  {
+    "text": "authorize",
+    "meaning": "권한을 부여하다"
+  },
+  {
+    "text": "approve",
+    "meaning": "승인하다"
+  },
+  {
+    "text": "ratify",
+    "meaning": "비준하다"
+  },
+  {
+    "text": "amend",
+    "meaning": "수정하다"
+  },
+  {
+    "text": "revise",
+    "meaning": "수정하다"
+  },
+  {
+    "text": "draft",
+    "meaning": "초안 작성하다"
+  },
+  {
+    "text": "outline",
+    "meaning": "개요를 잡다"
+  },
+  {
+    "text": "specify",
+    "meaning": "명시하다"
+  },
+  {
+    "text": "stipulate",
+    "meaning": "규정하다"
+  },
+  {
+    "text": "designate",
+    "meaning": "지정하다"
+  },
+  {
+    "text": "distribute",
+    "meaning": "분배하다"
+  },
+  {
+    "text": "disburse",
+    "meaning": "지급하다"
+  },
+  {
+    "text": "reimburse",
+    "meaning": "상환하다"
+  },
+  {
+    "text": "compensate",
+    "meaning": "보상하다"
+  },
+  {
+    "text": "remunerate",
+    "meaning": "보수를 주다"
+  },
+  {
+    "text": "premium",
+    "meaning": "보험료, 고급의"
+  },
+  {
+    "text": "annuity",
+    "meaning": "연금"
+  },
+  {
+    "text": "pension",
+    "meaning": "연금"
+  },
+  {
+    "text": "severance",
+    "meaning": "퇴직금"
+  },
+  {
+    "text": "gratuity",
+    "meaning": "사례금"
+  },
+  {
+    "text": "commission",
+    "meaning": "수수료, 위원회"
+  },
+  {
+    "text": "incentive",
+    "meaning": "유인책"
+  },
+  {
+    "text": "subsidy",
+    "meaning": "보조금"
+  },
+  {
+    "text": "grant",
+    "meaning": "보조금, 부여하다"
+  },
+  {
+    "text": "endowment",
+    "meaning": "기부금"
+  },
+  {
+    "text": "contribution",
+    "meaning": "기여"
+  },
+  {
+    "text": "investment",
+    "meaning": "투자"
+  },
+  {
+    "text": "portfolio",
+    "meaning": "포트폴리오"
+  },
+  {
+    "text": "collateral",
+    "meaning": "담보"
+  },
+  {
+    "text": "mortgage",
+    "meaning": "주택 담보 대출"
+  },
+  {
+    "text": "interest",
+    "meaning": "이자, 관심"
+  },
+  {
+    "text": "principal",
+    "meaning": "원금"
+  },
+  {
+    "text": "maturity",
+    "meaning": "만기"
+  },
+  {
+    "text": "redemption",
+    "meaning": "상환"
+  },
+  {
+    "text": "yield",
+    "meaning": "수익률"
+  },
+  {
+    "text": "return",
+    "meaning": "수익"
+  },
+  {
+    "text": "margin",
+    "meaning": "이윤, 여유"
+  },
+  {
+    "text": "markup",
+    "meaning": "가격 인상폭"
+  },
+  {
+    "text": "markdown",
+    "meaning": "가격 인하"
+  },
+  {
+    "text": "depreciation",
+    "meaning": "감가상각"
+  },
+  {
+    "text": "appreciation",
+    "meaning": "가치 상승"
+  },
+  {
+    "text": "inflation",
+    "meaning": "인플레이션"
+  },
+  {
+    "text": "deflation",
+    "meaning": "디플레이션"
+  },
+  {
+    "text": "recession",
+    "meaning": "경기 침체"
+  },
+  {
+    "text": "boom",
+    "meaning": "호황"
+  },
+  {
+    "text": "downturn",
+    "meaning": "경기 하강"
+  },
+  {
+    "text": "stagnation",
+    "meaning": "침체"
+  },
+  {
+    "text": "volatility",
+    "meaning": "변동성"
+  },
+  {
+    "text": "stability",
+    "meaning": "안정성"
+  },
+  {
+    "text": "liquidity",
+    "meaning": "유동성"
+  },
+  {
+    "text": "solvency",
+    "meaning": "지급 능력"
+  },
+  {
+    "text": "insolvency",
+    "meaning": "지급 불능"
+  },
+  {
+    "text": "bankruptcy",
+    "meaning": "파산"
+  },
+  {
+    "text": "credibility",
+    "meaning": "신용도"
+  },
+  {
+    "text": "transparency",
+    "meaning": "투명성"
+  },
+  {
+    "text": "accountability",
+    "meaning": "책임"
+  },
+  {
+    "text": "integrity",
+    "meaning": "청렴성"
+  },
+  {
+    "text": "due diligence",
+    "meaning": "실사"
+  },
+  {
+    "text": "scrutiny",
+    "meaning": "정밀 조사"
+  },
+  {
+    "text": "oversight",
+    "meaning": "감독"
+  },
+  {
+    "text": "governance",
+    "meaning": "지배구조"
+  },
+  {
+    "text": "executive",
+    "meaning": "임원"
+  },
+  {
+    "text": "board",
+    "meaning": "이사회"
+  },
+  {
+    "text": "committee",
+    "meaning": "위원회"
+  },
+  {
+    "text": "council",
+    "meaning": "협의회"
+  },
+  {
+    "text": "panel",
+    "meaning": "패널"
+  },
+  {
+    "text": "delegation",
+    "meaning": "대표단"
+  },
+  {
+    "text": "envoy",
+    "meaning": "사절"
+  },
+  {
+    "text": "representative",
+    "meaning": "대표자"
+  },
+  {
+    "text": "hedge fund",
+    "meaning": "헤지 펀드"
+  },
+  {
+    "text": "mutual fund",
+    "meaning": "뮤추얼 펀드"
+  },
+  {
+    "text": "bond",
+    "meaning": "채권"
+  },
+  {
+    "text": "derivative",
+    "meaning": "파생상품"
+  },
+  {
+    "text": "futures",
+    "meaning": "선물"
+  },
+  {
+    "text": "option",
+    "meaning": "옵션"
+  },
+  {
+    "text": "warrant",
+    "meaning": "신주인수권"
+  },
+  {
+    "text": "IPO",
+    "meaning": "기업공개"
+  },
+  {
+    "text": "underwriter",
+    "meaning": "인수업자"
+  },
+  {
+    "text": "broker",
+    "meaning": "중개인"
+  },
+  {
+    "text": "brokerage",
+    "meaning": "중개업"
+  },
+  {
+    "text": "dividend yield",
+    "meaning": "배당 수익률"
+  },
+  {
+    "text": "market cap",
+    "meaning": "시가총액"
+  },
+  {
+    "text": "price-earnings ratio",
+    "meaning": "주가수익비율"
+  },
+  {
+    "text": "earnings",
+    "meaning": "수익"
+  },
+  {
+    "text": "revenue stream",
+    "meaning": "수익원"
+  },
+  {
+    "text": "gross margin",
+    "meaning": "총이익률"
+  },
+  {
+    "text": "net margin",
+    "meaning": "순이익률"
+  },
+  {
+    "text": "EBITDA",
+    "meaning": "법인세 이자 감가상각비 차감 전 이익"
+  },
+  {
+    "text": "cash equivalent",
+    "meaning": "현금성 자산"
+  },
+  {
+    "text": "working capital",
+    "meaning": "운영 자본"
+  },
+  {
+    "text": "retained earnings",
+    "meaning": "이익잉여금"
+  },
+  {
+    "text": "goodwill",
+    "meaning": "영업권"
+  },
+  {
+    "text": "intangible asset",
+    "meaning": "무형자산"
+  },
+  {
+    "text": "tangible asset",
+    "meaning": "유형자산"
+  },
+  {
+    "text": "fixed asset",
+    "meaning": "고정자산"
+  },
+  {
+    "text": "current asset",
+    "meaning": "유동자산"
+  },
+  {
+    "text": "amortization",
+    "meaning": "상각"
+  },
+  {
+    "text": "write-off",
+    "meaning": "상각 처리"
+  },
+  {
+    "text": "impairment",
+    "meaning": "손상차손"
+  },
+  {
+    "text": "provision",
+    "meaning": "충당금"
+  },
+  {
+    "text": "accrual",
+    "meaning": "발생"
+  },
+  {
+    "text": "deferral",
+    "meaning": "이연"
+  },
+  {
+    "text": "commerce",
+    "meaning": "상업"
+  },
+  {
+    "text": "commodity",
+    "meaning": "원자재"
+  },
+  {
+    "text": "staple",
+    "meaning": "주요 상품"
+  },
+  {
+    "text": "free trade",
+    "meaning": "자유무역"
+  },
+  {
+    "text": "protectionism",
+    "meaning": "보호무역주의"
+  },
+  {
+    "text": "trade deficit",
+    "meaning": "무역 적자"
+  },
+  {
+    "text": "trade surplus",
+    "meaning": "무역 흑자"
+  },
+  {
+    "text": "embargo",
+    "meaning": "통상 금지"
+  },
+  {
+    "text": "sanction",
+    "meaning": "제재"
+  },
+  {
+    "text": "levy",
+    "meaning": "부과금"
+  },
+  {
+    "text": "duty-free",
+    "meaning": "면세의"
+  },
+  {
+    "text": "dumping",
+    "meaning": "덤핑"
+  },
+  {
+    "text": "monopoly",
+    "meaning": "독점"
+  },
+  {
+    "text": "oligopoly",
+    "meaning": "과점"
+  },
+  {
+    "text": "cartel",
+    "meaning": "카르텔"
+  },
+  {
+    "text": "antitrust",
+    "meaning": "독점 금지의"
+  },
+  {
+    "text": "holding company",
+    "meaning": "지주회사"
+  },
+  {
+    "text": "parent company",
+    "meaning": "모회사"
+  },
+  {
+    "text": "affiliate",
+    "meaning": "계열사"
+  },
+  {
+    "text": "spinoff",
+    "meaning": "분사"
+  },
+  {
+    "text": "buyout",
+    "meaning": "매수"
+  },
+  {
+    "text": "takeover",
+    "meaning": "기업 인수"
+  },
+  {
+    "text": "hostile takeover",
+    "meaning": "적대적 인수"
+  },
+  {
+    "text": "white knight",
+    "meaning": "백기사"
+  },
+  {
+    "text": "poison pill",
+    "meaning": "포이즌 필"
+  },
+  {
+    "text": "proxy fight",
+    "meaning": "위임장 대결"
+  },
+  {
+    "text": "voting rights",
+    "meaning": "의결권"
+  },
+  {
+    "text": "minority shareholder",
+    "meaning": "소액주주"
+  },
+  {
+    "text": "majority shareholder",
+    "meaning": "대주주"
+  },
+  {
+    "text": "controlling stake",
+    "meaning": "지배 지분"
+  },
+  {
+    "text": "supply chain",
+    "meaning": "공급망"
+  },
+  {
+    "text": "vendor management",
+    "meaning": "공급업체 관리"
+  },
+  {
+    "text": "just-in-time",
+    "meaning": "적시 생산"
+  },
+  {
+    "text": "lean manufacturing",
+    "meaning": "린 제조"
+  },
+  {
+    "text": "six sigma",
+    "meaning": "식스 시그마"
+  },
+  {
+    "text": "automation",
+    "meaning": "자동화"
+  },
+  {
+    "text": "robotics",
+    "meaning": "로봇 공학"
+  },
+  {
+    "text": "retooling",
+    "meaning": "장비 재정비"
+  },
+  {
+    "text": "downtime",
+    "meaning": "가동 중단 시간"
+  },
+  {
+    "text": "uptime",
+    "meaning": "가동 시간"
+  },
+  {
+    "text": "yield rate",
+    "meaning": "수율"
+  },
+  {
+    "text": "defect rate",
+    "meaning": "불량률"
+  },
+  {
+    "text": "indemnity",
+    "meaning": "배상"
+  },
+  {
+    "text": "waiver",
+    "meaning": "권리 포기"
+  },
+  {
+    "text": "warranty",
+    "meaning": "보증"
+  },
+  {
+    "text": "disclaimer",
+    "meaning": "면책 조항"
+  },
+  {
+    "text": "clause",
+    "meaning": "조항"
+  },
+  {
+    "text": "addendum",
+    "meaning": "추가 조항"
+  },
+  {
+    "text": "amendment",
+    "meaning": "수정"
+  },
+  {
+    "text": "revision",
+    "meaning": "개정"
+  },
+  {
+    "text": "breach of contract",
+    "meaning": "계약 위반"
+  },
+  {
+    "text": "force majeure",
+    "meaning": "불가항력"
+  },
+  {
+    "text": "liquidated damages",
+    "meaning": "손해배상 예정액"
+  },
+  {
+    "text": "punitive damages",
+    "meaning": "징벌적 손해배상"
+  },
+  {
+    "text": "compensatory damages",
+    "meaning": "보상적 손해배상"
+  },
+  {
+    "text": "injunction",
+    "meaning": "금지명령"
+  },
+  {
+    "text": "subpoena",
+    "meaning": "소환장"
+  },
+  {
+    "text": "affidavit",
+    "meaning": "선서진술서"
+  },
+  {
+    "text": "deposition",
+    "meaning": "증언녹취"
+  },
+  {
+    "text": "plea bargain",
+    "meaning": "유죄 인정 협상"
+  },
+  {
+    "text": "statute of limitations",
+    "meaning": "공소시효"
+  },
+  {
+    "text": "non-disclosure agreement",
+    "meaning": "비밀유지계약"
+  },
+  {
+    "text": "non-compete",
+    "meaning": "경업 금지"
+  },
+  {
+    "text": "zoning",
+    "meaning": "용도 지역제"
+  },
+  {
+    "text": "easement",
+    "meaning": "지역권"
+  },
+  {
+    "text": "title deed",
+    "meaning": "권리증서"
+  },
+  {
+    "text": "escrow",
+    "meaning": "에스크로"
+  },
+  {
+    "text": "closing",
+    "meaning": "거래 종결"
+  },
+  {
+    "text": "foreclosure",
+    "meaning": "압류"
+  },
+  {
+    "text": "eviction",
+    "meaning": "퇴거"
+  },
+  {
+    "text": "sublease",
+    "meaning": "전대"
+  },
+  {
+    "text": "commercial lease",
+    "meaning": "상업 임대차"
+  },
+  {
+    "text": "residential lease",
+    "meaning": "주거 임대차"
+  },
+  {
+    "text": "rent control",
+    "meaning": "임대료 통제"
+  },
+  {
+    "text": "market value",
+    "meaning": "시장 가치"
+  },
+  {
+    "text": "assessed value",
+    "meaning": "평가 가치"
+  },
+  {
+    "text": "capitalization rate",
+    "meaning": "자본환원율"
+  },
+  {
+    "text": "succession planning",
+    "meaning": "승계 계획"
+  },
+  {
+    "text": "talent acquisition",
+    "meaning": "인재 영입"
+  },
+  {
+    "text": "workforce planning",
+    "meaning": "인력 계획"
+  },
+  {
+    "text": "competency",
+    "meaning": "역량"
+  },
+  {
+    "text": "aptitude",
+    "meaning": "적성"
+  },
+  {
+    "text": "attitude",
+    "meaning": "태도"
+  },
+  {
+    "text": "morale",
+    "meaning": "사기"
+  },
+  {
+    "text": "engagement",
+    "meaning": "참여도"
+  },
+  {
+    "text": "retention",
+    "meaning": "유지"
+  },
+  {
+    "text": "collective bargaining",
+    "meaning": "단체 교섭"
+  },
+  {
+    "text": "union",
+    "meaning": "노동조합"
+  },
+  {
+    "text": "grievance procedure",
+    "meaning": "고충 처리 절차"
+  },
+  {
+    "text": "arbitration",
+    "meaning": "중재"
+  },
+  {
+    "text": "mediation",
+    "meaning": "조정"
+  },
+  {
+    "text": "workplace harassment",
+    "meaning": "직장 내 괴롭힘"
+  },
+  {
+    "text": "discrimination",
+    "meaning": "차별"
+  },
+  {
+    "text": "diversity",
+    "meaning": "다양성"
+  },
+  {
+    "text": "inclusion",
+    "meaning": "포용"
+  },
+  {
+    "text": "strategic planning",
+    "meaning": "전략 계획"
+  },
+  {
+    "text": "competitive advantage",
+    "meaning": "경쟁 우위"
+  },
+  {
+    "text": "value proposition",
+    "meaning": "가치 제안"
+  },
+  {
+    "text": "core competency",
+    "meaning": "핵심 역량"
+  },
+  {
+    "text": "vertical integration",
+    "meaning": "수직 통합"
+  },
+  {
+    "text": "horizontal integration",
+    "meaning": "수평 통합"
+  },
+  {
+    "text": "synergy",
+    "meaning": "시너지"
+  },
+  {
+    "text": "economy of scale",
+    "meaning": "규모의 경제"
+  },
+  {
+    "text": "market penetration",
+    "meaning": "시장 침투"
+  },
+  {
+    "text": "market development",
+    "meaning": "시장 개발"
+  },
+  {
+    "text": "product diversification",
+    "meaning": "제품 다각화"
+  },
+  {
+    "text": "blue ocean",
+    "meaning": "블루오션"
+  },
+  {
+    "text": "first-mover advantage",
+    "meaning": "선발자 우위"
+  },
+  {
+    "text": "disruption",
+    "meaning": "파괴적 혁신"
+  },
+  {
+    "text": "positioning statement",
+    "meaning": "포지셔닝 선언문"
+  },
+  {
+    "text": "brand equity",
+    "meaning": "브랜드 자산"
+  },
+  {
+    "text": "brand loyalty",
+    "meaning": "브랜드 충성도"
+  },
+  {
+    "text": "customer lifetime value",
+    "meaning": "고객 생애 가치"
+  },
+  {
+    "text": "churn rate",
+    "meaning": "고객 이탈률"
+  },
+  {
+    "text": "attribution",
+    "meaning": "기여 분석"
+  },
+  {
+    "text": "ROI",
+    "meaning": "투자 수익률"
+  },
+  {
+    "text": "KPI",
+    "meaning": "핵심 성과 지표"
+  },
+  {
+    "text": "metrics",
+    "meaning": "측정 기준"
+  },
+  {
+    "text": "analytics",
+    "meaning": "분석"
+  },
+  {
+    "text": "segmentation",
+    "meaning": "세분화"
+  },
+  {
+    "text": "targeting",
+    "meaning": "표적 설정"
+  },
+  {
+    "text": "anticipate",
+    "meaning": "예상하다"
+  },
+  {
+    "text": "foresee",
+    "meaning": "예견하다"
+  },
+  {
+    "text": "envision",
+    "meaning": "구상하다"
+  },
+  {
+    "text": "contemplate",
+    "meaning": "고려하다"
+  },
+  {
+    "text": "deliberate",
+    "meaning": "심사숙고하다"
+  },
+  {
+    "text": "ponder",
+    "meaning": "심사숙고하다"
+  },
+  {
+    "text": "formulate",
+    "meaning": "수립하다"
+  },
+  {
+    "text": "devise",
+    "meaning": "고안하다"
+  },
+  {
+    "text": "conceive",
+    "meaning": "구상하다"
+  },
+  {
+    "text": "initiate",
+    "meaning": "착수하다"
+  },
+  {
+    "text": "commence",
+    "meaning": "시작하다"
+  },
+  {
+    "text": "inaugurate",
+    "meaning": "개시하다"
+  },
+  {
+    "text": "undertake",
+    "meaning": "착수하다"
+  },
+  {
+    "text": "embark",
+    "meaning": "착수하다"
+  },
+  {
+    "text": "pursue",
+    "meaning": "추구하다"
+  },
+  {
+    "text": "strive",
+    "meaning": "노력하다"
+  },
+  {
+    "text": "endeavor",
+    "meaning": "노력하다"
+  },
+  {
+    "text": "attain",
+    "meaning": "달성하다"
+  },
+  {
+    "text": "realize",
+    "meaning": "실현하다"
+  },
+  {
+    "text": "expound",
+    "meaning": "상세히 설명하다"
+  },
+  {
+    "text": "elaborate",
+    "meaning": "상세히 설명하다"
+  },
+  {
+    "text": "clarify",
+    "meaning": "명확히 하다"
+  },
+  {
+    "text": "elucidate",
+    "meaning": "명확하게 설명하다"
+  },
+  {
+    "text": "articulate",
+    "meaning": "분명히 표현하다"
+  },
+  {
+    "text": "convey",
+    "meaning": "전달하다"
+  },
+  {
+    "text": "communicate",
+    "meaning": "소통하다"
+  },
+  {
+    "text": "disseminate",
+    "meaning": "퍼뜨리다"
+  },
+  {
+    "text": "propagate",
+    "meaning": "전파하다"
+  },
+  {
+    "text": "publicize",
+    "meaning": "공표하다"
+  },
+  {
+    "text": "manifest",
+    "meaning": "분명히 나타내다"
+  },
+  {
+    "text": "exhibit",
+    "meaning": "보이다"
+  },
+  {
+    "text": "attribute to",
+    "meaning": "~의 탓으로 돌리다"
+  },
+  {
+    "text": "commend",
+    "meaning": "칭찬하다"
+  },
+  {
+    "text": "applaud",
+    "meaning": "칭찬하다"
+  },
+  {
+    "text": "denounce",
+    "meaning": "비난하다"
+  },
+  {
+    "text": "condemn",
+    "meaning": "비난하다"
+  },
+  {
+    "text": "reproach",
+    "meaning": "비난하다"
+  },
+  {
+    "text": "censure",
+    "meaning": "비난하다"
+  },
+  {
+    "text": "rebuke",
+    "meaning": "꾸짖다"
+  },
+  {
+    "text": "reprimand",
+    "meaning": "견책하다"
+  },
+  {
+    "text": "admonish",
+    "meaning": "훈계하다"
+  },
+  {
+    "text": "chastise",
+    "meaning": "꾸짖다"
+  },
+  {
+    "text": "vindicate",
+    "meaning": "정당성을 입증하다"
+  },
+  {
+    "text": "exonerate",
+    "meaning": "혐의를 벗기다"
+  },
+  {
+    "text": "absolve",
+    "meaning": "면해주다"
+  },
+  {
+    "text": "acquit",
+    "meaning": "무죄를 선고하다"
+  },
+  {
+    "text": "convict",
+    "meaning": "유죄 선고하다"
+  },
+  {
+    "text": "indict",
+    "meaning": "기소하다"
+  },
+  {
+    "text": "prosecute",
+    "meaning": "기소하다"
+  },
+  {
+    "text": "sue",
+    "meaning": "고소하다"
+  },
+  {
+    "text": "litigate",
+    "meaning": "소송을 제기하다"
+  },
+  {
+    "text": "settle",
+    "meaning": "합의하다"
+  },
+  {
+    "text": "reconcile",
+    "meaning": "화해시키다"
+  },
+  {
+    "text": "compromise",
+    "meaning": "타협하다"
+  },
+  {
+    "text": "relent",
+    "meaning": "누그러지다"
+  },
+  {
+    "text": "appease",
+    "meaning": "달래다"
+  },
+  {
+    "text": "placate",
+    "meaning": "달래다"
+  },
+  {
+    "text": "pacify",
+    "meaning": "진정시키다"
+  },
+  {
+    "text": "incite",
+    "meaning": "선동하다"
+  },
+  {
+    "text": "provoke",
+    "meaning": "유발하다"
+  },
+  {
+    "text": "instigate",
+    "meaning": "선동하다"
+  },
+  {
+    "text": "trigger",
+    "meaning": "촉발하다"
+  },
+  {
+    "text": "prompt",
+    "meaning": "촉발하다"
+  },
+  {
+    "text": "induce",
+    "meaning": "유도하다"
+  },
+  {
+    "text": "compel",
+    "meaning": "강요하다"
+  },
+  {
+    "text": "coerce",
+    "meaning": "강제하다"
+  },
+  {
+    "text": "force",
+    "meaning": "강요하다"
+  },
+  {
+    "text": "oblige",
+    "meaning": "의무를 지우다"
+  },
+  {
+    "text": "dictate",
+    "meaning": "지시하다"
+  },
+  {
+    "text": "decree",
+    "meaning": "명령하다"
+  },
+  {
+    "text": "repeal",
+    "meaning": "폐지하다"
+  },
+  {
+    "text": "revoke",
+    "meaning": "취소하다"
+  },
+  {
+    "text": "annul",
+    "meaning": "무효화하다"
+  },
+  {
+    "text": "invalidate",
+    "meaning": "무효화하다"
+  },
+  {
+    "text": "void",
+    "meaning": "무효로 하다"
+  },
+  {
+    "text": "prosperous",
+    "meaning": "번창하는"
+  },
+  {
+    "text": "affluent",
+    "meaning": "부유한"
+  },
+  {
+    "text": "opulent",
+    "meaning": "부유한"
+  },
+  {
+    "text": "destitute",
+    "meaning": "궁핍한"
+  },
+  {
+    "text": "indigent",
+    "meaning": "가난한"
+  },
+  {
+    "text": "impoverished",
+    "meaning": "빈곤한"
+  },
+  {
+    "text": "dire",
+    "meaning": "심각한"
+  },
+  {
+    "text": "grave",
+    "meaning": "중대한"
+  },
+  {
+    "text": "acute",
+    "meaning": "심각한"
+  },
+  {
+    "text": "chronic",
+    "meaning": "만성의"
+  },
+  {
+    "text": "persistent",
+    "meaning": "지속적인"
+  },
+  {
+    "text": "recurrent",
+    "meaning": "재발하는"
+  },
+  {
+    "text": "sporadic",
+    "meaning": "산발적인"
+  },
+  {
+    "text": "intermittent",
+    "meaning": "간헐적인"
+  },
+  {
+    "text": "seamless",
+    "meaning": "매끄러운"
+  },
+  {
+    "text": "flawless",
+    "meaning": "완벽한"
+  },
+  {
+    "text": "impeccable",
+    "meaning": "흠 잡을 데 없는"
+  },
+  {
+    "text": "immaculate",
+    "meaning": "흠 없는"
+  },
+  {
+    "text": "pristine",
+    "meaning": "원시 상태의"
+  },
+  {
+    "text": "intact",
+    "meaning": "온전한"
+  },
+  {
+    "text": "rigorous",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "stringent",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "austere",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "lenient",
+    "meaning": "관대한"
+  },
+  {
+    "text": "lax",
+    "meaning": "느슨한"
+  },
+  {
+    "text": "permissive",
+    "meaning": "관대한"
+  },
+  {
+    "text": "contentious",
+    "meaning": "논쟁의 여지가 있는"
+  },
+  {
+    "text": "controversial",
+    "meaning": "논란이 많은"
+  },
+  {
+    "text": "disputable",
+    "meaning": "논쟁의 여지가 있는"
+  },
+  {
+    "text": "ambiguous",
+    "meaning": "모호한"
+  },
+  {
+    "text": "vague",
+    "meaning": "모호한"
+  },
+  {
+    "text": "obscure",
+    "meaning": "불명확한"
+  },
+  {
+    "text": "cryptic",
+    "meaning": "수수께끼 같은"
+  },
+  {
+    "text": "explicit",
+    "meaning": "분명한"
+  },
+  {
+    "text": "unequivocal",
+    "meaning": "명백한"
+  },
+  {
+    "text": "unambiguous",
+    "meaning": "분명한"
+  },
+  {
+    "text": "conspicuous",
+    "meaning": "눈에 띄는"
+  },
+  {
+    "text": "evident",
+    "meaning": "분명한"
+  },
+  {
+    "text": "apparent",
+    "meaning": "명백한"
+  },
+  {
+    "text": "inconspicuous",
+    "meaning": "눈에 띄지 않는"
+  },
+  {
+    "text": "subtle",
+    "meaning": "미묘한"
+  },
+  {
+    "text": "nuanced",
+    "meaning": "미묘한"
+  },
+  {
+    "text": "intricate",
+    "meaning": "복잡한"
+  },
+  {
+    "text": "complex",
+    "meaning": "복잡한"
+  },
+  {
+    "text": "convoluted",
+    "meaning": "복잡한"
+  },
+  {
+    "text": "perplexing",
+    "meaning": "당혹스러운"
+  },
+  {
+    "text": "baffling",
+    "meaning": "당혹스러운"
+  },
+  {
+    "text": "plausible",
+    "meaning": "그럴듯한"
+  },
+  {
+    "text": "credible",
+    "meaning": "믿을 수 있는"
+  },
+  {
+    "text": "feasible",
+    "meaning": "실현 가능한"
+  },
+  {
+    "text": "untenable",
+    "meaning": "옹호할 수 없는"
+  },
+  {
+    "text": "implausible",
+    "meaning": "그럴듯하지 않은"
+  },
+  {
+    "text": "dubious",
+    "meaning": "의심스러운"
+  },
+  {
+    "text": "questionable",
+    "meaning": "의심스러운"
+  },
+  {
+    "text": "skeptical",
+    "meaning": "회의적인"
+  },
+  {
+    "text": "speculative",
+    "meaning": "사색적인"
+  },
+  {
+    "text": "hypothetical",
+    "meaning": "가설의"
+  },
+  {
+    "text": "conjectural",
+    "meaning": "추측의"
+  },
+  {
+    "text": "empirical",
+    "meaning": "경험적인"
+  },
+  {
+    "text": "anecdotal",
+    "meaning": "일화의"
+  },
+  {
+    "text": "quantitative",
+    "meaning": "양적인"
+  },
+  {
+    "text": "qualitative",
+    "meaning": "질적인"
+  },
+  {
+    "text": "subjective",
+    "meaning": "주관적인"
+  },
+  {
+    "text": "objective",
+    "meaning": "객관적인"
+  },
+  {
+    "text": "impartial",
+    "meaning": "공평한"
+  },
+  {
+    "text": "biased",
+    "meaning": "편향된"
+  },
+  {
+    "text": "partial",
+    "meaning": "편파적인"
+  },
+  {
+    "text": "unbiased",
+    "meaning": "편견 없는"
+  },
+  {
+    "text": "neutral",
+    "meaning": "중립적인"
+  },
+  {
+    "text": "inert",
+    "meaning": "활동 없는"
+  },
+  {
+    "text": "dormant",
+    "meaning": "휴면 중인"
+  },
+  {
+    "text": "latent",
+    "meaning": "잠재의"
+  },
+  {
+    "text": "active",
+    "meaning": "활동적인"
+  },
+  {
+    "text": "dynamic",
+    "meaning": "역동적인"
+  },
+  {
+    "text": "vigorous",
+    "meaning": "활기찬"
+  },
+  {
+    "text": "robust",
+    "meaning": "튼튼한"
+  },
+  {
+    "text": "resilient",
+    "meaning": "회복력 있는"
+  },
+  {
+    "text": "durable",
+    "meaning": "내구성 있는"
+  },
+  {
+    "text": "fragile",
+    "meaning": "부서지기 쉬운"
+  },
+  {
+    "text": "brittle",
+    "meaning": "부서지기 쉬운"
+  },
+  {
+    "text": "delicate",
+    "meaning": "섬세한"
+  },
+  {
+    "text": "repercussion",
+    "meaning": "영향, 후유증"
+  },
+  {
+    "text": "ramification",
+    "meaning": "결과"
+  },
+  {
+    "text": "aftermath",
+    "meaning": "여파"
+  },
+  {
+    "text": "fallout",
+    "meaning": "여파"
+  },
+  {
+    "text": "predicament",
+    "meaning": "곤경"
+  },
+  {
+    "text": "dilemma",
+    "meaning": "딜레마"
+  },
+  {
+    "text": "plight",
+    "meaning": "곤경"
+  },
+  {
+    "text": "quandary",
+    "meaning": "곤혹"
+  },
+  {
+    "text": "conundrum",
+    "meaning": "난제"
+  },
+  {
+    "text": "paradox",
+    "meaning": "역설"
+  },
+  {
+    "text": "anomaly",
+    "meaning": "변칙"
+  },
+  {
+    "text": "aberration",
+    "meaning": "일탈"
+  },
+  {
+    "text": "phenomenon",
+    "meaning": "현상"
+  },
+  {
+    "text": "manifestation",
+    "meaning": "발현"
+  },
+  {
+    "text": "trajectory",
+    "meaning": "궤적"
+  },
+  {
+    "text": "trend",
+    "meaning": "추세"
+  },
+  {
+    "text": "paradigm",
+    "meaning": "패러다임"
+  },
+  {
+    "text": "doctrine",
+    "meaning": "교리, 원칙"
+  },
+  {
+    "text": "ideology",
+    "meaning": "이념"
+  },
+  {
+    "text": "philosophy",
+    "meaning": "철학"
+  },
+  {
+    "text": "rationale",
+    "meaning": "근거"
+  },
+  {
+    "text": "premise",
+    "meaning": "전제"
+  },
+  {
+    "text": "hypothesis",
+    "meaning": "가설"
+  },
+  {
+    "text": "postulate",
+    "meaning": "가정"
+  },
+  {
+    "text": "axiom",
+    "meaning": "공리"
+  },
+  {
+    "text": "tenet",
+    "meaning": "교의"
+  },
+  {
+    "text": "hallmark",
+    "meaning": "특징"
+  },
+  {
+    "text": "trait",
+    "meaning": "특성"
+  },
+  {
+    "text": "attribute",
+    "meaning": "속성"
+  },
+  {
+    "text": "characteristic",
+    "meaning": "특징"
+  },
+  {
+    "text": "peculiarity",
+    "meaning": "특이성"
+  },
+  {
+    "text": "idiosyncrasy",
+    "meaning": "특유의 성질"
+  },
+  {
+    "text": "eccentricity",
+    "meaning": "기벽"
+  },
+  {
+    "text": "propensity",
+    "meaning": "성향"
+  },
+  {
+    "text": "inclination",
+    "meaning": "성향"
+  },
+  {
+    "text": "predisposition",
+    "meaning": "기질"
+  },
+  {
+    "text": "tendency",
+    "meaning": "경향"
+  },
+  {
+    "text": "disposition",
+    "meaning": "성향"
+  },
+  {
+    "text": "acumen",
+    "meaning": "통찰력"
+  },
+  {
+    "text": "perspicacity",
+    "meaning": "통찰력"
+  },
+  {
+    "text": "ingenuity",
+    "meaning": "독창성"
+  },
+  {
+    "text": "dexterity",
+    "meaning": "능숙함"
+  },
+  {
+    "text": "finesse",
+    "meaning": "재주"
+  },
+  {
+    "text": "expertise",
+    "meaning": "전문 지식"
+  },
+  {
+    "text": "proficiency",
+    "meaning": "숙달"
+  },
+  {
+    "text": "impetus",
+    "meaning": "추진력"
+  },
+  {
+    "text": "catalyst",
+    "meaning": "촉매"
+  },
+  {
+    "text": "instigator",
+    "meaning": "선동자"
+  },
+  {
+    "text": "perpetrator",
+    "meaning": "가해자"
+  },
+  {
+    "text": "recipient",
+    "meaning": "수취인"
+  },
+  {
+    "text": "beneficiary",
+    "meaning": "수혜자"
+  },
+  {
+    "text": "constituent",
+    "meaning": "구성원, 유권자"
+  },
+  {
+    "text": "liaison",
+    "meaning": "연락 담당자"
+  },
+  {
+    "text": "mediator",
+    "meaning": "중재자"
+  },
+  {
+    "text": "intermediary",
+    "meaning": "중개자"
+  },
+  {
+    "text": "emissary",
+    "meaning": "사절"
+  },
+  {
+    "text": "ambassador",
+    "meaning": "대사"
+  },
+  {
+    "text": "inherently",
+    "meaning": "본질적으로"
+  },
+  {
+    "text": "intrinsically",
+    "meaning": "본질적으로"
+  },
+  {
+    "text": "essentially",
+    "meaning": "본질적으로"
+  },
+  {
+    "text": "fundamentally",
+    "meaning": "근본적으로"
+  },
+  {
+    "text": "primarily",
+    "meaning": "주로"
+  },
+  {
+    "text": "predominantly",
+    "meaning": "주로"
+  },
+  {
+    "text": "ostensibly",
+    "meaning": "표면상"
+  },
+  {
+    "text": "apparently",
+    "meaning": "겉으로 보기에"
+  },
+  {
+    "text": "seemingly",
+    "meaning": "보기에는"
+  },
+  {
+    "text": "presumably",
+    "meaning": "추정컨대"
+  },
+  {
+    "text": "invariably",
+    "meaning": "변함없이"
+  },
+  {
+    "text": "inevitably",
+    "meaning": "필연적으로"
+  },
+  {
+    "text": "consequently",
+    "meaning": "결과적으로"
+  },
+  {
+    "text": "subsequently",
+    "meaning": "그 후에"
+  },
+  {
+    "text": "simultaneously",
+    "meaning": "동시에"
+  },
+  {
+    "text": "concurrently",
+    "meaning": "동시에"
+  },
+  {
+    "text": "retroactively",
+    "meaning": "소급하여"
+  },
+  {
+    "text": "prospectively",
+    "meaning": "장래의"
+  },
+  {
+    "text": "temporarily",
+    "meaning": "일시적으로"
+  },
+  {
+    "text": "indefinitely",
+    "meaning": "무기한으로"
+  },
+  {
+    "text": "perpetually",
+    "meaning": "끊임없이"
+  },
+  {
+    "text": "incessantly",
+    "meaning": "끊임없이"
+  },
+  {
+    "text": "sporadically",
+    "meaning": "산발적으로"
+  },
+  {
+    "text": "intermittently",
+    "meaning": "간헐적으로"
+  },
+  {
+    "text": "frequently",
+    "meaning": "자주"
+  },
+  {
+    "text": "habitually",
+    "meaning": "습관적으로"
+  },
+  {
+    "text": "scarcely",
+    "meaning": "거의 ~않는"
+  },
+  {
+    "text": "seldom",
+    "meaning": "좀처럼 ~않는"
+  }
+]

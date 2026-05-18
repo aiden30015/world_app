@@ -5,8 +5,12 @@ import 'models.dart';
 import 'screens/language_selection_page.dart';
 import 'screens/wordbook_page.dart';
 import 'storage.dart';
+import 'theme.dart';
+import 'word_bank.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await WordBank.load();
   runApp(const WordApp());
 }
 
@@ -17,10 +21,7 @@ class WordApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Word App',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
+      theme: buildAppTheme(),
       home: const _StartupGate(),
     );
   }

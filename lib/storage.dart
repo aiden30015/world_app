@@ -2,6 +2,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'data.dart';
 import 'models.dart';
+import 'word_bank.dart';
 
 const String prefLangKey = 'selected_language';
 const String prefCategoryKey = 'selected_category';
@@ -101,7 +102,7 @@ class ToeicProfile {
   int get totalDays =>
       _dateOnly(examDate).difference(_dateOnly(startDate)).inDays;
 
-  List<Word> get allWords => toeicWordsByLevel[level] ?? const [];
+  List<Word> get allWords => WordBank.forToeic(level);
 
   List<Word> _wordsForDay(int day) {
     final words = allWords;

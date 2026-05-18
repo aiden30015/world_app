@@ -1,0 +1,2490 @@
+[
+  {
+    "text": "hello",
+    "meaning": "안녕"
+  },
+  {
+    "text": "thank you",
+    "meaning": "감사합니다"
+  },
+  {
+    "text": "please",
+    "meaning": "부탁합니다"
+  },
+  {
+    "text": "sorry",
+    "meaning": "죄송합니다"
+  },
+  {
+    "text": "yes",
+    "meaning": "예"
+  },
+  {
+    "text": "no",
+    "meaning": "아니오"
+  },
+  {
+    "text": "day",
+    "meaning": "날, 하루"
+  },
+  {
+    "text": "time",
+    "meaning": "시간"
+  },
+  {
+    "text": "work",
+    "meaning": "일하다"
+  },
+  {
+    "text": "home",
+    "meaning": "집"
+  },
+  {
+    "text": "book",
+    "meaning": "책"
+  },
+  {
+    "text": "phone",
+    "meaning": "전화"
+  },
+  {
+    "text": "name",
+    "meaning": "이름"
+  },
+  {
+    "text": "year",
+    "meaning": "년, 해"
+  },
+  {
+    "text": "month",
+    "meaning": "월, 달"
+  },
+  {
+    "text": "week",
+    "meaning": "주"
+  },
+  {
+    "text": "today",
+    "meaning": "오늘"
+  },
+  {
+    "text": "tomorrow",
+    "meaning": "내일"
+  },
+  {
+    "text": "yesterday",
+    "meaning": "어제"
+  },
+  {
+    "text": "morning",
+    "meaning": "아침"
+  },
+  {
+    "text": "evening",
+    "meaning": "저녁"
+  },
+  {
+    "text": "food",
+    "meaning": "음식"
+  },
+  {
+    "text": "water",
+    "meaning": "물"
+  },
+  {
+    "text": "money",
+    "meaning": "돈"
+  },
+  {
+    "text": "friend",
+    "meaning": "친구"
+  },
+  {
+    "text": "people",
+    "meaning": "사람들"
+  },
+  {
+    "text": "person",
+    "meaning": "사람"
+  },
+  {
+    "text": "man",
+    "meaning": "남자"
+  },
+  {
+    "text": "woman",
+    "meaning": "여자"
+  },
+  {
+    "text": "child",
+    "meaning": "아이"
+  },
+  {
+    "text": "family",
+    "meaning": "가족"
+  },
+  {
+    "text": "country",
+    "meaning": "나라"
+  },
+  {
+    "text": "city",
+    "meaning": "도시"
+  },
+  {
+    "text": "house",
+    "meaning": "집, 주택"
+  },
+  {
+    "text": "room",
+    "meaning": "방"
+  },
+  {
+    "text": "school",
+    "meaning": "학교"
+  },
+  {
+    "text": "student",
+    "meaning": "학생"
+  },
+  {
+    "text": "teacher",
+    "meaning": "선생님"
+  },
+  {
+    "text": "class",
+    "meaning": "수업"
+  },
+  {
+    "text": "study",
+    "meaning": "공부하다"
+  },
+  {
+    "text": "happy",
+    "meaning": "행복한"
+  },
+  {
+    "text": "sad",
+    "meaning": "슬픈"
+  },
+  {
+    "text": "good",
+    "meaning": "좋은"
+  },
+  {
+    "text": "bad",
+    "meaning": "나쁜"
+  },
+  {
+    "text": "big",
+    "meaning": "큰"
+  },
+  {
+    "text": "small",
+    "meaning": "작은"
+  },
+  {
+    "text": "new",
+    "meaning": "새로운"
+  },
+  {
+    "text": "old",
+    "meaning": "오래된, 늙은"
+  },
+  {
+    "text": "hot",
+    "meaning": "뜨거운"
+  },
+  {
+    "text": "cold",
+    "meaning": "차가운"
+  },
+  {
+    "text": "car",
+    "meaning": "자동차"
+  },
+  {
+    "text": "bus",
+    "meaning": "버스"
+  },
+  {
+    "text": "train",
+    "meaning": "기차"
+  },
+  {
+    "text": "plane",
+    "meaning": "비행기"
+  },
+  {
+    "text": "road",
+    "meaning": "도로"
+  },
+  {
+    "text": "door",
+    "meaning": "문"
+  },
+  {
+    "text": "window",
+    "meaning": "창문"
+  },
+  {
+    "text": "key",
+    "meaning": "열쇠"
+  },
+  {
+    "text": "light",
+    "meaning": "빛, 가벼운"
+  },
+  {
+    "text": "lamp",
+    "meaning": "전등"
+  },
+  {
+    "text": "table",
+    "meaning": "탁자"
+  },
+  {
+    "text": "chair",
+    "meaning": "의자"
+  },
+  {
+    "text": "bed",
+    "meaning": "침대"
+  },
+  {
+    "text": "desk",
+    "meaning": "책상"
+  },
+  {
+    "text": "sofa",
+    "meaning": "소파"
+  },
+  {
+    "text": "dish",
+    "meaning": "접시, 요리"
+  },
+  {
+    "text": "cup",
+    "meaning": "컵"
+  },
+  {
+    "text": "plate",
+    "meaning": "접시"
+  },
+  {
+    "text": "fork",
+    "meaning": "포크"
+  },
+  {
+    "text": "spoon",
+    "meaning": "숟가락"
+  },
+  {
+    "text": "buy",
+    "meaning": "사다"
+  },
+  {
+    "text": "sell",
+    "meaning": "팔다"
+  },
+  {
+    "text": "give",
+    "meaning": "주다"
+  },
+  {
+    "text": "take",
+    "meaning": "가져가다"
+  },
+  {
+    "text": "get",
+    "meaning": "얻다"
+  },
+  {
+    "text": "come",
+    "meaning": "오다"
+  },
+  {
+    "text": "go",
+    "meaning": "가다"
+  },
+  {
+    "text": "see",
+    "meaning": "보다"
+  },
+  {
+    "text": "look",
+    "meaning": "보다"
+  },
+  {
+    "text": "hear",
+    "meaning": "듣다"
+  },
+  {
+    "text": "speak",
+    "meaning": "말하다"
+  },
+  {
+    "text": "say",
+    "meaning": "말하다"
+  },
+  {
+    "text": "tell",
+    "meaning": "전하다"
+  },
+  {
+    "text": "ask",
+    "meaning": "묻다"
+  },
+  {
+    "text": "answer",
+    "meaning": "대답하다"
+  },
+  {
+    "text": "write",
+    "meaning": "쓰다"
+  },
+  {
+    "text": "read",
+    "meaning": "읽다"
+  },
+  {
+    "text": "learn",
+    "meaning": "배우다"
+  },
+  {
+    "text": "teach",
+    "meaning": "가르치다"
+  },
+  {
+    "text": "know",
+    "meaning": "알다"
+  },
+  {
+    "text": "love",
+    "meaning": "사랑하다"
+  },
+  {
+    "text": "like",
+    "meaning": "좋아하다"
+  },
+  {
+    "text": "want",
+    "meaning": "원하다"
+  },
+  {
+    "text": "need",
+    "meaning": "필요하다"
+  },
+  {
+    "text": "hope",
+    "meaning": "바라다"
+  },
+  {
+    "text": "can",
+    "meaning": "할 수 있다"
+  },
+  {
+    "text": "must",
+    "meaning": "해야 한다"
+  },
+  {
+    "text": "will",
+    "meaning": "할 것이다"
+  },
+  {
+    "text": "should",
+    "meaning": "해야 한다"
+  },
+  {
+    "text": "may",
+    "meaning": "할지도 모른다"
+  },
+  {
+    "text": "early",
+    "meaning": "이른"
+  },
+  {
+    "text": "late",
+    "meaning": "늦은"
+  },
+  {
+    "text": "hour",
+    "meaning": "시간"
+  },
+  {
+    "text": "minute",
+    "meaning": "분"
+  },
+  {
+    "text": "second",
+    "meaning": "초, 두 번째"
+  },
+  {
+    "text": "fast",
+    "meaning": "빠른"
+  },
+  {
+    "text": "slow",
+    "meaning": "느린"
+  },
+  {
+    "text": "easy",
+    "meaning": "쉬운"
+  },
+  {
+    "text": "hard",
+    "meaning": "어려운"
+  },
+  {
+    "text": "right",
+    "meaning": "옳은, 오른쪽"
+  },
+  {
+    "text": "wrong",
+    "meaning": "틀린"
+  },
+  {
+    "text": "left",
+    "meaning": "왼쪽"
+  },
+  {
+    "text": "near",
+    "meaning": "가까운"
+  },
+  {
+    "text": "far",
+    "meaning": "먼"
+  },
+  {
+    "text": "front",
+    "meaning": "앞"
+  },
+  {
+    "text": "back",
+    "meaning": "뒤"
+  },
+  {
+    "text": "top",
+    "meaning": "꼭대기"
+  },
+  {
+    "text": "bottom",
+    "meaning": "바닥"
+  },
+  {
+    "text": "first",
+    "meaning": "첫 번째"
+  },
+  {
+    "text": "last",
+    "meaning": "마지막"
+  },
+  {
+    "text": "next",
+    "meaning": "다음"
+  },
+  {
+    "text": "now",
+    "meaning": "지금"
+  },
+  {
+    "text": "then",
+    "meaning": "그때"
+  },
+  {
+    "text": "always",
+    "meaning": "항상"
+  },
+  {
+    "text": "never",
+    "meaning": "결코 ~않다"
+  },
+  {
+    "text": "often",
+    "meaning": "자주"
+  },
+  {
+    "text": "sometimes",
+    "meaning": "가끔"
+  },
+  {
+    "text": "usually",
+    "meaning": "보통"
+  },
+  {
+    "text": "really",
+    "meaning": "정말"
+  },
+  {
+    "text": "very",
+    "meaning": "매우"
+  },
+  {
+    "text": "much",
+    "meaning": "많은"
+  },
+  {
+    "text": "many",
+    "meaning": "많은"
+  },
+  {
+    "text": "little",
+    "meaning": "작은, 거의 없는"
+  },
+  {
+    "text": "few",
+    "meaning": "거의 없는"
+  },
+  {
+    "text": "more",
+    "meaning": "더 많은"
+  },
+  {
+    "text": "less",
+    "meaning": "더 적은"
+  },
+  {
+    "text": "every",
+    "meaning": "모든"
+  },
+  {
+    "text": "some",
+    "meaning": "약간의"
+  },
+  {
+    "text": "any",
+    "meaning": "어떤"
+  },
+  {
+    "text": "all",
+    "meaning": "모든"
+  },
+  {
+    "text": "none",
+    "meaning": "아무것도"
+  },
+  {
+    "text": "again",
+    "meaning": "다시"
+  },
+  {
+    "text": "also",
+    "meaning": "또한"
+  },
+  {
+    "text": "too",
+    "meaning": "또한, 너무"
+  },
+  {
+    "text": "only",
+    "meaning": "오직"
+  },
+  {
+    "text": "just",
+    "meaning": "단지"
+  },
+  {
+    "text": "head",
+    "meaning": "머리"
+  },
+  {
+    "text": "face",
+    "meaning": "얼굴"
+  },
+  {
+    "text": "eye",
+    "meaning": "눈"
+  },
+  {
+    "text": "ear",
+    "meaning": "귀"
+  },
+  {
+    "text": "nose",
+    "meaning": "코"
+  },
+  {
+    "text": "mouth",
+    "meaning": "입"
+  },
+  {
+    "text": "tooth",
+    "meaning": "치아"
+  },
+  {
+    "text": "tongue",
+    "meaning": "혀"
+  },
+  {
+    "text": "lip",
+    "meaning": "입술"
+  },
+  {
+    "text": "hair",
+    "meaning": "머리카락"
+  },
+  {
+    "text": "neck",
+    "meaning": "목"
+  },
+  {
+    "text": "shoulder",
+    "meaning": "어깨"
+  },
+  {
+    "text": "arm",
+    "meaning": "팔"
+  },
+  {
+    "text": "hand",
+    "meaning": "손"
+  },
+  {
+    "text": "finger",
+    "meaning": "손가락"
+  },
+  {
+    "text": "leg",
+    "meaning": "다리"
+  },
+  {
+    "text": "foot",
+    "meaning": "발"
+  },
+  {
+    "text": "toe",
+    "meaning": "발가락"
+  },
+  {
+    "text": "knee",
+    "meaning": "무릎"
+  },
+  {
+    "text": "chest",
+    "meaning": "가슴"
+  },
+  {
+    "text": "stomach",
+    "meaning": "배"
+  },
+  {
+    "text": "heart",
+    "meaning": "심장"
+  },
+  {
+    "text": "skin",
+    "meaning": "피부"
+  },
+  {
+    "text": "bone",
+    "meaning": "뼈"
+  },
+  {
+    "text": "father",
+    "meaning": "아버지"
+  },
+  {
+    "text": "mother",
+    "meaning": "어머니"
+  },
+  {
+    "text": "dad",
+    "meaning": "아빠"
+  },
+  {
+    "text": "mom",
+    "meaning": "엄마"
+  },
+  {
+    "text": "brother",
+    "meaning": "남자 형제"
+  },
+  {
+    "text": "sister",
+    "meaning": "여자 형제"
+  },
+  {
+    "text": "son",
+    "meaning": "아들"
+  },
+  {
+    "text": "daughter",
+    "meaning": "딸"
+  },
+  {
+    "text": "parent",
+    "meaning": "부모"
+  },
+  {
+    "text": "husband",
+    "meaning": "남편"
+  },
+  {
+    "text": "wife",
+    "meaning": "아내"
+  },
+  {
+    "text": "baby",
+    "meaning": "아기"
+  },
+  {
+    "text": "uncle",
+    "meaning": "삼촌"
+  },
+  {
+    "text": "aunt",
+    "meaning": "이모"
+  },
+  {
+    "text": "cousin",
+    "meaning": "사촌"
+  },
+  {
+    "text": "grandfather",
+    "meaning": "할아버지"
+  },
+  {
+    "text": "grandmother",
+    "meaning": "할머니"
+  },
+  {
+    "text": "grandparent",
+    "meaning": "조부모"
+  },
+  {
+    "text": "nephew",
+    "meaning": "조카(남)"
+  },
+  {
+    "text": "niece",
+    "meaning": "조카(여)"
+  },
+  {
+    "text": "red",
+    "meaning": "빨강"
+  },
+  {
+    "text": "blue",
+    "meaning": "파랑"
+  },
+  {
+    "text": "green",
+    "meaning": "초록"
+  },
+  {
+    "text": "yellow",
+    "meaning": "노랑"
+  },
+  {
+    "text": "black",
+    "meaning": "검정"
+  },
+  {
+    "text": "white",
+    "meaning": "흰색"
+  },
+  {
+    "text": "orange",
+    "meaning": "주황"
+  },
+  {
+    "text": "purple",
+    "meaning": "보라"
+  },
+  {
+    "text": "pink",
+    "meaning": "분홍"
+  },
+  {
+    "text": "brown",
+    "meaning": "갈색"
+  },
+  {
+    "text": "gray",
+    "meaning": "회색"
+  },
+  {
+    "text": "color",
+    "meaning": "색상"
+  },
+  {
+    "text": "one",
+    "meaning": "하나"
+  },
+  {
+    "text": "two",
+    "meaning": "둘"
+  },
+  {
+    "text": "three",
+    "meaning": "셋"
+  },
+  {
+    "text": "four",
+    "meaning": "넷"
+  },
+  {
+    "text": "five",
+    "meaning": "다섯"
+  },
+  {
+    "text": "six",
+    "meaning": "여섯"
+  },
+  {
+    "text": "seven",
+    "meaning": "일곱"
+  },
+  {
+    "text": "eight",
+    "meaning": "여덟"
+  },
+  {
+    "text": "nine",
+    "meaning": "아홉"
+  },
+  {
+    "text": "ten",
+    "meaning": "열"
+  },
+  {
+    "text": "eleven",
+    "meaning": "열하나"
+  },
+  {
+    "text": "twelve",
+    "meaning": "열둘"
+  },
+  {
+    "text": "thirteen",
+    "meaning": "열셋"
+  },
+  {
+    "text": "fourteen",
+    "meaning": "열넷"
+  },
+  {
+    "text": "fifteen",
+    "meaning": "열다섯"
+  },
+  {
+    "text": "sixteen",
+    "meaning": "열여섯"
+  },
+  {
+    "text": "seventeen",
+    "meaning": "열일곱"
+  },
+  {
+    "text": "eighteen",
+    "meaning": "열여덟"
+  },
+  {
+    "text": "nineteen",
+    "meaning": "열아홉"
+  },
+  {
+    "text": "twenty",
+    "meaning": "스물"
+  },
+  {
+    "text": "thirty",
+    "meaning": "서른"
+  },
+  {
+    "text": "forty",
+    "meaning": "마흔"
+  },
+  {
+    "text": "fifty",
+    "meaning": "쉰"
+  },
+  {
+    "text": "sixty",
+    "meaning": "예순"
+  },
+  {
+    "text": "seventy",
+    "meaning": "일흔"
+  },
+  {
+    "text": "eighty",
+    "meaning": "여든"
+  },
+  {
+    "text": "ninety",
+    "meaning": "아흔"
+  },
+  {
+    "text": "hundred",
+    "meaning": "백"
+  },
+  {
+    "text": "thousand",
+    "meaning": "천"
+  },
+  {
+    "text": "million",
+    "meaning": "백만"
+  },
+  {
+    "text": "zero",
+    "meaning": "영"
+  },
+  {
+    "text": "half",
+    "meaning": "절반"
+  },
+  {
+    "text": "third",
+    "meaning": "셋째"
+  },
+  {
+    "text": "Monday",
+    "meaning": "월요일"
+  },
+  {
+    "text": "Tuesday",
+    "meaning": "화요일"
+  },
+  {
+    "text": "Wednesday",
+    "meaning": "수요일"
+  },
+  {
+    "text": "Thursday",
+    "meaning": "목요일"
+  },
+  {
+    "text": "Friday",
+    "meaning": "금요일"
+  },
+  {
+    "text": "Saturday",
+    "meaning": "토요일"
+  },
+  {
+    "text": "Sunday",
+    "meaning": "일요일"
+  },
+  {
+    "text": "January",
+    "meaning": "1월"
+  },
+  {
+    "text": "February",
+    "meaning": "2월"
+  },
+  {
+    "text": "March",
+    "meaning": "3월"
+  },
+  {
+    "text": "April",
+    "meaning": "4월"
+  },
+  {
+    "text": "May",
+    "meaning": "5월"
+  },
+  {
+    "text": "June",
+    "meaning": "6월"
+  },
+  {
+    "text": "July",
+    "meaning": "7월"
+  },
+  {
+    "text": "August",
+    "meaning": "8월"
+  },
+  {
+    "text": "September",
+    "meaning": "9월"
+  },
+  {
+    "text": "October",
+    "meaning": "10월"
+  },
+  {
+    "text": "November",
+    "meaning": "11월"
+  },
+  {
+    "text": "December",
+    "meaning": "12월"
+  },
+  {
+    "text": "weekend",
+    "meaning": "주말"
+  },
+  {
+    "text": "weekday",
+    "meaning": "평일"
+  },
+  {
+    "text": "night",
+    "meaning": "밤"
+  },
+  {
+    "text": "afternoon",
+    "meaning": "오후"
+  },
+  {
+    "text": "noon",
+    "meaning": "정오"
+  },
+  {
+    "text": "midnight",
+    "meaning": "자정"
+  },
+  {
+    "text": "rain",
+    "meaning": "비"
+  },
+  {
+    "text": "snow",
+    "meaning": "눈"
+  },
+  {
+    "text": "sun",
+    "meaning": "해"
+  },
+  {
+    "text": "moon",
+    "meaning": "달"
+  },
+  {
+    "text": "star",
+    "meaning": "별"
+  },
+  {
+    "text": "sky",
+    "meaning": "하늘"
+  },
+  {
+    "text": "cloud",
+    "meaning": "구름"
+  },
+  {
+    "text": "wind",
+    "meaning": "바람"
+  },
+  {
+    "text": "storm",
+    "meaning": "폭풍"
+  },
+  {
+    "text": "ice",
+    "meaning": "얼음"
+  },
+  {
+    "text": "fire",
+    "meaning": "불"
+  },
+  {
+    "text": "earth",
+    "meaning": "땅, 지구"
+  },
+  {
+    "text": "sea",
+    "meaning": "바다"
+  },
+  {
+    "text": "ocean",
+    "meaning": "대양"
+  },
+  {
+    "text": "river",
+    "meaning": "강"
+  },
+  {
+    "text": "lake",
+    "meaning": "호수"
+  },
+  {
+    "text": "mountain",
+    "meaning": "산"
+  },
+  {
+    "text": "hill",
+    "meaning": "언덕"
+  },
+  {
+    "text": "forest",
+    "meaning": "숲"
+  },
+  {
+    "text": "tree",
+    "meaning": "나무"
+  },
+  {
+    "text": "flower",
+    "meaning": "꽃"
+  },
+  {
+    "text": "grass",
+    "meaning": "잔디"
+  },
+  {
+    "text": "leaf",
+    "meaning": "잎"
+  },
+  {
+    "text": "plant",
+    "meaning": "식물"
+  },
+  {
+    "text": "rock",
+    "meaning": "바위"
+  },
+  {
+    "text": "stone",
+    "meaning": "돌"
+  },
+  {
+    "text": "sand",
+    "meaning": "모래"
+  },
+  {
+    "text": "beach",
+    "meaning": "해변"
+  },
+  {
+    "text": "island",
+    "meaning": "섬"
+  },
+  {
+    "text": "field",
+    "meaning": "들판"
+  },
+  {
+    "text": "warm",
+    "meaning": "따뜻한"
+  },
+  {
+    "text": "cool",
+    "meaning": "시원한"
+  },
+  {
+    "text": "sunny",
+    "meaning": "햇살이 비치는"
+  },
+  {
+    "text": "rainy",
+    "meaning": "비 오는"
+  },
+  {
+    "text": "snowy",
+    "meaning": "눈 오는"
+  },
+  {
+    "text": "cloudy",
+    "meaning": "흐린"
+  },
+  {
+    "text": "windy",
+    "meaning": "바람 부는"
+  },
+  {
+    "text": "wet",
+    "meaning": "젖은"
+  },
+  {
+    "text": "dry",
+    "meaning": "마른"
+  },
+  {
+    "text": "dog",
+    "meaning": "개"
+  },
+  {
+    "text": "cat",
+    "meaning": "고양이"
+  },
+  {
+    "text": "bird",
+    "meaning": "새"
+  },
+  {
+    "text": "fish",
+    "meaning": "물고기"
+  },
+  {
+    "text": "horse",
+    "meaning": "말"
+  },
+  {
+    "text": "pig",
+    "meaning": "돼지"
+  },
+  {
+    "text": "cow",
+    "meaning": "소"
+  },
+  {
+    "text": "sheep",
+    "meaning": "양"
+  },
+  {
+    "text": "chicken",
+    "meaning": "닭"
+  },
+  {
+    "text": "rabbit",
+    "meaning": "토끼"
+  },
+  {
+    "text": "mouse",
+    "meaning": "쥐"
+  },
+  {
+    "text": "duck",
+    "meaning": "오리"
+  },
+  {
+    "text": "lion",
+    "meaning": "사자"
+  },
+  {
+    "text": "tiger",
+    "meaning": "호랑이"
+  },
+  {
+    "text": "bear",
+    "meaning": "곰"
+  },
+  {
+    "text": "elephant",
+    "meaning": "코끼리"
+  },
+  {
+    "text": "monkey",
+    "meaning": "원숭이"
+  },
+  {
+    "text": "snake",
+    "meaning": "뱀"
+  },
+  {
+    "text": "frog",
+    "meaning": "개구리"
+  },
+  {
+    "text": "insect",
+    "meaning": "곤충"
+  },
+  {
+    "text": "bee",
+    "meaning": "벌"
+  },
+  {
+    "text": "butterfly",
+    "meaning": "나비"
+  },
+  {
+    "text": "animal",
+    "meaning": "동물"
+  },
+  {
+    "text": "pet",
+    "meaning": "반려동물"
+  },
+  {
+    "text": "rice",
+    "meaning": "쌀, 밥"
+  },
+  {
+    "text": "bread",
+    "meaning": "빵"
+  },
+  {
+    "text": "meat",
+    "meaning": "고기"
+  },
+  {
+    "text": "vegetable",
+    "meaning": "채소"
+  },
+  {
+    "text": "fruit",
+    "meaning": "과일"
+  },
+  {
+    "text": "apple",
+    "meaning": "사과"
+  },
+  {
+    "text": "banana",
+    "meaning": "바나나"
+  },
+  {
+    "text": "grape",
+    "meaning": "포도"
+  },
+  {
+    "text": "strawberry",
+    "meaning": "딸기"
+  },
+  {
+    "text": "tomato",
+    "meaning": "토마토"
+  },
+  {
+    "text": "potato",
+    "meaning": "감자"
+  },
+  {
+    "text": "onion",
+    "meaning": "양파"
+  },
+  {
+    "text": "carrot",
+    "meaning": "당근"
+  },
+  {
+    "text": "egg",
+    "meaning": "달걀"
+  },
+  {
+    "text": "milk",
+    "meaning": "우유"
+  },
+  {
+    "text": "cheese",
+    "meaning": "치즈"
+  },
+  {
+    "text": "butter",
+    "meaning": "버터"
+  },
+  {
+    "text": "sugar",
+    "meaning": "설탕"
+  },
+  {
+    "text": "salt",
+    "meaning": "소금"
+  },
+  {
+    "text": "pepper",
+    "meaning": "후추"
+  },
+  {
+    "text": "oil",
+    "meaning": "기름"
+  },
+  {
+    "text": "soup",
+    "meaning": "수프"
+  },
+  {
+    "text": "salad",
+    "meaning": "샐러드"
+  },
+  {
+    "text": "cake",
+    "meaning": "케이크"
+  },
+  {
+    "text": "cookie",
+    "meaning": "쿠키"
+  },
+  {
+    "text": "chocolate",
+    "meaning": "초콜릿"
+  },
+  {
+    "text": "ice cream",
+    "meaning": "아이스크림"
+  },
+  {
+    "text": "coffee",
+    "meaning": "커피"
+  },
+  {
+    "text": "tea",
+    "meaning": "차"
+  },
+  {
+    "text": "juice",
+    "meaning": "주스"
+  },
+  {
+    "text": "beer",
+    "meaning": "맥주"
+  },
+  {
+    "text": "wine",
+    "meaning": "와인"
+  },
+  {
+    "text": "breakfast",
+    "meaning": "아침식사"
+  },
+  {
+    "text": "lunch",
+    "meaning": "점심식사"
+  },
+  {
+    "text": "dinner",
+    "meaning": "저녁식사"
+  },
+  {
+    "text": "snack",
+    "meaning": "간식"
+  },
+  {
+    "text": "menu",
+    "meaning": "메뉴"
+  },
+  {
+    "text": "drink",
+    "meaning": "마시다, 음료"
+  },
+  {
+    "text": "eat",
+    "meaning": "먹다"
+  },
+  {
+    "text": "cook",
+    "meaning": "요리하다"
+  },
+  {
+    "text": "taste",
+    "meaning": "맛"
+  },
+  {
+    "text": "delicious",
+    "meaning": "맛있는"
+  },
+  {
+    "text": "shirt",
+    "meaning": "셔츠"
+  },
+  {
+    "text": "pants",
+    "meaning": "바지"
+  },
+  {
+    "text": "dress",
+    "meaning": "원피스"
+  },
+  {
+    "text": "skirt",
+    "meaning": "치마"
+  },
+  {
+    "text": "coat",
+    "meaning": "코트"
+  },
+  {
+    "text": "jacket",
+    "meaning": "재킷"
+  },
+  {
+    "text": "shoe",
+    "meaning": "신발"
+  },
+  {
+    "text": "sock",
+    "meaning": "양말"
+  },
+  {
+    "text": "hat",
+    "meaning": "모자"
+  },
+  {
+    "text": "cap",
+    "meaning": "모자"
+  },
+  {
+    "text": "scarf",
+    "meaning": "목도리"
+  },
+  {
+    "text": "glove",
+    "meaning": "장갑"
+  },
+  {
+    "text": "belt",
+    "meaning": "허리띠"
+  },
+  {
+    "text": "bag",
+    "meaning": "가방"
+  },
+  {
+    "text": "glasses",
+    "meaning": "안경"
+  },
+  {
+    "text": "watch",
+    "meaning": "시계"
+  },
+  {
+    "text": "ring",
+    "meaning": "반지"
+  },
+  {
+    "text": "clothes",
+    "meaning": "옷"
+  },
+  {
+    "text": "wear",
+    "meaning": "입다"
+  },
+  {
+    "text": "size",
+    "meaning": "크기"
+  },
+  {
+    "text": "do",
+    "meaning": "하다"
+  },
+  {
+    "text": "make",
+    "meaning": "만들다"
+  },
+  {
+    "text": "put",
+    "meaning": "두다"
+  },
+  {
+    "text": "call",
+    "meaning": "부르다, 전화하다"
+  },
+  {
+    "text": "try",
+    "meaning": "시도하다"
+  },
+  {
+    "text": "use",
+    "meaning": "사용하다"
+  },
+  {
+    "text": "find",
+    "meaning": "찾다"
+  },
+  {
+    "text": "help",
+    "meaning": "돕다"
+  },
+  {
+    "text": "run",
+    "meaning": "달리다"
+  },
+  {
+    "text": "walk",
+    "meaning": "걷다"
+  },
+  {
+    "text": "jump",
+    "meaning": "뛰다"
+  },
+  {
+    "text": "swim",
+    "meaning": "수영하다"
+  },
+  {
+    "text": "sit",
+    "meaning": "앉다"
+  },
+  {
+    "text": "stand",
+    "meaning": "서다"
+  },
+  {
+    "text": "sleep",
+    "meaning": "자다"
+  },
+  {
+    "text": "wake",
+    "meaning": "깨다"
+  },
+  {
+    "text": "dream",
+    "meaning": "꿈꾸다"
+  },
+  {
+    "text": "rest",
+    "meaning": "쉬다"
+  },
+  {
+    "text": "play",
+    "meaning": "놀다, 연주하다"
+  },
+  {
+    "text": "listen",
+    "meaning": "듣다"
+  },
+  {
+    "text": "touch",
+    "meaning": "만지다"
+  },
+  {
+    "text": "feel",
+    "meaning": "느끼다"
+  },
+  {
+    "text": "think",
+    "meaning": "생각하다"
+  },
+  {
+    "text": "remember",
+    "meaning": "기억하다"
+  },
+  {
+    "text": "forget",
+    "meaning": "잊다"
+  },
+  {
+    "text": "understand",
+    "meaning": "이해하다"
+  },
+  {
+    "text": "believe",
+    "meaning": "믿다"
+  },
+  {
+    "text": "agree",
+    "meaning": "동의하다"
+  },
+  {
+    "text": "smile",
+    "meaning": "미소짓다"
+  },
+  {
+    "text": "laugh",
+    "meaning": "웃다"
+  },
+  {
+    "text": "cry",
+    "meaning": "울다"
+  },
+  {
+    "text": "sing",
+    "meaning": "노래하다"
+  },
+  {
+    "text": "dance",
+    "meaning": "춤추다"
+  },
+  {
+    "text": "draw",
+    "meaning": "그리다"
+  },
+  {
+    "text": "paint",
+    "meaning": "칠하다"
+  },
+  {
+    "text": "build",
+    "meaning": "짓다"
+  },
+  {
+    "text": "break",
+    "meaning": "깨다"
+  },
+  {
+    "text": "fix",
+    "meaning": "고치다"
+  },
+  {
+    "text": "clean",
+    "meaning": "청소하다"
+  },
+  {
+    "text": "wash",
+    "meaning": "씻다"
+  },
+  {
+    "text": "cut",
+    "meaning": "자르다"
+  },
+  {
+    "text": "push",
+    "meaning": "밀다"
+  },
+  {
+    "text": "pull",
+    "meaning": "당기다"
+  },
+  {
+    "text": "throw",
+    "meaning": "던지다"
+  },
+  {
+    "text": "catch",
+    "meaning": "잡다"
+  },
+  {
+    "text": "carry",
+    "meaning": "운반하다"
+  },
+  {
+    "text": "hold",
+    "meaning": "잡다"
+  },
+  {
+    "text": "drop",
+    "meaning": "떨어뜨리다"
+  },
+  {
+    "text": "turn",
+    "meaning": "돌다"
+  },
+  {
+    "text": "move",
+    "meaning": "움직이다"
+  },
+  {
+    "text": "stop",
+    "meaning": "멈추다"
+  },
+  {
+    "text": "wait",
+    "meaning": "기다리다"
+  },
+  {
+    "text": "stay",
+    "meaning": "머무르다"
+  },
+  {
+    "text": "live",
+    "meaning": "살다"
+  },
+  {
+    "text": "die",
+    "meaning": "죽다"
+  },
+  {
+    "text": "grow",
+    "meaning": "자라다"
+  },
+  {
+    "text": "change",
+    "meaning": "변하다"
+  },
+  {
+    "text": "begin",
+    "meaning": "시작하다"
+  },
+  {
+    "text": "end",
+    "meaning": "끝나다"
+  },
+  {
+    "text": "travel",
+    "meaning": "여행하다"
+  },
+  {
+    "text": "drive",
+    "meaning": "운전하다"
+  },
+  {
+    "text": "ride",
+    "meaning": "타다"
+  },
+  {
+    "text": "fly",
+    "meaning": "날다"
+  },
+  {
+    "text": "arrive",
+    "meaning": "도착하다"
+  },
+  {
+    "text": "leave",
+    "meaning": "떠나다"
+  },
+  {
+    "text": "return",
+    "meaning": "돌아오다"
+  },
+  {
+    "text": "enter",
+    "meaning": "들어가다"
+  },
+  {
+    "text": "exit",
+    "meaning": "나가다"
+  },
+  {
+    "text": "beautiful",
+    "meaning": "아름다운"
+  },
+  {
+    "text": "ugly",
+    "meaning": "못생긴"
+  },
+  {
+    "text": "pretty",
+    "meaning": "예쁜"
+  },
+  {
+    "text": "kind",
+    "meaning": "친절한"
+  },
+  {
+    "text": "nice",
+    "meaning": "좋은"
+  },
+  {
+    "text": "mean",
+    "meaning": "심술궂은"
+  },
+  {
+    "text": "rich",
+    "meaning": "부유한"
+  },
+  {
+    "text": "poor",
+    "meaning": "가난한"
+  },
+  {
+    "text": "young",
+    "meaning": "젊은"
+  },
+  {
+    "text": "tall",
+    "meaning": "키 큰"
+  },
+  {
+    "text": "short",
+    "meaning": "키 작은"
+  },
+  {
+    "text": "long",
+    "meaning": "긴"
+  },
+  {
+    "text": "wide",
+    "meaning": "넓은"
+  },
+  {
+    "text": "narrow",
+    "meaning": "좁은"
+  },
+  {
+    "text": "thick",
+    "meaning": "두꺼운"
+  },
+  {
+    "text": "thin",
+    "meaning": "얇은"
+  },
+  {
+    "text": "heavy",
+    "meaning": "무거운"
+  },
+  {
+    "text": "strong",
+    "meaning": "강한"
+  },
+  {
+    "text": "weak",
+    "meaning": "약한"
+  },
+  {
+    "text": "dirty",
+    "meaning": "더러운"
+  },
+  {
+    "text": "safe",
+    "meaning": "안전한"
+  },
+  {
+    "text": "dangerous",
+    "meaning": "위험한"
+  },
+  {
+    "text": "loud",
+    "meaning": "시끄러운"
+  },
+  {
+    "text": "quiet",
+    "meaning": "조용한"
+  },
+  {
+    "text": "dark",
+    "meaning": "어두운"
+  },
+  {
+    "text": "bright",
+    "meaning": "밝은"
+  },
+  {
+    "text": "soft",
+    "meaning": "부드러운"
+  },
+  {
+    "text": "smooth",
+    "meaning": "매끄러운"
+  },
+  {
+    "text": "rough",
+    "meaning": "거친"
+  },
+  {
+    "text": "sweet",
+    "meaning": "달콤한"
+  },
+  {
+    "text": "sour",
+    "meaning": "신"
+  },
+  {
+    "text": "bitter",
+    "meaning": "쓴"
+  },
+  {
+    "text": "salty",
+    "meaning": "짠"
+  },
+  {
+    "text": "spicy",
+    "meaning": "매운"
+  },
+  {
+    "text": "fresh",
+    "meaning": "신선한"
+  },
+  {
+    "text": "tired",
+    "meaning": "피곤한"
+  },
+  {
+    "text": "hungry",
+    "meaning": "배고픈"
+  },
+  {
+    "text": "thirsty",
+    "meaning": "목마른"
+  },
+  {
+    "text": "full",
+    "meaning": "가득 찬"
+  },
+  {
+    "text": "empty",
+    "meaning": "빈"
+  },
+  {
+    "text": "angry",
+    "meaning": "화난"
+  },
+  {
+    "text": "afraid",
+    "meaning": "두려운"
+  },
+  {
+    "text": "surprised",
+    "meaning": "놀란"
+  },
+  {
+    "text": "excited",
+    "meaning": "신난"
+  },
+  {
+    "text": "bored",
+    "meaning": "지루한"
+  },
+  {
+    "text": "interesting",
+    "meaning": "흥미로운"
+  },
+  {
+    "text": "funny",
+    "meaning": "재미있는"
+  },
+  {
+    "text": "serious",
+    "meaning": "진지한"
+  },
+  {
+    "text": "important",
+    "meaning": "중요한"
+  },
+  {
+    "text": "special",
+    "meaning": "특별한"
+  },
+  {
+    "text": "simple",
+    "meaning": "간단한"
+  },
+  {
+    "text": "difficult",
+    "meaning": "어려운"
+  },
+  {
+    "text": "possible",
+    "meaning": "가능한"
+  },
+  {
+    "text": "impossible",
+    "meaning": "불가능한"
+  },
+  {
+    "text": "real",
+    "meaning": "진짜의"
+  },
+  {
+    "text": "true",
+    "meaning": "사실인"
+  },
+  {
+    "text": "false",
+    "meaning": "거짓의"
+  },
+  {
+    "text": "same",
+    "meaning": "같은"
+  },
+  {
+    "text": "different",
+    "meaning": "다른"
+  },
+  {
+    "text": "similar",
+    "meaning": "비슷한"
+  },
+  {
+    "text": "ready",
+    "meaning": "준비된"
+  },
+  {
+    "text": "park",
+    "meaning": "공원"
+  },
+  {
+    "text": "store",
+    "meaning": "가게"
+  },
+  {
+    "text": "shop",
+    "meaning": "상점"
+  },
+  {
+    "text": "market",
+    "meaning": "시장"
+  },
+  {
+    "text": "hospital",
+    "meaning": "병원"
+  },
+  {
+    "text": "clinic",
+    "meaning": "진료소"
+  },
+  {
+    "text": "pharmacy",
+    "meaning": "약국"
+  },
+  {
+    "text": "restaurant",
+    "meaning": "식당"
+  },
+  {
+    "text": "cafe",
+    "meaning": "카페"
+  },
+  {
+    "text": "hotel",
+    "meaning": "호텔"
+  },
+  {
+    "text": "library",
+    "meaning": "도서관"
+  },
+  {
+    "text": "museum",
+    "meaning": "박물관"
+  },
+  {
+    "text": "bank",
+    "meaning": "은행"
+  },
+  {
+    "text": "post office",
+    "meaning": "우체국"
+  },
+  {
+    "text": "station",
+    "meaning": "역"
+  },
+  {
+    "text": "airport",
+    "meaning": "공항"
+  },
+  {
+    "text": "garden",
+    "meaning": "정원"
+  },
+  {
+    "text": "kitchen",
+    "meaning": "부엌"
+  },
+  {
+    "text": "bathroom",
+    "meaning": "화장실"
+  },
+  {
+    "text": "bedroom",
+    "meaning": "침실"
+  },
+  {
+    "text": "living room",
+    "meaning": "거실"
+  },
+  {
+    "text": "floor",
+    "meaning": "바닥, 층"
+  },
+  {
+    "text": "wall",
+    "meaning": "벽"
+  },
+  {
+    "text": "ceiling",
+    "meaning": "천장"
+  },
+  {
+    "text": "roof",
+    "meaning": "지붕"
+  },
+  {
+    "text": "yard",
+    "meaning": "마당"
+  },
+  {
+    "text": "street",
+    "meaning": "거리"
+  },
+  {
+    "text": "corner",
+    "meaning": "모퉁이"
+  },
+  {
+    "text": "bridge",
+    "meaning": "다리"
+  },
+  {
+    "text": "place",
+    "meaning": "장소"
+  },
+  {
+    "text": "thing",
+    "meaning": "것"
+  },
+  {
+    "text": "life",
+    "meaning": "인생"
+  },
+  {
+    "text": "world",
+    "meaning": "세계"
+  },
+  {
+    "text": "nature",
+    "meaning": "자연"
+  },
+  {
+    "text": "history",
+    "meaning": "역사"
+  },
+  {
+    "text": "future",
+    "meaning": "미래"
+  },
+  {
+    "text": "past",
+    "meaning": "과거"
+  },
+  {
+    "text": "present",
+    "meaning": "현재, 선물"
+  },
+  {
+    "text": "idea",
+    "meaning": "생각"
+  },
+  {
+    "text": "story",
+    "meaning": "이야기"
+  },
+  {
+    "text": "song",
+    "meaning": "노래"
+  },
+  {
+    "text": "music",
+    "meaning": "음악"
+  },
+  {
+    "text": "movie",
+    "meaning": "영화"
+  },
+  {
+    "text": "picture",
+    "meaning": "사진, 그림"
+  },
+  {
+    "text": "photo",
+    "meaning": "사진"
+  },
+  {
+    "text": "game",
+    "meaning": "게임"
+  },
+  {
+    "text": "sport",
+    "meaning": "스포츠"
+  },
+  {
+    "text": "ball",
+    "meaning": "공"
+  },
+  {
+    "text": "toy",
+    "meaning": "장난감"
+  },
+  {
+    "text": "gift",
+    "meaning": "선물"
+  },
+  {
+    "text": "card",
+    "meaning": "카드"
+  },
+  {
+    "text": "language",
+    "meaning": "언어"
+  },
+  {
+    "text": "English",
+    "meaning": "영어"
+  },
+  {
+    "text": "Korean",
+    "meaning": "한국어"
+  },
+  {
+    "text": "word",
+    "meaning": "단어"
+  },
+  {
+    "text": "question",
+    "meaning": "질문"
+  },
+  {
+    "text": "problem",
+    "meaning": "문제"
+  },
+  {
+    "text": "trouble",
+    "meaning": "곤란"
+  },
+  {
+    "text": "danger",
+    "meaning": "위험"
+  },
+  {
+    "text": "luck",
+    "meaning": "운"
+  },
+  {
+    "text": "chance",
+    "meaning": "기회"
+  },
+  {
+    "text": "reason",
+    "meaning": "이유"
+  },
+  {
+    "text": "everything",
+    "meaning": "모든 것"
+  },
+  {
+    "text": "nothing",
+    "meaning": "아무것도"
+  },
+  {
+    "text": "everyone",
+    "meaning": "모든 사람"
+  },
+  {
+    "text": "someone",
+    "meaning": "누군가"
+  },
+  {
+    "text": "everywhere",
+    "meaning": "모든 곳"
+  },
+  {
+    "text": "somewhere",
+    "meaning": "어딘가"
+  },
+  {
+    "text": "nowhere",
+    "meaning": "아무 데도"
+  },
+  {
+    "text": "here",
+    "meaning": "여기"
+  },
+  {
+    "text": "there",
+    "meaning": "거기"
+  },
+  {
+    "text": "where",
+    "meaning": "어디"
+  },
+  {
+    "text": "when",
+    "meaning": "언제"
+  },
+  {
+    "text": "why",
+    "meaning": "왜"
+  },
+  {
+    "text": "how",
+    "meaning": "어떻게"
+  },
+  {
+    "text": "what",
+    "meaning": "무엇"
+  },
+  {
+    "text": "who",
+    "meaning": "누구"
+  },
+  {
+    "text": "because",
+    "meaning": "왜냐하면"
+  },
+  {
+    "text": "but",
+    "meaning": "그러나"
+  },
+  {
+    "text": "and",
+    "meaning": "그리고"
+  },
+  {
+    "text": "or",
+    "meaning": "또는"
+  },
+  {
+    "text": "if",
+    "meaning": "만약"
+  },
+  {
+    "text": "so",
+    "meaning": "그래서"
+  },
+  {
+    "text": "about",
+    "meaning": "~에 대해"
+  },
+  {
+    "text": "with",
+    "meaning": "~와 함께"
+  },
+  {
+    "text": "without",
+    "meaning": "~없이"
+  },
+  {
+    "text": "for",
+    "meaning": "~을 위해"
+  },
+  {
+    "text": "from",
+    "meaning": "~로부터"
+  },
+  {
+    "text": "to",
+    "meaning": "~에게"
+  },
+  {
+    "text": "at",
+    "meaning": "~에"
+  },
+  {
+    "text": "in",
+    "meaning": "~안에"
+  },
+  {
+    "text": "on",
+    "meaning": "~위에"
+  },
+  {
+    "text": "under",
+    "meaning": "~아래에"
+  },
+  {
+    "text": "over",
+    "meaning": "~위에"
+  },
+  {
+    "text": "between",
+    "meaning": "~사이에"
+  },
+  {
+    "text": "inside",
+    "meaning": "안쪽"
+  },
+  {
+    "text": "outside",
+    "meaning": "바깥쪽"
+  },
+  {
+    "text": "clear",
+    "meaning": "맑은, 분명한"
+  },
+  {
+    "text": "sure",
+    "meaning": "확실한"
+  },
+  {
+    "text": "certain",
+    "meaning": "확실한"
+  },
+  {
+    "text": "able",
+    "meaning": "할 수 있는"
+  },
+  {
+    "text": "alone",
+    "meaning": "혼자의"
+  },
+  {
+    "text": "together",
+    "meaning": "함께"
+  },
+  {
+    "text": "alive",
+    "meaning": "살아있는"
+  },
+  {
+    "text": "dead",
+    "meaning": "죽은"
+  },
+  {
+    "text": "sick",
+    "meaning": "아픈"
+  },
+  {
+    "text": "well",
+    "meaning": "잘"
+  },
+  {
+    "text": "healthy",
+    "meaning": "건강한"
+  }
+]

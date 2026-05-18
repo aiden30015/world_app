@@ -12,14 +12,12 @@ class Category {
   final String name;
   final String description;
   final IconData icon;
-  final List<Word> words;
 
   const Category({
     required this.id,
     required this.name,
     required this.description,
     required this.icon,
-    required this.words,
   });
 
   bool get requiresToeicSetup => id == 'toeic';

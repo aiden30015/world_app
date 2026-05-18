@@ -1,0 +1,2542 @@
+[
+  {
+    "text": "schedule",
+    "meaning": "일정"
+  },
+  {
+    "text": "appointment",
+    "meaning": "약속"
+  },
+  {
+    "text": "invoice",
+    "meaning": "청구서"
+  },
+  {
+    "text": "payment",
+    "meaning": "지불"
+  },
+  {
+    "text": "discount",
+    "meaning": "할인"
+  },
+  {
+    "text": "refund",
+    "meaning": "환불"
+  },
+  {
+    "text": "warranty",
+    "meaning": "보증"
+  },
+  {
+    "text": "shipment",
+    "meaning": "배송"
+  },
+  {
+    "text": "contract",
+    "meaning": "계약"
+  },
+  {
+    "text": "department",
+    "meaning": "부서"
+  },
+  {
+    "text": "budget",
+    "meaning": "예산"
+  },
+  {
+    "text": "revenue",
+    "meaning": "수익"
+  },
+  {
+    "text": "deadline",
+    "meaning": "마감 기한"
+  },
+  {
+    "text": "agenda",
+    "meaning": "안건"
+  },
+  {
+    "text": "proposal",
+    "meaning": "제안서"
+  },
+  {
+    "text": "negotiate",
+    "meaning": "협상하다"
+  },
+  {
+    "text": "supplier",
+    "meaning": "공급업체"
+  },
+  {
+    "text": "vendor",
+    "meaning": "판매업체"
+  },
+  {
+    "text": "retail",
+    "meaning": "소매"
+  },
+  {
+    "text": "wholesale",
+    "meaning": "도매"
+  },
+  {
+    "text": "expense",
+    "meaning": "경비"
+  },
+  {
+    "text": "profit",
+    "meaning": "이익"
+  },
+  {
+    "text": "loss",
+    "meaning": "손실"
+  },
+  {
+    "text": "branch",
+    "meaning": "지점"
+  },
+  {
+    "text": "headquarters",
+    "meaning": "본사"
+  },
+  {
+    "text": "conference",
+    "meaning": "회의"
+  },
+  {
+    "text": "seminar",
+    "meaning": "세미나"
+  },
+  {
+    "text": "workshop",
+    "meaning": "워크숍"
+  },
+  {
+    "text": "training",
+    "meaning": "교육"
+  },
+  {
+    "text": "certification",
+    "meaning": "인증"
+  },
+  {
+    "text": "vacancy",
+    "meaning": "공석"
+  },
+  {
+    "text": "applicant",
+    "meaning": "지원자"
+  },
+  {
+    "text": "resume",
+    "meaning": "이력서"
+  },
+  {
+    "text": "interview",
+    "meaning": "면접"
+  },
+  {
+    "text": "candidate",
+    "meaning": "후보자"
+  },
+  {
+    "text": "promotion",
+    "meaning": "승진"
+  },
+  {
+    "text": "raise",
+    "meaning": "인상"
+  },
+  {
+    "text": "bonus",
+    "meaning": "보너스"
+  },
+  {
+    "text": "salary",
+    "meaning": "급여"
+  },
+  {
+    "text": "benefit",
+    "meaning": "혜택"
+  },
+  {
+    "text": "expansion",
+    "meaning": "확장"
+  },
+  {
+    "text": "launch",
+    "meaning": "출시하다"
+  },
+  {
+    "text": "release",
+    "meaning": "출시, 발표"
+  },
+  {
+    "text": "campaign",
+    "meaning": "캠페인"
+  },
+  {
+    "text": "stock",
+    "meaning": "재고, 주식"
+  },
+  {
+    "text": "supply",
+    "meaning": "공급"
+  },
+  {
+    "text": "demand",
+    "meaning": "수요"
+  },
+  {
+    "text": "surplus",
+    "meaning": "잉여"
+  },
+  {
+    "text": "balance",
+    "meaning": "잔액"
+  },
+  {
+    "text": "statement",
+    "meaning": "명세서"
+  },
+  {
+    "text": "transaction",
+    "meaning": "거래"
+  },
+  {
+    "text": "transfer",
+    "meaning": "이체"
+  },
+  {
+    "text": "loan",
+    "meaning": "대출"
+  },
+  {
+    "text": "lease",
+    "meaning": "임대"
+  },
+  {
+    "text": "rent",
+    "meaning": "임대료"
+  },
+  {
+    "text": "fee",
+    "meaning": "수수료"
+  },
+  {
+    "text": "partnership",
+    "meaning": "제휴"
+  },
+  {
+    "text": "collaboration",
+    "meaning": "협업"
+  },
+  {
+    "text": "alliance",
+    "meaning": "동맹"
+  },
+  {
+    "text": "complaint",
+    "meaning": "불만"
+  },
+  {
+    "text": "feedback",
+    "meaning": "피드백"
+  },
+  {
+    "text": "survey",
+    "meaning": "설문"
+  },
+  {
+    "text": "review",
+    "meaning": "검토"
+  },
+  {
+    "text": "rating",
+    "meaning": "평점"
+  },
+  {
+    "text": "itinerary",
+    "meaning": "여행 일정"
+  },
+  {
+    "text": "reservation",
+    "meaning": "예약"
+  },
+  {
+    "text": "inquiry",
+    "meaning": "문의"
+  },
+  {
+    "text": "confirmation",
+    "meaning": "확인"
+  },
+  {
+    "text": "cancellation",
+    "meaning": "취소"
+  },
+  {
+    "text": "negotiation",
+    "meaning": "협상"
+  },
+  {
+    "text": "agreement",
+    "meaning": "합의"
+  },
+  {
+    "text": "obligation",
+    "meaning": "의무"
+  },
+  {
+    "text": "responsibility",
+    "meaning": "책임"
+  },
+  {
+    "text": "task",
+    "meaning": "업무"
+  },
+  {
+    "text": "assignment",
+    "meaning": "할당된 일"
+  },
+  {
+    "text": "duty",
+    "meaning": "임무"
+  },
+  {
+    "text": "role",
+    "meaning": "역할"
+  },
+  {
+    "text": "position",
+    "meaning": "직위"
+  },
+  {
+    "text": "title",
+    "meaning": "직함, 제목"
+  },
+  {
+    "text": "executive",
+    "meaning": "임원"
+  },
+  {
+    "text": "director",
+    "meaning": "이사"
+  },
+  {
+    "text": "supervisor",
+    "meaning": "감독자"
+  },
+  {
+    "text": "consultant",
+    "meaning": "컨설턴트"
+  },
+  {
+    "text": "specialist",
+    "meaning": "전문가"
+  },
+  {
+    "text": "expert",
+    "meaning": "전문가"
+  },
+  {
+    "text": "operation",
+    "meaning": "운영"
+  },
+  {
+    "text": "management",
+    "meaning": "경영"
+  },
+  {
+    "text": "leadership",
+    "meaning": "리더십"
+  },
+  {
+    "text": "strategy",
+    "meaning": "전략"
+  },
+  {
+    "text": "tactic",
+    "meaning": "전술"
+  },
+  {
+    "text": "goal",
+    "meaning": "목표"
+  },
+  {
+    "text": "objective",
+    "meaning": "목적"
+  },
+  {
+    "text": "target",
+    "meaning": "목표"
+  },
+  {
+    "text": "mission",
+    "meaning": "임무"
+  },
+  {
+    "text": "vision",
+    "meaning": "비전"
+  },
+  {
+    "text": "value",
+    "meaning": "가치"
+  },
+  {
+    "text": "principle",
+    "meaning": "원칙"
+  },
+  {
+    "text": "policy",
+    "meaning": "정책"
+  },
+  {
+    "text": "procedure",
+    "meaning": "절차"
+  },
+  {
+    "text": "guideline",
+    "meaning": "지침"
+  },
+  {
+    "text": "standard",
+    "meaning": "기준"
+  },
+  {
+    "text": "quality",
+    "meaning": "품질"
+  },
+  {
+    "text": "quantity",
+    "meaning": "수량"
+  },
+  {
+    "text": "performance",
+    "meaning": "성과"
+  },
+  {
+    "text": "achievement",
+    "meaning": "성취"
+  },
+  {
+    "text": "accomplishment",
+    "meaning": "업적"
+  },
+  {
+    "text": "result",
+    "meaning": "결과"
+  },
+  {
+    "text": "outcome",
+    "meaning": "결과"
+  },
+  {
+    "text": "consequence",
+    "meaning": "결과"
+  },
+  {
+    "text": "impact",
+    "meaning": "영향"
+  },
+  {
+    "text": "effect",
+    "meaning": "효과"
+  },
+  {
+    "text": "influence",
+    "meaning": "영향력"
+  },
+  {
+    "text": "market",
+    "meaning": "시장"
+  },
+  {
+    "text": "industry",
+    "meaning": "산업"
+  },
+  {
+    "text": "sector",
+    "meaning": "부문"
+  },
+  {
+    "text": "competition",
+    "meaning": "경쟁"
+  },
+  {
+    "text": "competitor",
+    "meaning": "경쟁자"
+  },
+  {
+    "text": "rival",
+    "meaning": "경쟁자"
+  },
+  {
+    "text": "advantage",
+    "meaning": "이점"
+  },
+  {
+    "text": "disadvantage",
+    "meaning": "단점"
+  },
+  {
+    "text": "opportunity",
+    "meaning": "기회"
+  },
+  {
+    "text": "challenge",
+    "meaning": "도전"
+  },
+  {
+    "text": "risk",
+    "meaning": "위험"
+  },
+  {
+    "text": "threat",
+    "meaning": "위협"
+  },
+  {
+    "text": "growth",
+    "meaning": "성장"
+  },
+  {
+    "text": "decline",
+    "meaning": "감소"
+  },
+  {
+    "text": "trend",
+    "meaning": "추세"
+  },
+  {
+    "text": "shift",
+    "meaning": "변화"
+  },
+  {
+    "text": "change",
+    "meaning": "변화"
+  },
+  {
+    "text": "improvement",
+    "meaning": "개선"
+  },
+  {
+    "text": "development",
+    "meaning": "발전"
+  },
+  {
+    "text": "advancement",
+    "meaning": "발전"
+  },
+  {
+    "text": "progress",
+    "meaning": "진행"
+  },
+  {
+    "text": "reduction",
+    "meaning": "축소"
+  },
+  {
+    "text": "shortage",
+    "meaning": "부족"
+  },
+  {
+    "text": "estimate",
+    "meaning": "추정"
+  },
+  {
+    "text": "forecast",
+    "meaning": "예측"
+  },
+  {
+    "text": "projection",
+    "meaning": "예상"
+  },
+  {
+    "text": "analysis",
+    "meaning": "분석"
+  },
+  {
+    "text": "research",
+    "meaning": "연구"
+  },
+  {
+    "text": "study",
+    "meaning": "연구"
+  },
+  {
+    "text": "investigation",
+    "meaning": "조사"
+  },
+  {
+    "text": "questionnaire",
+    "meaning": "설문지"
+  },
+  {
+    "text": "respondent",
+    "meaning": "응답자"
+  },
+  {
+    "text": "participant",
+    "meaning": "참가자"
+  },
+  {
+    "text": "attendee",
+    "meaning": "참석자"
+  },
+  {
+    "text": "speaker",
+    "meaning": "발표자"
+  },
+  {
+    "text": "host",
+    "meaning": "주최자"
+  },
+  {
+    "text": "sponsor",
+    "meaning": "후원자"
+  },
+  {
+    "text": "exhibition",
+    "meaning": "전시회"
+  },
+  {
+    "text": "trade show",
+    "meaning": "무역 박람회"
+  },
+  {
+    "text": "venue",
+    "meaning": "장소"
+  },
+  {
+    "text": "facility",
+    "meaning": "시설"
+  },
+  {
+    "text": "equipment",
+    "meaning": "장비"
+  },
+  {
+    "text": "device",
+    "meaning": "장치"
+  },
+  {
+    "text": "machine",
+    "meaning": "기계"
+  },
+  {
+    "text": "tool",
+    "meaning": "도구"
+  },
+  {
+    "text": "software",
+    "meaning": "소프트웨어"
+  },
+  {
+    "text": "hardware",
+    "meaning": "하드웨어"
+  },
+  {
+    "text": "system",
+    "meaning": "시스템"
+  },
+  {
+    "text": "network",
+    "meaning": "네트워크"
+  },
+  {
+    "text": "database",
+    "meaning": "데이터베이스"
+  },
+  {
+    "text": "platform",
+    "meaning": "플랫폼"
+  },
+  {
+    "text": "application",
+    "meaning": "응용 프로그램"
+  },
+  {
+    "text": "feature",
+    "meaning": "기능"
+  },
+  {
+    "text": "function",
+    "meaning": "기능"
+  },
+  {
+    "text": "update",
+    "meaning": "업데이트"
+  },
+  {
+    "text": "upgrade",
+    "meaning": "업그레이드"
+  },
+  {
+    "text": "version",
+    "meaning": "버전"
+  },
+  {
+    "text": "available",
+    "meaning": "이용 가능한"
+  },
+  {
+    "text": "compatible",
+    "meaning": "호환되는"
+  },
+  {
+    "text": "reliable",
+    "meaning": "신뢰할 수 있는"
+  },
+  {
+    "text": "efficient",
+    "meaning": "효율적인"
+  },
+  {
+    "text": "effective",
+    "meaning": "효과적인"
+  },
+  {
+    "text": "convenient",
+    "meaning": "편리한"
+  },
+  {
+    "text": "valuable",
+    "meaning": "가치 있는"
+  },
+  {
+    "text": "professional",
+    "meaning": "전문적인"
+  },
+  {
+    "text": "successful",
+    "meaning": "성공적인"
+  },
+  {
+    "text": "popular",
+    "meaning": "인기 있는"
+  },
+  {
+    "text": "essential",
+    "meaning": "필수적인"
+  },
+  {
+    "text": "recruitment",
+    "meaning": "채용"
+  },
+  {
+    "text": "recruiter",
+    "meaning": "채용 담당자"
+  },
+  {
+    "text": "job opening",
+    "meaning": "공석"
+  },
+  {
+    "text": "job posting",
+    "meaning": "채용 공고"
+  },
+  {
+    "text": "job description",
+    "meaning": "직무 설명"
+  },
+  {
+    "text": "requirement",
+    "meaning": "요건"
+  },
+  {
+    "text": "qualification",
+    "meaning": "자격 요건"
+  },
+  {
+    "text": "background check",
+    "meaning": "신원 조회"
+  },
+  {
+    "text": "reference",
+    "meaning": "추천서"
+  },
+  {
+    "text": "referral",
+    "meaning": "추천"
+  },
+  {
+    "text": "orientation",
+    "meaning": "오리엔테이션"
+  },
+  {
+    "text": "probation",
+    "meaning": "수습 기간"
+  },
+  {
+    "text": "onboarding",
+    "meaning": "신입 교육"
+  },
+  {
+    "text": "compensation",
+    "meaning": "보상"
+  },
+  {
+    "text": "benefits package",
+    "meaning": "복리후생"
+  },
+  {
+    "text": "payroll",
+    "meaning": "급여 명단"
+  },
+  {
+    "text": "paycheck",
+    "meaning": "급여 수표"
+  },
+  {
+    "text": "deduction",
+    "meaning": "공제"
+  },
+  {
+    "text": "withholding",
+    "meaning": "원천 징수"
+  },
+  {
+    "text": "severance pay",
+    "meaning": "퇴직금"
+  },
+  {
+    "text": "turnover rate",
+    "meaning": "이직률"
+  },
+  {
+    "text": "workforce",
+    "meaning": "노동력"
+  },
+  {
+    "text": "personnel",
+    "meaning": "직원"
+  },
+  {
+    "text": "HR",
+    "meaning": "인사"
+  },
+  {
+    "text": "human resources",
+    "meaning": "인사부"
+  },
+  {
+    "text": "layoff",
+    "meaning": "정리해고"
+  },
+  {
+    "text": "downsizing",
+    "meaning": "감축"
+  },
+  {
+    "text": "relocation",
+    "meaning": "이전"
+  },
+  {
+    "text": "performance review",
+    "meaning": "성과 평가"
+  },
+  {
+    "text": "performance evaluation",
+    "meaning": "업무 평가"
+  },
+  {
+    "text": "appraisal",
+    "meaning": "평가"
+  },
+  {
+    "text": "merit",
+    "meaning": "공로"
+  },
+  {
+    "text": "marketing",
+    "meaning": "마케팅"
+  },
+  {
+    "text": "advertisement",
+    "meaning": "광고"
+  },
+  {
+    "text": "ad",
+    "meaning": "광고"
+  },
+  {
+    "text": "advertise",
+    "meaning": "광고하다"
+  },
+  {
+    "text": "commercial",
+    "meaning": "광고"
+  },
+  {
+    "text": "brochure",
+    "meaning": "안내 책자"
+  },
+  {
+    "text": "flyer",
+    "meaning": "전단지"
+  },
+  {
+    "text": "poster",
+    "meaning": "포스터"
+  },
+  {
+    "text": "billboard",
+    "meaning": "옥외 광고판"
+  },
+  {
+    "text": "logo",
+    "meaning": "로고"
+  },
+  {
+    "text": "slogan",
+    "meaning": "표어"
+  },
+  {
+    "text": "tagline",
+    "meaning": "광고 문구"
+  },
+  {
+    "text": "brand awareness",
+    "meaning": "브랜드 인지도"
+  },
+  {
+    "text": "brand image",
+    "meaning": "브랜드 이미지"
+  },
+  {
+    "text": "target audience",
+    "meaning": "목표 고객"
+  },
+  {
+    "text": "demographic",
+    "meaning": "인구 통계"
+  },
+  {
+    "text": "segment",
+    "meaning": "세분화"
+  },
+  {
+    "text": "niche",
+    "meaning": "틈새시장"
+  },
+  {
+    "text": "positioning",
+    "meaning": "포지셔닝"
+  },
+  {
+    "text": "differentiation",
+    "meaning": "차별화"
+  },
+  {
+    "text": "competitive edge",
+    "meaning": "경쟁 우위"
+  },
+  {
+    "text": "market share",
+    "meaning": "시장 점유율"
+  },
+  {
+    "text": "market research",
+    "meaning": "시장 조사"
+  },
+  {
+    "text": "focus group",
+    "meaning": "포커스 그룹"
+  },
+  {
+    "text": "consumer",
+    "meaning": "소비자"
+  },
+  {
+    "text": "buyer",
+    "meaning": "구매자"
+  },
+  {
+    "text": "prospect",
+    "meaning": "잠재 고객"
+  },
+  {
+    "text": "lead",
+    "meaning": "잠재 고객"
+  },
+  {
+    "text": "conversion",
+    "meaning": "전환"
+  },
+  {
+    "text": "retention",
+    "meaning": "유지"
+  },
+  {
+    "text": "loyalty",
+    "meaning": "충성도"
+  },
+  {
+    "text": "engagement",
+    "meaning": "참여"
+  },
+  {
+    "text": "reach",
+    "meaning": "도달 범위"
+  },
+  {
+    "text": "exposure",
+    "meaning": "노출"
+  },
+  {
+    "text": "impression",
+    "meaning": "노출수"
+  },
+  {
+    "text": "click-through",
+    "meaning": "클릭률"
+  },
+  {
+    "text": "social media",
+    "meaning": "소셜 미디어"
+  },
+  {
+    "text": "influencer",
+    "meaning": "인플루언서"
+  },
+  {
+    "text": "endorsement",
+    "meaning": "보증, 추천"
+  },
+  {
+    "text": "testimonial",
+    "meaning": "추천의 글"
+  },
+  {
+    "text": "sales",
+    "meaning": "판매"
+  },
+  {
+    "text": "sales rep",
+    "meaning": "영업 사원"
+  },
+  {
+    "text": "salesperson",
+    "meaning": "판매원"
+  },
+  {
+    "text": "pitch",
+    "meaning": "권유"
+  },
+  {
+    "text": "cold call",
+    "meaning": "무작위 영업 전화"
+  },
+  {
+    "text": "lead generation",
+    "meaning": "잠재 고객 발굴"
+  },
+  {
+    "text": "close a deal",
+    "meaning": "거래를 성사시키다"
+  },
+  {
+    "text": "upsell",
+    "meaning": "상위 상품 판매"
+  },
+  {
+    "text": "cross-sell",
+    "meaning": "교차 판매"
+  },
+  {
+    "text": "quota",
+    "meaning": "할당량"
+  },
+  {
+    "text": "commission",
+    "meaning": "수수료"
+  },
+  {
+    "text": "sales target",
+    "meaning": "판매 목표"
+  },
+  {
+    "text": "pipeline",
+    "meaning": "영업 파이프라인"
+  },
+  {
+    "text": "funnel",
+    "meaning": "퍼널"
+  },
+  {
+    "text": "acquisition",
+    "meaning": "획득"
+  },
+  {
+    "text": "renewal",
+    "meaning": "갱신"
+  },
+  {
+    "text": "loyalty program",
+    "meaning": "충성 고객 프로그램"
+  },
+  {
+    "text": "referral program",
+    "meaning": "추천 프로그램"
+  },
+  {
+    "text": "customer service",
+    "meaning": "고객 서비스"
+  },
+  {
+    "text": "call center",
+    "meaning": "콜 센터"
+  },
+  {
+    "text": "hotline",
+    "meaning": "직통 전화"
+  },
+  {
+    "text": "help desk",
+    "meaning": "도움말 창구"
+  },
+  {
+    "text": "ticket",
+    "meaning": "처리 건"
+  },
+  {
+    "text": "grievance",
+    "meaning": "불만"
+  },
+  {
+    "text": "resolution",
+    "meaning": "해결"
+  },
+  {
+    "text": "satisfaction",
+    "meaning": "만족"
+  },
+  {
+    "text": "dissatisfaction",
+    "meaning": "불만족"
+  },
+  {
+    "text": "courteous",
+    "meaning": "정중한"
+  },
+  {
+    "text": "polite",
+    "meaning": "공손한"
+  },
+  {
+    "text": "rude",
+    "meaning": "무례한"
+  },
+  {
+    "text": "patient",
+    "meaning": "참을성 있는"
+  },
+  {
+    "text": "attentive",
+    "meaning": "세심한"
+  },
+  {
+    "text": "responsive",
+    "meaning": "반응이 빠른"
+  },
+  {
+    "text": "accounting",
+    "meaning": "회계"
+  },
+  {
+    "text": "accountant",
+    "meaning": "회계사"
+  },
+  {
+    "text": "bookkeeping",
+    "meaning": "부기"
+  },
+  {
+    "text": "ledger",
+    "meaning": "장부"
+  },
+  {
+    "text": "journal entry",
+    "meaning": "분개"
+  },
+  {
+    "text": "balance sheet",
+    "meaning": "대차대조표"
+  },
+  {
+    "text": "income statement",
+    "meaning": "손익계산서"
+  },
+  {
+    "text": "cash flow",
+    "meaning": "현금 흐름"
+  },
+  {
+    "text": "fiscal year",
+    "meaning": "회계 연도"
+  },
+  {
+    "text": "financial statement",
+    "meaning": "재무제표"
+  },
+  {
+    "text": "expenditure",
+    "meaning": "지출"
+  },
+  {
+    "text": "disbursement",
+    "meaning": "지급"
+  },
+  {
+    "text": "expense report",
+    "meaning": "비용 보고서"
+  },
+  {
+    "text": "reimburse",
+    "meaning": "환급하다"
+  },
+  {
+    "text": "reimbursement",
+    "meaning": "환급"
+  },
+  {
+    "text": "petty cash",
+    "meaning": "잡비"
+  },
+  {
+    "text": "payable",
+    "meaning": "지급해야 할"
+  },
+  {
+    "text": "receivable",
+    "meaning": "받을 돈"
+  },
+  {
+    "text": "accounts payable",
+    "meaning": "외상매입금"
+  },
+  {
+    "text": "accounts receivable",
+    "meaning": "외상매출금"
+  },
+  {
+    "text": "net income",
+    "meaning": "순이익"
+  },
+  {
+    "text": "gross profit",
+    "meaning": "총이익"
+  },
+  {
+    "text": "operating expense",
+    "meaning": "운영비"
+  },
+  {
+    "text": "project manager",
+    "meaning": "프로젝트 매니저"
+  },
+  {
+    "text": "milestone",
+    "meaning": "이정표"
+  },
+  {
+    "text": "deliverable",
+    "meaning": "결과물"
+  },
+  {
+    "text": "scope",
+    "meaning": "범위"
+  },
+  {
+    "text": "timeline",
+    "meaning": "일정표"
+  },
+  {
+    "text": "Gantt chart",
+    "meaning": "간트 차트"
+  },
+  {
+    "text": "kickoff",
+    "meaning": "착수"
+  },
+  {
+    "text": "phase",
+    "meaning": "단계"
+  },
+  {
+    "text": "iteration",
+    "meaning": "반복"
+  },
+  {
+    "text": "sprint",
+    "meaning": "스프린트"
+  },
+  {
+    "text": "backlog",
+    "meaning": "잔무"
+  },
+  {
+    "text": "stakeholder",
+    "meaning": "이해 관계자"
+  },
+  {
+    "text": "dependency",
+    "meaning": "의존성"
+  },
+  {
+    "text": "constraint",
+    "meaning": "제약"
+  },
+  {
+    "text": "risk management",
+    "meaning": "위험 관리"
+  },
+  {
+    "text": "mitigation",
+    "meaning": "완화"
+  },
+  {
+    "text": "workflow",
+    "meaning": "작업 흐름"
+  },
+  {
+    "text": "bottleneck",
+    "meaning": "병목 현상"
+  },
+  {
+    "text": "server",
+    "meaning": "서버"
+  },
+  {
+    "text": "cloud",
+    "meaning": "클라우드"
+  },
+  {
+    "text": "storage",
+    "meaning": "저장소"
+  },
+  {
+    "text": "backup",
+    "meaning": "백업"
+  },
+  {
+    "text": "encryption",
+    "meaning": "암호화"
+  },
+  {
+    "text": "firewall",
+    "meaning": "방화벽"
+  },
+  {
+    "text": "antivirus",
+    "meaning": "백신"
+  },
+  {
+    "text": "malware",
+    "meaning": "악성 소프트웨어"
+  },
+  {
+    "text": "virus",
+    "meaning": "바이러스"
+  },
+  {
+    "text": "bug",
+    "meaning": "결함"
+  },
+  {
+    "text": "crash",
+    "meaning": "충돌"
+  },
+  {
+    "text": "error",
+    "meaning": "오류"
+  },
+  {
+    "text": "debug",
+    "meaning": "디버그하다"
+  },
+  {
+    "text": "patch",
+    "meaning": "패치"
+  },
+  {
+    "text": "rollout",
+    "meaning": "출시"
+  },
+  {
+    "text": "operations",
+    "meaning": "운영"
+  },
+  {
+    "text": "efficiency",
+    "meaning": "효율"
+  },
+  {
+    "text": "productivity",
+    "meaning": "생산성"
+  },
+  {
+    "text": "output",
+    "meaning": "생산량"
+  },
+  {
+    "text": "input",
+    "meaning": "투입"
+  },
+  {
+    "text": "throughput",
+    "meaning": "처리량"
+  },
+  {
+    "text": "capacity",
+    "meaning": "수용 능력"
+  },
+  {
+    "text": "downtime",
+    "meaning": "가동 중단"
+  },
+  {
+    "text": "uptime",
+    "meaning": "가동 시간"
+  },
+  {
+    "text": "maintenance",
+    "meaning": "유지보수"
+  },
+  {
+    "text": "repair",
+    "meaning": "수리"
+  },
+  {
+    "text": "refurbish",
+    "meaning": "재단장하다"
+  },
+  {
+    "text": "manufacturer",
+    "meaning": "제조업체"
+  },
+  {
+    "text": "manufacture",
+    "meaning": "제조하다"
+  },
+  {
+    "text": "factory",
+    "meaning": "공장"
+  },
+  {
+    "text": "plant",
+    "meaning": "공장"
+  },
+  {
+    "text": "assembly line",
+    "meaning": "조립 라인"
+  },
+  {
+    "text": "warehouse",
+    "meaning": "창고"
+  },
+  {
+    "text": "distribution center",
+    "meaning": "물류 센터"
+  },
+  {
+    "text": "raw material",
+    "meaning": "원자재"
+  },
+  {
+    "text": "component",
+    "meaning": "부품"
+  },
+  {
+    "text": "part",
+    "meaning": "부품"
+  },
+  {
+    "text": "finished product",
+    "meaning": "완제품"
+  },
+  {
+    "text": "inspection",
+    "meaning": "검사"
+  },
+  {
+    "text": "quality control",
+    "meaning": "품질 관리"
+  },
+  {
+    "text": "quality assurance",
+    "meaning": "품질 보증"
+  },
+  {
+    "text": "defect",
+    "meaning": "결함"
+  },
+  {
+    "text": "flaw",
+    "meaning": "결함"
+  },
+  {
+    "text": "recall",
+    "meaning": "회수"
+  },
+  {
+    "text": "shipping",
+    "meaning": "배송"
+  },
+  {
+    "text": "freight",
+    "meaning": "화물"
+  },
+  {
+    "text": "cargo",
+    "meaning": "화물"
+  },
+  {
+    "text": "carrier",
+    "meaning": "운송업체"
+  },
+  {
+    "text": "courier",
+    "meaning": "택배"
+  },
+  {
+    "text": "delivery",
+    "meaning": "배달"
+  },
+  {
+    "text": "dispatch",
+    "meaning": "발송하다"
+  },
+  {
+    "text": "track",
+    "meaning": "추적하다"
+  },
+  {
+    "text": "tracking number",
+    "meaning": "운송장 번호"
+  },
+  {
+    "text": "import",
+    "meaning": "수입"
+  },
+  {
+    "text": "export",
+    "meaning": "수출"
+  },
+  {
+    "text": "tariff",
+    "meaning": "관세"
+  },
+  {
+    "text": "customs duty",
+    "meaning": "관세"
+  },
+  {
+    "text": "port",
+    "meaning": "항구"
+  },
+  {
+    "text": "dock",
+    "meaning": "부두"
+  },
+  {
+    "text": "landlord",
+    "meaning": "집주인"
+  },
+  {
+    "text": "tenant",
+    "meaning": "세입자"
+  },
+  {
+    "text": "rental",
+    "meaning": "임대"
+  },
+  {
+    "text": "property",
+    "meaning": "부동산"
+  },
+  {
+    "text": "real estate",
+    "meaning": "부동산"
+  },
+  {
+    "text": "realtor",
+    "meaning": "부동산 중개인"
+  },
+  {
+    "text": "commercial property",
+    "meaning": "상업용 부동산"
+  },
+  {
+    "text": "residential",
+    "meaning": "주거의"
+  },
+  {
+    "text": "checking account",
+    "meaning": "당좌예금"
+  },
+  {
+    "text": "savings account",
+    "meaning": "보통예금"
+  },
+  {
+    "text": "interest rate",
+    "meaning": "이자율"
+  },
+  {
+    "text": "APR",
+    "meaning": "연이율"
+  },
+  {
+    "text": "overdraft",
+    "meaning": "당좌대월"
+  },
+  {
+    "text": "wire transfer",
+    "meaning": "전신 송금"
+  },
+  {
+    "text": "direct deposit",
+    "meaning": "급여 자동 이체"
+  },
+  {
+    "text": "teller",
+    "meaning": "은행 직원"
+  },
+  {
+    "text": "branch manager",
+    "meaning": "지점장"
+  },
+  {
+    "text": "safe deposit box",
+    "meaning": "대여 금고"
+  },
+  {
+    "text": "insurance",
+    "meaning": "보험"
+  },
+  {
+    "text": "policyholder",
+    "meaning": "보험 가입자"
+  },
+  {
+    "text": "premium",
+    "meaning": "보험료"
+  },
+  {
+    "text": "deductible",
+    "meaning": "본인 부담금"
+  },
+  {
+    "text": "claim",
+    "meaning": "청구"
+  },
+  {
+    "text": "coverage",
+    "meaning": "보장"
+  },
+  {
+    "text": "liability insurance",
+    "meaning": "책임 보험"
+  },
+  {
+    "text": "health insurance",
+    "meaning": "건강 보험"
+  },
+  {
+    "text": "life insurance",
+    "meaning": "생명 보험"
+  },
+  {
+    "text": "legal",
+    "meaning": "법적인"
+  },
+  {
+    "text": "attorney",
+    "meaning": "변호사"
+  },
+  {
+    "text": "lawsuit",
+    "meaning": "소송"
+  },
+  {
+    "text": "trial",
+    "meaning": "재판"
+  },
+  {
+    "text": "verdict",
+    "meaning": "판결"
+  },
+  {
+    "text": "settlement",
+    "meaning": "합의"
+  },
+  {
+    "text": "plaintiff",
+    "meaning": "원고"
+  },
+  {
+    "text": "defendant",
+    "meaning": "피고"
+  },
+  {
+    "text": "witness",
+    "meaning": "증인"
+  },
+  {
+    "text": "testimony",
+    "meaning": "증언"
+  },
+  {
+    "text": "evidence",
+    "meaning": "증거"
+  },
+  {
+    "text": "contract law",
+    "meaning": "계약법"
+  },
+  {
+    "text": "intellectual property",
+    "meaning": "지적 재산"
+  },
+  {
+    "text": "patent",
+    "meaning": "특허"
+  },
+  {
+    "text": "trademark",
+    "meaning": "상표"
+  },
+  {
+    "text": "copyright",
+    "meaning": "저작권"
+  },
+  {
+    "text": "acquire",
+    "meaning": "획득하다"
+  },
+  {
+    "text": "attain",
+    "meaning": "달성하다"
+  },
+  {
+    "text": "obtain",
+    "meaning": "얻다"
+  },
+  {
+    "text": "achieve",
+    "meaning": "달성하다"
+  },
+  {
+    "text": "accomplish",
+    "meaning": "성취하다"
+  },
+  {
+    "text": "fulfill",
+    "meaning": "이행하다"
+  },
+  {
+    "text": "address",
+    "meaning": "다루다"
+  },
+  {
+    "text": "tackle",
+    "meaning": "다루다"
+  },
+  {
+    "text": "handle",
+    "meaning": "처리하다"
+  },
+  {
+    "text": "manage",
+    "meaning": "관리하다"
+  },
+  {
+    "text": "oversee",
+    "meaning": "감독하다"
+  },
+  {
+    "text": "administer",
+    "meaning": "관리하다"
+  },
+  {
+    "text": "conduct",
+    "meaning": "수행하다"
+  },
+  {
+    "text": "perform",
+    "meaning": "수행하다"
+  },
+  {
+    "text": "carry out",
+    "meaning": "수행하다"
+  },
+  {
+    "text": "verify",
+    "meaning": "검증하다"
+  },
+  {
+    "text": "validate",
+    "meaning": "타당성을 확인하다"
+  },
+  {
+    "text": "confirm",
+    "meaning": "확정하다"
+  },
+  {
+    "text": "examine",
+    "meaning": "조사하다"
+  },
+  {
+    "text": "inspect",
+    "meaning": "점검하다"
+  },
+  {
+    "text": "investigate",
+    "meaning": "조사하다"
+  },
+  {
+    "text": "assess",
+    "meaning": "평가하다"
+  },
+  {
+    "text": "evaluate",
+    "meaning": "평가하다"
+  },
+  {
+    "text": "appraise",
+    "meaning": "평가하다"
+  },
+  {
+    "text": "calculate",
+    "meaning": "계산하다"
+  },
+  {
+    "text": "compute",
+    "meaning": "계산하다"
+  },
+  {
+    "text": "measure",
+    "meaning": "측정하다"
+  },
+  {
+    "text": "monitor",
+    "meaning": "감시하다"
+  },
+  {
+    "text": "regulate",
+    "meaning": "규제하다"
+  },
+  {
+    "text": "enforce",
+    "meaning": "집행하다"
+  },
+  {
+    "text": "comply",
+    "meaning": "준수하다"
+  },
+  {
+    "text": "adhere",
+    "meaning": "고수하다"
+  },
+  {
+    "text": "conform",
+    "meaning": "순응하다"
+  },
+  {
+    "text": "abide",
+    "meaning": "지키다"
+  },
+  {
+    "text": "commit",
+    "meaning": "약속하다"
+  },
+  {
+    "text": "dedicate",
+    "meaning": "전념하다"
+  },
+  {
+    "text": "devote",
+    "meaning": "헌신하다"
+  },
+  {
+    "text": "attribute",
+    "meaning": "~의 탓으로 돌리다"
+  },
+  {
+    "text": "ascribe",
+    "meaning": "~의 탓으로 돌리다"
+  },
+  {
+    "text": "recognize",
+    "meaning": "인정하다"
+  },
+  {
+    "text": "acknowledge",
+    "meaning": "인정하다"
+  },
+  {
+    "text": "admit",
+    "meaning": "인정하다"
+  },
+  {
+    "text": "declare",
+    "meaning": "선언하다"
+  },
+  {
+    "text": "proclaim",
+    "meaning": "선포하다"
+  },
+  {
+    "text": "assert",
+    "meaning": "주장하다"
+  },
+  {
+    "text": "argue",
+    "meaning": "주장하다, 논쟁하다"
+  },
+  {
+    "text": "dispute",
+    "meaning": "논쟁하다"
+  },
+  {
+    "text": "contradict",
+    "meaning": "반박하다"
+  },
+  {
+    "text": "oppose",
+    "meaning": "반대하다"
+  },
+  {
+    "text": "object",
+    "meaning": "반대하다"
+  },
+  {
+    "text": "modify",
+    "meaning": "수정하다"
+  },
+  {
+    "text": "alter",
+    "meaning": "변경하다"
+  },
+  {
+    "text": "adjust",
+    "meaning": "조정하다"
+  },
+  {
+    "text": "adapt",
+    "meaning": "적응하다"
+  },
+  {
+    "text": "transform",
+    "meaning": "변형하다"
+  },
+  {
+    "text": "convert",
+    "meaning": "전환하다"
+  },
+  {
+    "text": "enhance",
+    "meaning": "향상시키다"
+  },
+  {
+    "text": "improve",
+    "meaning": "개선하다"
+  },
+  {
+    "text": "optimize",
+    "meaning": "최적화하다"
+  },
+  {
+    "text": "maximize",
+    "meaning": "극대화하다"
+  },
+  {
+    "text": "minimize",
+    "meaning": "최소화하다"
+  },
+  {
+    "text": "reduce",
+    "meaning": "줄이다"
+  },
+  {
+    "text": "decrease",
+    "meaning": "감소시키다"
+  },
+  {
+    "text": "diminish",
+    "meaning": "줄이다"
+  },
+  {
+    "text": "expand",
+    "meaning": "확장하다"
+  },
+  {
+    "text": "extend",
+    "meaning": "연장하다"
+  },
+  {
+    "text": "widen",
+    "meaning": "넓히다"
+  },
+  {
+    "text": "emphasize",
+    "meaning": "강조하다"
+  },
+  {
+    "text": "highlight",
+    "meaning": "강조하다"
+  },
+  {
+    "text": "stress",
+    "meaning": "강조하다"
+  },
+  {
+    "text": "illustrate",
+    "meaning": "설명하다"
+  },
+  {
+    "text": "demonstrate",
+    "meaning": "보여주다"
+  },
+  {
+    "text": "exhibit",
+    "meaning": "전시하다"
+  },
+  {
+    "text": "represent",
+    "meaning": "대표하다"
+  },
+  {
+    "text": "symbolize",
+    "meaning": "상징하다"
+  },
+  {
+    "text": "indicate",
+    "meaning": "나타내다"
+  },
+  {
+    "text": "signify",
+    "meaning": "의미하다"
+  },
+  {
+    "text": "denote",
+    "meaning": "나타내다"
+  },
+  {
+    "text": "imply",
+    "meaning": "암시하다"
+  },
+  {
+    "text": "suggest",
+    "meaning": "시사하다"
+  },
+  {
+    "text": "hint",
+    "meaning": "암시하다"
+  },
+  {
+    "text": "crucial",
+    "meaning": "중요한"
+  },
+  {
+    "text": "vital",
+    "meaning": "필수적인"
+  },
+  {
+    "text": "significant",
+    "meaning": "중요한"
+  },
+  {
+    "text": "substantial",
+    "meaning": "상당한"
+  },
+  {
+    "text": "considerable",
+    "meaning": "상당한"
+  },
+  {
+    "text": "notable",
+    "meaning": "주목할만한"
+  },
+  {
+    "text": "remarkable",
+    "meaning": "놀라운"
+  },
+  {
+    "text": "outstanding",
+    "meaning": "뛰어난"
+  },
+  {
+    "text": "exceptional",
+    "meaning": "예외적인"
+  },
+  {
+    "text": "extraordinary",
+    "meaning": "비범한"
+  },
+  {
+    "text": "exclusive",
+    "meaning": "독점적인"
+  },
+  {
+    "text": "comprehensive",
+    "meaning": "포괄적인"
+  },
+  {
+    "text": "thorough",
+    "meaning": "철저한"
+  },
+  {
+    "text": "detailed",
+    "meaning": "상세한"
+  },
+  {
+    "text": "extensive",
+    "meaning": "광범위한"
+  },
+  {
+    "text": "broad",
+    "meaning": "넓은"
+  },
+  {
+    "text": "narrow",
+    "meaning": "좁은"
+  },
+  {
+    "text": "specific",
+    "meaning": "구체적인"
+  },
+  {
+    "text": "general",
+    "meaning": "일반적인"
+  },
+  {
+    "text": "universal",
+    "meaning": "보편적인"
+  },
+  {
+    "text": "global",
+    "meaning": "세계적인"
+  },
+  {
+    "text": "regional",
+    "meaning": "지역의"
+  },
+  {
+    "text": "local",
+    "meaning": "현지의"
+  },
+  {
+    "text": "domestic",
+    "meaning": "국내의"
+  },
+  {
+    "text": "international",
+    "meaning": "국제적인"
+  },
+  {
+    "text": "foreign",
+    "meaning": "외국의"
+  },
+  {
+    "text": "nationwide",
+    "meaning": "전국의"
+  },
+  {
+    "text": "urban",
+    "meaning": "도시의"
+  },
+  {
+    "text": "rural",
+    "meaning": "농촌의"
+  },
+  {
+    "text": "suburban",
+    "meaning": "교외의"
+  },
+  {
+    "text": "annual",
+    "meaning": "연간의"
+  },
+  {
+    "text": "monthly",
+    "meaning": "월간의"
+  },
+  {
+    "text": "quarterly",
+    "meaning": "분기의"
+  },
+  {
+    "text": "biannual",
+    "meaning": "연 2회의"
+  },
+  {
+    "text": "perennial",
+    "meaning": "여러 해 계속되는"
+  },
+  {
+    "text": "seasonal",
+    "meaning": "계절적인"
+  },
+  {
+    "text": "preliminary",
+    "meaning": "예비의"
+  },
+  {
+    "text": "initial",
+    "meaning": "초기의"
+  },
+  {
+    "text": "final",
+    "meaning": "최종의"
+  },
+  {
+    "text": "ultimate",
+    "meaning": "궁극적인"
+  },
+  {
+    "text": "prior",
+    "meaning": "이전의"
+  },
+  {
+    "text": "subsequent",
+    "meaning": "후속의"
+  },
+  {
+    "text": "previous",
+    "meaning": "이전의"
+  },
+  {
+    "text": "following",
+    "meaning": "다음의"
+  },
+  {
+    "text": "former",
+    "meaning": "이전의"
+  },
+  {
+    "text": "latter",
+    "meaning": "후자의"
+  },
+  {
+    "text": "recent",
+    "meaning": "최근의"
+  },
+  {
+    "text": "modern",
+    "meaning": "현대의"
+  },
+  {
+    "text": "contemporary",
+    "meaning": "동시대의"
+  },
+  {
+    "text": "traditional",
+    "meaning": "전통적인"
+  },
+  {
+    "text": "conventional",
+    "meaning": "관습적인"
+  },
+  {
+    "text": "innovative",
+    "meaning": "혁신적인"
+  },
+  {
+    "text": "creative",
+    "meaning": "창의적인"
+  },
+  {
+    "text": "inventive",
+    "meaning": "독창적인"
+  },
+  {
+    "text": "original",
+    "meaning": "독창적인"
+  },
+  {
+    "text": "unique",
+    "meaning": "독특한"
+  },
+  {
+    "text": "distinct",
+    "meaning": "독특한"
+  },
+  {
+    "text": "typical",
+    "meaning": "전형적인"
+  },
+  {
+    "text": "usual",
+    "meaning": "보통의"
+  },
+  {
+    "text": "ordinary",
+    "meaning": "평범한"
+  },
+  {
+    "text": "common",
+    "meaning": "흔한"
+  },
+  {
+    "text": "rare",
+    "meaning": "드문"
+  },
+  {
+    "text": "scarce",
+    "meaning": "부족한"
+  },
+  {
+    "text": "plentiful",
+    "meaning": "풍부한"
+  },
+  {
+    "text": "abundant",
+    "meaning": "풍부한"
+  },
+  {
+    "text": "ample",
+    "meaning": "충분한"
+  },
+  {
+    "text": "sufficient",
+    "meaning": "충분한"
+  },
+  {
+    "text": "adequate",
+    "meaning": "적절한"
+  },
+  {
+    "text": "insufficient",
+    "meaning": "불충분한"
+  },
+  {
+    "text": "inadequate",
+    "meaning": "부적절한"
+  },
+  {
+    "text": "appropriate",
+    "meaning": "적절한"
+  },
+  {
+    "text": "suitable",
+    "meaning": "알맞은"
+  },
+  {
+    "text": "relevant",
+    "meaning": "관련 있는"
+  },
+  {
+    "text": "irrelevant",
+    "meaning": "관련 없는"
+  },
+  {
+    "text": "inappropriate",
+    "meaning": "부적절한"
+  },
+  {
+    "text": "accurate",
+    "meaning": "정확한"
+  },
+  {
+    "text": "precise",
+    "meaning": "정밀한"
+  },
+  {
+    "text": "exact",
+    "meaning": "정확한"
+  },
+  {
+    "text": "imprecise",
+    "meaning": "부정확한"
+  },
+  {
+    "text": "inaccurate",
+    "meaning": "부정확한"
+  },
+  {
+    "text": "consistent",
+    "meaning": "일관된"
+  },
+  {
+    "text": "inconsistent",
+    "meaning": "일관성 없는"
+  },
+  {
+    "text": "steady",
+    "meaning": "꾸준한"
+  },
+  {
+    "text": "stable",
+    "meaning": "안정된"
+  },
+  {
+    "text": "unstable",
+    "meaning": "불안정한"
+  },
+  {
+    "text": "constant",
+    "meaning": "일정한"
+  },
+  {
+    "text": "variable",
+    "meaning": "변동의"
+  },
+  {
+    "text": "fluctuating",
+    "meaning": "변동하는"
+  },
+  {
+    "text": "flexible",
+    "meaning": "유연한"
+  },
+  {
+    "text": "rigid",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "strict",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "loose",
+    "meaning": "느슨한"
+  },
+  {
+    "text": "tight",
+    "meaning": "엄격한"
+  },
+  {
+    "text": "severe",
+    "meaning": "엄한"
+  },
+  {
+    "text": "framework",
+    "meaning": "체계"
+  },
+  {
+    "text": "structure",
+    "meaning": "구조"
+  },
+  {
+    "text": "foundation",
+    "meaning": "기초"
+  },
+  {
+    "text": "infrastructure",
+    "meaning": "기반 시설"
+  },
+  {
+    "text": "mechanism",
+    "meaning": "기제"
+  },
+  {
+    "text": "apparatus",
+    "meaning": "장치"
+  },
+  {
+    "text": "hierarchy",
+    "meaning": "위계"
+  },
+  {
+    "text": "authority",
+    "meaning": "권한"
+  },
+  {
+    "text": "implication",
+    "meaning": "함의"
+  },
+  {
+    "text": "aspect",
+    "meaning": "측면"
+  },
+  {
+    "text": "factor",
+    "meaning": "요인"
+  },
+  {
+    "text": "element",
+    "meaning": "요소"
+  },
+  {
+    "text": "ingredient",
+    "meaning": "구성 요소"
+  },
+  {
+    "text": "module",
+    "meaning": "모듈"
+  },
+  {
+    "text": "stage",
+    "meaning": "단계"
+  },
+  {
+    "text": "level",
+    "meaning": "수준"
+  },
+  {
+    "text": "degree",
+    "meaning": "정도"
+  },
+  {
+    "text": "extent",
+    "meaning": "정도"
+  },
+  {
+    "text": "range",
+    "meaning": "범위"
+  },
+  {
+    "text": "dimension",
+    "meaning": "차원"
+  },
+  {
+    "text": "perspective",
+    "meaning": "관점"
+  },
+  {
+    "text": "viewpoint",
+    "meaning": "관점"
+  },
+  {
+    "text": "approach",
+    "meaning": "접근법"
+  },
+  {
+    "text": "method",
+    "meaning": "방법"
+  },
+  {
+    "text": "technique",
+    "meaning": "기법"
+  },
+  {
+    "text": "solution",
+    "meaning": "해결책"
+  },
+  {
+    "text": "answer",
+    "meaning": "답"
+  },
+  {
+    "text": "remedy",
+    "meaning": "해결책"
+  },
+  {
+    "text": "alternative",
+    "meaning": "대안"
+  },
+  {
+    "text": "substitute",
+    "meaning": "대체물"
+  },
+  {
+    "text": "replacement",
+    "meaning": "교체"
+  },
+  {
+    "text": "counterpart",
+    "meaning": "상대"
+  }
+]
