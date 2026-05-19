@@ -1,0 +1,290 @@
+[
+  {
+    "text": "give up",
+    "meanings": ["포기하다"]
+  },
+  {
+    "text": "look for",
+    "meanings": ["~을 찾다"]
+  },
+  {
+    "text": "look after",
+    "meanings": ["~을 돌보다"]
+  },
+  {
+    "text": "look forward to",
+    "meanings": ["~을 기대하다", "~을 고대하다"]
+  },
+  {
+    "text": "look up to",
+    "meanings": ["~을 존경하다"]
+  },
+  {
+    "text": "look down on",
+    "meanings": ["~을 무시하다", "~을 깔보다"]
+  },
+  {
+    "text": "take care of",
+    "meanings": ["~을 돌보다", "~을 처리하다"]
+  },
+  {
+    "text": "take off",
+    "meanings": ["이륙하다", "(옷을) 벗다"]
+  },
+  {
+    "text": "take after",
+    "meanings": ["~을 닮다"]
+  },
+  {
+    "text": "take part in",
+    "meanings": ["~에 참여하다"]
+  },
+  {
+    "text": "take place",
+    "meanings": ["일어나다", "발생하다"]
+  },
+  {
+    "text": "put off",
+    "meanings": ["미루다", "연기하다"]
+  },
+  {
+    "text": "put on",
+    "meanings": ["(옷을) 입다", "착용하다"]
+  },
+  {
+    "text": "put up with",
+    "meanings": ["~을 참다", "~을 견디다"]
+  },
+  {
+    "text": "get along with",
+    "meanings": ["~와 잘 지내다"]
+  },
+  {
+    "text": "get over",
+    "meanings": ["극복하다", "(병에서) 회복하다"]
+  },
+  {
+    "text": "get rid of",
+    "meanings": ["~을 없애다", "~을 제거하다"]
+  },
+  {
+    "text": "get used to",
+    "meanings": ["~에 익숙해지다"]
+  },
+  {
+    "text": "get in touch with",
+    "meanings": ["~와 연락하다"]
+  },
+  {
+    "text": "run out of",
+    "meanings": ["~이 다 떨어지다", "~이 바닥나다"]
+  },
+  {
+    "text": "run into",
+    "meanings": ["우연히 만나다", "~와 마주치다"]
+  },
+  {
+    "text": "make up",
+    "meanings": ["화해하다", "지어내다", "구성하다"]
+  },
+  {
+    "text": "make up for",
+    "meanings": ["~을 보상하다", "~을 만회하다"]
+  },
+  {
+    "text": "make sure",
+    "meanings": ["확실히 하다", "반드시 ~하다"]
+  },
+  {
+    "text": "make sense",
+    "meanings": ["말이 되다", "이해가 되다"]
+  },
+  {
+    "text": "make a difference",
+    "meanings": ["차이를 만들다", "중요하다"]
+  },
+  {
+    "text": "make fun of",
+    "meanings": ["~을 놀리다"]
+  },
+  {
+    "text": "make ends meet",
+    "meanings": ["근근이 살아가다", "수지를 맞추다"]
+  },
+  {
+    "text": "come up with",
+    "meanings": ["~을 생각해 내다", "~을 떠올리다"]
+  },
+  {
+    "text": "come across",
+    "meanings": ["우연히 만나다", "우연히 발견하다"]
+  },
+  {
+    "text": "come true",
+    "meanings": ["이루어지다", "실현되다"]
+  },
+  {
+    "text": "break down",
+    "meanings": ["고장 나다", "무너지다"]
+  },
+  {
+    "text": "break up",
+    "meanings": ["헤어지다", "끝나다"]
+  },
+  {
+    "text": "break out",
+    "meanings": ["발발하다", "발생하다"]
+  },
+  {
+    "text": "turn down",
+    "meanings": ["거절하다", "(소리를) 줄이다"]
+  },
+  {
+    "text": "turn on",
+    "meanings": ["켜다"]
+  },
+  {
+    "text": "turn off",
+    "meanings": ["끄다"]
+  },
+  {
+    "text": "turn out",
+    "meanings": ["~로 밝혀지다", "드러나다"]
+  },
+  {
+    "text": "show up",
+    "meanings": ["나타나다", "모습을 보이다"]
+  },
+  {
+    "text": "show off",
+    "meanings": ["뽐내다", "자랑하다"]
+  },
+  {
+    "text": "find out",
+    "meanings": ["알아내다", "발견하다"]
+  },
+  {
+    "text": "figure out",
+    "meanings": ["이해하다", "알아내다"]
+  },
+  {
+    "text": "hang out",
+    "meanings": ["어울리다", "시간을 보내다"]
+  },
+  {
+    "text": "hang up",
+    "meanings": ["전화를 끊다"]
+  },
+  {
+    "text": "hold on",
+    "meanings": ["기다리다", "버티다"]
+  },
+  {
+    "text": "carry out",
+    "meanings": ["수행하다", "실행하다"]
+  },
+  {
+    "text": "deal with",
+    "meanings": ["~을 다루다", "~을 처리하다"]
+  },
+  {
+    "text": "depend on",
+    "meanings": ["~에 의존하다", "~에 달려 있다"]
+  },
+  {
+    "text": "focus on",
+    "meanings": ["~에 집중하다"]
+  },
+  {
+    "text": "consist of",
+    "meanings": ["~으로 구성되다"]
+  },
+  {
+    "text": "result in",
+    "meanings": ["~을 초래하다", "~의 결과를 낳다"]
+  },
+  {
+    "text": "result from",
+    "meanings": ["~에서 기인하다", "~의 결과이다"]
+  },
+  {
+    "text": "be made of",
+    "meanings": ["~으로 만들어지다"]
+  },
+  {
+    "text": "be used to",
+    "meanings": ["~에 익숙하다"]
+  },
+  {
+    "text": "be likely to",
+    "meanings": ["~할 가능성이 있다", "~할 것 같다"]
+  },
+  {
+    "text": "be supposed to",
+    "meanings": ["~하기로 되어 있다"]
+  },
+  {
+    "text": "as soon as",
+    "meanings": ["~하자마자"]
+  },
+  {
+    "text": "as long as",
+    "meanings": ["~하는 한", "~이기만 하면"]
+  },
+  {
+    "text": "in spite of",
+    "meanings": ["~에도 불구하고"]
+  },
+  {
+    "text": "instead of",
+    "meanings": ["~대신에"]
+  },
+  {
+    "text": "according to",
+    "meanings": ["~에 따르면"]
+  },
+  {
+    "text": "thanks to",
+    "meanings": ["~덕분에"]
+  },
+  {
+    "text": "due to",
+    "meanings": ["~때문에"]
+  },
+  {
+    "text": "on purpose",
+    "meanings": ["고의로", "일부러"]
+  },
+  {
+    "text": "by accident",
+    "meanings": ["우연히", "실수로"]
+  },
+  {
+    "text": "for a while",
+    "meanings": ["잠시 동안"]
+  },
+  {
+    "text": "all of a sudden",
+    "meanings": ["갑자기"]
+  },
+  {
+    "text": "piece of cake",
+    "meanings": ["식은 죽 먹기", "아주 쉬운 일"]
+  },
+  {
+    "text": "once in a blue moon",
+    "meanings": ["아주 드물게", "어쩌다 한 번"]
+  },
+  {
+    "text": "hit the books",
+    "meanings": ["열심히 공부하다"]
+  },
+  {
+    "text": "under the weather",
+    "meanings": ["몸이 좋지 않은", "컨디션이 안 좋은"]
+  },
+  {
+    "text": "break a leg",
+    "meanings": ["행운을 빌어"]
+  }
+]

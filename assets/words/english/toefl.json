@@ -1,160 +1,1750 @@
 [
-  {"text": "analyze", "meaning": "분석하다"},
-  {"text": "hypothesis", "meaning": "가설"},
-  {"text": "theory", "meaning": "이론"},
-  {"text": "research", "meaning": "연구"},
-  {"text": "conclusion", "meaning": "결론"},
-  {"text": "evidence", "meaning": "증거"},
-  {"text": "evaluate", "meaning": "평가하다"},
-  {"text": "perspective", "meaning": "관점"},
-  {"text": "significant", "meaning": "중요한"},
-  {"text": "comprehensive", "meaning": "포괄적인"},
-  {"text": "methodology", "meaning": "방법론"},
-  {"text": "paradigm", "meaning": "패러다임"},
-  {"text": "phenomenon", "meaning": "현상"},
-  {"text": "empirical", "meaning": "경험적인"},
-  {"text": "synthesize", "meaning": "종합하다"},
-  {"text": "interpret", "meaning": "해석하다"},
-  {"text": "infer", "meaning": "추론하다"},
-  {"text": "derive", "meaning": "도출하다"},
-  {"text": "demonstrate", "meaning": "입증하다"},
-  {"text": "examine", "meaning": "검토하다"},
-  {"text": "contrast", "meaning": "대조하다"},
-  {"text": "illustrate", "meaning": "설명하다"},
-  {"text": "justify", "meaning": "정당화하다"},
-  {"text": "contradict", "meaning": "모순되다"},
-  {"text": "validate", "meaning": "검증하다"},
-  {"text": "refute", "meaning": "반박하다"},
-  {"text": "fundamental", "meaning": "근본적인"},
-  {"text": "concept", "meaning": "개념"},
-  {"text": "framework", "meaning": "틀, 체계"},
-  {"text": "premise", "meaning": "전제"},
-  {"text": "subsequently", "meaning": "그 후에"},
-  {"text": "consequently", "meaning": "결과적으로"},
-  {"text": "accordingly", "meaning": "그에 따라"},
-  {"text": "nevertheless", "meaning": "그럼에도 불구하고"},
-  {"text": "furthermore", "meaning": "게다가"},
-  {"text": "attribute", "meaning": "속성, 탓으로 돌리다"},
-  {"text": "allocate", "meaning": "할당하다"},
-  {"text": "comprise", "meaning": "구성하다"},
-  {"text": "constitute", "meaning": "구성하다"},
-  {"text": "manifest", "meaning": "나타내다, 명백한"},
-  {"text": "ambiguous", "meaning": "모호한"},
-  {"text": "arbitrary", "meaning": "임의의"},
-  {"text": "intrinsic", "meaning": "본질적인"},
-  {"text": "implicit", "meaning": "암묵적인"},
-  {"text": "explicit", "meaning": "명시적인"},
-  {"text": "predominant", "meaning": "우세한"},
-  {"text": "ubiquitous", "meaning": "어디에나 있는"},
-  {"text": "prevalent", "meaning": "널리 퍼진"},
-  {"text": "integral", "meaning": "필수적인"},
-  {"text": "pivotal", "meaning": "중추적인"},
-  {"text": "advocate", "meaning": "옹호하다"},
-  {"text": "assert", "meaning": "주장하다"},
-  {"text": "presume", "meaning": "추정하다"},
-  {"text": "speculate", "meaning": "추측하다"},
-  {"text": "postulate", "meaning": "가정하다"},
-  {"text": "elaborate", "meaning": "정교한, 자세히 설명하다"},
-  {"text": "scrutinize", "meaning": "면밀히 조사하다"},
-  {"text": "discern", "meaning": "식별하다"},
-  {"text": "deduce", "meaning": "추론하다"},
-  {"text": "verify", "meaning": "확인하다"},
-  {"text": "compile", "meaning": "편찬하다"},
-  {"text": "categorize", "meaning": "분류하다"},
-  {"text": "differentiate", "meaning": "구별하다"},
-  {"text": "correlate", "meaning": "상관관계가 있다"},
-  {"text": "investigate", "meaning": "조사하다"},
-  {"text": "hypothesize", "meaning": "가설을 세우다"},
-  {"text": "criterion", "meaning": "기준"},
-  {"text": "variable", "meaning": "변수"},
-  {"text": "constant", "meaning": "상수, 끊임없는"},
-  {"text": "deviation", "meaning": "편차"},
-  {"text": "magnitude", "meaning": "규모"},
-  {"text": "dimension", "meaning": "차원"},
-  {"text": "trajectory", "meaning": "궤적"},
-  {"text": "spectrum", "meaning": "범위"},
-  {"text": "complexity", "meaning": "복잡성"},
-  {"text": "diversity", "meaning": "다양성"},
-  {"text": "abundance", "meaning": "풍부함"},
-  {"text": "scarcity", "meaning": "부족"},
-  {"text": "advent", "meaning": "도래"},
-  {"text": "emergence", "meaning": "출현"},
-  {"text": "evolution", "meaning": "진화"},
-  {"text": "transformation", "meaning": "변형"},
-  {"text": "transition", "meaning": "전환"},
-  {"text": "fluctuation", "meaning": "변동"},
-  {"text": "stability", "meaning": "안정성"},
-  {"text": "equilibrium", "meaning": "평형"},
-  {"text": "resilience", "meaning": "회복력"},
-  {"text": "vulnerability", "meaning": "취약성"},
-  {"text": "feasible", "meaning": "실현 가능한"},
-  {"text": "plausible", "meaning": "그럴듯한"},
-  {"text": "inherent", "meaning": "내재된"},
-  {"text": "subtle", "meaning": "미묘한"},
-  {"text": "profound", "meaning": "심오한"},
-  {"text": "rigorous", "meaning": "엄격한"},
-  {"text": "robust", "meaning": "탄탄한"},
-  {"text": "coherent", "meaning": "일관된"},
-  {"text": "consistent", "meaning": "일관된"},
-  {"text": "contemporary", "meaning": "현대의"},
-  {"text": "traditional", "meaning": "전통적인"},
-  {"text": "conventional", "meaning": "전통적인"},
-  {"text": "controversial", "meaning": "논란이 많은"},
-  {"text": "paradoxical", "meaning": "역설적인"},
-  {"text": "anomaly", "meaning": "이례적인 것"},
-  {"text": "consensus", "meaning": "합의"},
-  {"text": "dichotomy", "meaning": "이분법"},
-  {"text": "spectrum", "meaning": "스펙트럼"},
-  {"text": "ramification", "meaning": "결과, 파급 효과"},
-  {"text": "implication", "meaning": "함의"},
-  {"text": "presumption", "meaning": "추정"},
-  {"text": "assumption", "meaning": "가정"},
-  {"text": "supposition", "meaning": "추측"},
-  {"text": "proposition", "meaning": "명제"},
-  {"text": "preliminary", "meaning": "예비적인"},
-  {"text": "subsequent", "meaning": "후속의"},
-  {"text": "underlying", "meaning": "근본적인"},
-  {"text": "overarching", "meaning": "포괄적인"},
-  {"text": "salient", "meaning": "두드러진"},
-  {"text": "marginal", "meaning": "주변적인"},
-  {"text": "trivial", "meaning": "사소한"},
-  {"text": "negligible", "meaning": "무시할 수 있는"},
-  {"text": "substantial", "meaning": "상당한"},
-  {"text": "extensive", "meaning": "광범위한"},
-  {"text": "abundant", "meaning": "풍부한"},
-  {"text": "sparse", "meaning": "드문"},
-  {"text": "facilitate", "meaning": "용이하게 하다"},
-  {"text": "hinder", "meaning": "방해하다"},
-  {"text": "exacerbate", "meaning": "악화시키다"},
-  {"text": "alleviate", "meaning": "완화하다"},
-  {"text": "accumulate", "meaning": "축적하다"},
-  {"text": "dissipate", "meaning": "흩어지다"},
-  {"text": "perpetuate", "meaning": "영속시키다"},
-  {"text": "undermine", "meaning": "약화시키다"},
-  {"text": "diminish", "meaning": "줄어들다"},
-  {"text": "amplify", "meaning": "증폭시키다"},
-  {"text": "augment", "meaning": "늘리다"},
-  {"text": "counter", "meaning": "반박하다"},
-  {"text": "elucidate", "meaning": "명확히 설명하다"},
-  {"text": "convey", "meaning": "전달하다"},
-  {"text": "depict", "meaning": "묘사하다"},
-  {"text": "portray", "meaning": "묘사하다"},
-  {"text": "presume", "meaning": "추정하다"},
-  {"text": "speculate", "meaning": "추측하다"},
-  {"text": "exemplify", "meaning": "예시하다"},
-  {"text": "characterize", "meaning": "특징짓다"},
-  {"text": "encompass", "meaning": "포함하다"},
-  {"text": "incorporate", "meaning": "통합하다"},
-  {"text": "integrate", "meaning": "통합하다"},
-  {"text": "isolate", "meaning": "분리하다"},
-  {"text": "segregate", "meaning": "분리하다"},
-  {"text": "extract", "meaning": "추출하다"},
-  {"text": "render", "meaning": "만들다, 표현하다"},
-  {"text": "yield", "meaning": "산출하다"},
-  {"text": "induce", "meaning": "유발하다"},
-  {"text": "instigate", "meaning": "선동하다"},
-  {"text": "trigger", "meaning": "촉발하다"},
-  {"text": "prompt", "meaning": "촉발하다, 신속한"},
-  {"text": "evoke", "meaning": "불러일으키다"},
-  {"text": "convey", "meaning": "전달하다"}
+  {
+    "text": "analyze",
+    "meanings": [
+      "분석하다"
+    ]
+  },
+  {
+    "text": "hypothesis",
+    "meanings": [
+      "가설"
+    ]
+  },
+  {
+    "text": "theory",
+    "meanings": [
+      "이론"
+    ]
+  },
+  {
+    "text": "research",
+    "meanings": [
+      "연구"
+    ]
+  },
+  {
+    "text": "conclusion",
+    "meanings": [
+      "결론"
+    ]
+  },
+  {
+    "text": "evidence",
+    "meanings": [
+      "증거"
+    ]
+  },
+  {
+    "text": "evaluate",
+    "meanings": [
+      "평가하다"
+    ]
+  },
+  {
+    "text": "perspective",
+    "meanings": [
+      "관점"
+    ]
+  },
+  {
+    "text": "significant",
+    "meanings": [
+      "중요한"
+    ]
+  },
+  {
+    "text": "comprehensive",
+    "meanings": [
+      "포괄적인"
+    ]
+  },
+  {
+    "text": "methodology",
+    "meanings": [
+      "방법론"
+    ]
+  },
+  {
+    "text": "paradigm",
+    "meanings": [
+      "패러다임"
+    ]
+  },
+  {
+    "text": "phenomenon",
+    "meanings": [
+      "현상"
+    ]
+  },
+  {
+    "text": "empirical",
+    "meanings": [
+      "경험적인"
+    ]
+  },
+  {
+    "text": "synthesize",
+    "meanings": [
+      "종합하다"
+    ]
+  },
+  {
+    "text": "interpret",
+    "meanings": [
+      "해석하다"
+    ]
+  },
+  {
+    "text": "infer",
+    "meanings": [
+      "추론하다"
+    ]
+  },
+  {
+    "text": "derive",
+    "meanings": [
+      "도출하다"
+    ]
+  },
+  {
+    "text": "demonstrate",
+    "meanings": [
+      "입증하다"
+    ]
+  },
+  {
+    "text": "examine",
+    "meanings": [
+      "검토하다"
+    ]
+  },
+  {
+    "text": "contrast",
+    "meanings": [
+      "대조하다"
+    ]
+  },
+  {
+    "text": "illustrate",
+    "meanings": [
+      "설명하다"
+    ]
+  },
+  {
+    "text": "justify",
+    "meanings": [
+      "정당화하다"
+    ]
+  },
+  {
+    "text": "contradict",
+    "meanings": [
+      "모순되다"
+    ]
+  },
+  {
+    "text": "validate",
+    "meanings": [
+      "검증하다"
+    ]
+  },
+  {
+    "text": "refute",
+    "meanings": [
+      "반박하다"
+    ]
+  },
+  {
+    "text": "fundamental",
+    "meanings": [
+      "근본적인"
+    ]
+  },
+  {
+    "text": "concept",
+    "meanings": [
+      "개념"
+    ]
+  },
+  {
+    "text": "framework",
+    "meanings": [
+      "틀",
+      "체계"
+    ]
+  },
+  {
+    "text": "premise",
+    "meanings": [
+      "전제"
+    ]
+  },
+  {
+    "text": "subsequently",
+    "meanings": [
+      "그 후에"
+    ]
+  },
+  {
+    "text": "consequently",
+    "meanings": [
+      "결과적으로"
+    ]
+  },
+  {
+    "text": "accordingly",
+    "meanings": [
+      "그에 따라"
+    ]
+  },
+  {
+    "text": "nevertheless",
+    "meanings": [
+      "그럼에도 불구하고"
+    ]
+  },
+  {
+    "text": "furthermore",
+    "meanings": [
+      "게다가"
+    ]
+  },
+  {
+    "text": "attribute",
+    "meanings": [
+      "속성",
+      "탓으로 돌리다"
+    ]
+  },
+  {
+    "text": "allocate",
+    "meanings": [
+      "할당하다"
+    ]
+  },
+  {
+    "text": "comprise",
+    "meanings": [
+      "구성하다"
+    ]
+  },
+  {
+    "text": "constitute",
+    "meanings": [
+      "구성하다"
+    ]
+  },
+  {
+    "text": "manifest",
+    "meanings": [
+      "나타내다",
+      "명백한"
+    ]
+  },
+  {
+    "text": "ambiguous",
+    "meanings": [
+      "모호한"
+    ]
+  },
+  {
+    "text": "arbitrary",
+    "meanings": [
+      "임의의"
+    ]
+  },
+  {
+    "text": "intrinsic",
+    "meanings": [
+      "본질적인"
+    ]
+  },
+  {
+    "text": "implicit",
+    "meanings": [
+      "암묵적인"
+    ]
+  },
+  {
+    "text": "explicit",
+    "meanings": [
+      "명시적인"
+    ]
+  },
+  {
+    "text": "predominant",
+    "meanings": [
+      "우세한"
+    ]
+  },
+  {
+    "text": "ubiquitous",
+    "meanings": [
+      "어디에나 있는"
+    ]
+  },
+  {
+    "text": "prevalent",
+    "meanings": [
+      "널리 퍼진"
+    ]
+  },
+  {
+    "text": "integral",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "pivotal",
+    "meanings": [
+      "중추적인"
+    ]
+  },
+  {
+    "text": "advocate",
+    "meanings": [
+      "옹호하다"
+    ]
+  },
+  {
+    "text": "assert",
+    "meanings": [
+      "주장하다"
+    ]
+  },
+  {
+    "text": "presume",
+    "meanings": [
+      "추정하다"
+    ]
+  },
+  {
+    "text": "speculate",
+    "meanings": [
+      "추측하다"
+    ]
+  },
+  {
+    "text": "postulate",
+    "meanings": [
+      "가정하다"
+    ]
+  },
+  {
+    "text": "elaborate",
+    "meanings": [
+      "정교한",
+      "자세히 설명하다"
+    ]
+  },
+  {
+    "text": "scrutinize",
+    "meanings": [
+      "면밀히 조사하다"
+    ]
+  },
+  {
+    "text": "discern",
+    "meanings": [
+      "식별하다"
+    ]
+  },
+  {
+    "text": "deduce",
+    "meanings": [
+      "추론하다"
+    ]
+  },
+  {
+    "text": "verify",
+    "meanings": [
+      "확인하다"
+    ]
+  },
+  {
+    "text": "compile",
+    "meanings": [
+      "편찬하다"
+    ]
+  },
+  {
+    "text": "categorize",
+    "meanings": [
+      "분류하다"
+    ]
+  },
+  {
+    "text": "differentiate",
+    "meanings": [
+      "구별하다"
+    ]
+  },
+  {
+    "text": "correlate",
+    "meanings": [
+      "상관관계가 있다"
+    ]
+  },
+  {
+    "text": "investigate",
+    "meanings": [
+      "조사하다"
+    ]
+  },
+  {
+    "text": "hypothesize",
+    "meanings": [
+      "가설을 세우다"
+    ]
+  },
+  {
+    "text": "criterion",
+    "meanings": [
+      "기준"
+    ]
+  },
+  {
+    "text": "variable",
+    "meanings": [
+      "변수"
+    ]
+  },
+  {
+    "text": "constant",
+    "meanings": [
+      "상수",
+      "끊임없는"
+    ]
+  },
+  {
+    "text": "deviation",
+    "meanings": [
+      "편차"
+    ]
+  },
+  {
+    "text": "magnitude",
+    "meanings": [
+      "규모"
+    ]
+  },
+  {
+    "text": "dimension",
+    "meanings": [
+      "차원"
+    ]
+  },
+  {
+    "text": "trajectory",
+    "meanings": [
+      "궤적"
+    ]
+  },
+  {
+    "text": "spectrum",
+    "meanings": [
+      "범위"
+    ]
+  },
+  {
+    "text": "complexity",
+    "meanings": [
+      "복잡성"
+    ]
+  },
+  {
+    "text": "diversity",
+    "meanings": [
+      "다양성"
+    ]
+  },
+  {
+    "text": "abundance",
+    "meanings": [
+      "풍부함"
+    ]
+  },
+  {
+    "text": "scarcity",
+    "meanings": [
+      "부족"
+    ]
+  },
+  {
+    "text": "advent",
+    "meanings": [
+      "도래"
+    ]
+  },
+  {
+    "text": "emergence",
+    "meanings": [
+      "출현"
+    ]
+  },
+  {
+    "text": "evolution",
+    "meanings": [
+      "진화"
+    ]
+  },
+  {
+    "text": "transformation",
+    "meanings": [
+      "변형"
+    ]
+  },
+  {
+    "text": "transition",
+    "meanings": [
+      "전환"
+    ]
+  },
+  {
+    "text": "fluctuation",
+    "meanings": [
+      "변동"
+    ]
+  },
+  {
+    "text": "stability",
+    "meanings": [
+      "안정성"
+    ]
+  },
+  {
+    "text": "equilibrium",
+    "meanings": [
+      "평형"
+    ]
+  },
+  {
+    "text": "resilience",
+    "meanings": [
+      "회복력"
+    ]
+  },
+  {
+    "text": "vulnerability",
+    "meanings": [
+      "취약성"
+    ]
+  },
+  {
+    "text": "feasible",
+    "meanings": [
+      "실현 가능한"
+    ]
+  },
+  {
+    "text": "plausible",
+    "meanings": [
+      "그럴듯한"
+    ]
+  },
+  {
+    "text": "inherent",
+    "meanings": [
+      "내재된"
+    ]
+  },
+  {
+    "text": "subtle",
+    "meanings": [
+      "미묘한"
+    ]
+  },
+  {
+    "text": "profound",
+    "meanings": [
+      "심오한"
+    ]
+  },
+  {
+    "text": "rigorous",
+    "meanings": [
+      "엄격한"
+    ]
+  },
+  {
+    "text": "robust",
+    "meanings": [
+      "탄탄한"
+    ]
+  },
+  {
+    "text": "coherent",
+    "meanings": [
+      "일관된"
+    ]
+  },
+  {
+    "text": "consistent",
+    "meanings": [
+      "일관된"
+    ]
+  },
+  {
+    "text": "contemporary",
+    "meanings": [
+      "현대의"
+    ]
+  },
+  {
+    "text": "traditional",
+    "meanings": [
+      "전통적인"
+    ]
+  },
+  {
+    "text": "conventional",
+    "meanings": [
+      "전통적인"
+    ]
+  },
+  {
+    "text": "controversial",
+    "meanings": [
+      "논란이 많은"
+    ]
+  },
+  {
+    "text": "paradoxical",
+    "meanings": [
+      "역설적인"
+    ]
+  },
+  {
+    "text": "anomaly",
+    "meanings": [
+      "이례적인 것"
+    ]
+  },
+  {
+    "text": "consensus",
+    "meanings": [
+      "합의"
+    ]
+  },
+  {
+    "text": "dichotomy",
+    "meanings": [
+      "이분법"
+    ]
+  },
+  {
+    "text": "spectrum",
+    "meanings": [
+      "스펙트럼"
+    ]
+  },
+  {
+    "text": "ramification",
+    "meanings": [
+      "결과",
+      "파급 효과"
+    ]
+  },
+  {
+    "text": "implication",
+    "meanings": [
+      "함의"
+    ]
+  },
+  {
+    "text": "presumption",
+    "meanings": [
+      "추정"
+    ]
+  },
+  {
+    "text": "assumption",
+    "meanings": [
+      "가정"
+    ]
+  },
+  {
+    "text": "supposition",
+    "meanings": [
+      "추측"
+    ]
+  },
+  {
+    "text": "proposition",
+    "meanings": [
+      "명제"
+    ]
+  },
+  {
+    "text": "preliminary",
+    "meanings": [
+      "예비적인"
+    ]
+  },
+  {
+    "text": "subsequent",
+    "meanings": [
+      "후속의"
+    ]
+  },
+  {
+    "text": "underlying",
+    "meanings": [
+      "근본적인"
+    ]
+  },
+  {
+    "text": "overarching",
+    "meanings": [
+      "포괄적인"
+    ]
+  },
+  {
+    "text": "salient",
+    "meanings": [
+      "두드러진"
+    ]
+  },
+  {
+    "text": "marginal",
+    "meanings": [
+      "주변적인"
+    ]
+  },
+  {
+    "text": "trivial",
+    "meanings": [
+      "사소한"
+    ]
+  },
+  {
+    "text": "negligible",
+    "meanings": [
+      "무시할 수 있는"
+    ]
+  },
+  {
+    "text": "substantial",
+    "meanings": [
+      "상당한"
+    ]
+  },
+  {
+    "text": "extensive",
+    "meanings": [
+      "광범위한"
+    ]
+  },
+  {
+    "text": "abundant",
+    "meanings": [
+      "풍부한"
+    ]
+  },
+  {
+    "text": "sparse",
+    "meanings": [
+      "드문"
+    ]
+  },
+  {
+    "text": "facilitate",
+    "meanings": [
+      "용이하게 하다"
+    ]
+  },
+  {
+    "text": "hinder",
+    "meanings": [
+      "방해하다"
+    ]
+  },
+  {
+    "text": "exacerbate",
+    "meanings": [
+      "악화시키다"
+    ]
+  },
+  {
+    "text": "alleviate",
+    "meanings": [
+      "완화하다"
+    ]
+  },
+  {
+    "text": "accumulate",
+    "meanings": [
+      "축적하다"
+    ]
+  },
+  {
+    "text": "dissipate",
+    "meanings": [
+      "흩어지다"
+    ]
+  },
+  {
+    "text": "perpetuate",
+    "meanings": [
+      "영속시키다"
+    ]
+  },
+  {
+    "text": "undermine",
+    "meanings": [
+      "약화시키다"
+    ]
+  },
+  {
+    "text": "diminish",
+    "meanings": [
+      "줄어들다"
+    ]
+  },
+  {
+    "text": "amplify",
+    "meanings": [
+      "증폭시키다"
+    ]
+  },
+  {
+    "text": "augment",
+    "meanings": [
+      "늘리다"
+    ]
+  },
+  {
+    "text": "counter",
+    "meanings": [
+      "반박하다"
+    ]
+  },
+  {
+    "text": "elucidate",
+    "meanings": [
+      "명확히 설명하다"
+    ]
+  },
+  {
+    "text": "convey",
+    "meanings": [
+      "전달하다"
+    ]
+  },
+  {
+    "text": "depict",
+    "meanings": [
+      "묘사하다"
+    ]
+  },
+  {
+    "text": "portray",
+    "meanings": [
+      "묘사하다"
+    ]
+  },
+  {
+    "text": "presume",
+    "meanings": [
+      "추정하다"
+    ]
+  },
+  {
+    "text": "speculate",
+    "meanings": [
+      "추측하다"
+    ]
+  },
+  {
+    "text": "exemplify",
+    "meanings": [
+      "예시하다"
+    ]
+  },
+  {
+    "text": "characterize",
+    "meanings": [
+      "특징짓다"
+    ]
+  },
+  {
+    "text": "encompass",
+    "meanings": [
+      "포함하다"
+    ]
+  },
+  {
+    "text": "incorporate",
+    "meanings": [
+      "통합하다"
+    ]
+  },
+  {
+    "text": "integrate",
+    "meanings": [
+      "통합하다"
+    ]
+  },
+  {
+    "text": "isolate",
+    "meanings": [
+      "분리하다"
+    ]
+  },
+  {
+    "text": "segregate",
+    "meanings": [
+      "분리하다"
+    ]
+  },
+  {
+    "text": "extract",
+    "meanings": [
+      "추출하다"
+    ]
+  },
+  {
+    "text": "render",
+    "meanings": [
+      "만들다",
+      "표현하다"
+    ]
+  },
+  {
+    "text": "yield",
+    "meanings": [
+      "산출하다"
+    ]
+  },
+  {
+    "text": "induce",
+    "meanings": [
+      "유발하다"
+    ]
+  },
+  {
+    "text": "instigate",
+    "meanings": [
+      "선동하다"
+    ]
+  },
+  {
+    "text": "trigger",
+    "meanings": [
+      "촉발하다"
+    ]
+  },
+  {
+    "text": "prompt",
+    "meanings": [
+      "촉발하다",
+      "신속한"
+    ]
+  },
+  {
+    "text": "evoke",
+    "meanings": [
+      "불러일으키다"
+    ]
+  },
+  {
+    "text": "convey",
+    "meanings": [
+      "전달하다"
+    ]
+  },
+  {
+    "text": "aberrant",
+    "meanings": [
+      "비정상적인"
+    ]
+  },
+  {
+    "text": "abstract",
+    "meanings": [
+      "추상적인"
+    ]
+  },
+  {
+    "text": "accurate",
+    "meanings": [
+      "정확한"
+    ]
+  },
+  {
+    "text": "acquisition",
+    "meanings": [
+      "습득"
+    ]
+  },
+  {
+    "text": "adaptation",
+    "meanings": [
+      "적응"
+    ]
+  },
+  {
+    "text": "aggregate",
+    "meanings": [
+      "집합체"
+    ]
+  },
+  {
+    "text": "analogous",
+    "meanings": [
+      "유사한"
+    ]
+  },
+  {
+    "text": "anticipate",
+    "meanings": [
+      "예상하다"
+    ]
+  },
+  {
+    "text": "applicable",
+    "meanings": [
+      "적용 가능한"
+    ]
+  },
+  {
+    "text": "approximate",
+    "meanings": [
+      "대략적인"
+    ]
+  },
+  {
+    "text": "archaeology",
+    "meanings": [
+      "고고학"
+    ]
+  },
+  {
+    "text": "assimilate",
+    "meanings": [
+      "동화하다"
+    ]
+  },
+  {
+    "text": "astronomy",
+    "meanings": [
+      "천문학"
+    ]
+  },
+  {
+    "text": "authenticate",
+    "meanings": [
+      "인증하다"
+    ]
+  },
+  {
+    "text": "behavioral",
+    "meanings": [
+      "행동의"
+    ]
+  },
+  {
+    "text": "biological",
+    "meanings": [
+      "생물학적인"
+    ]
+  },
+  {
+    "text": "calculate",
+    "meanings": [
+      "계산하다"
+    ]
+  },
+  {
+    "text": "catalyst",
+    "meanings": [
+      "촉매"
+    ]
+  },
+  {
+    "text": "causal",
+    "meanings": [
+      "인과관계의"
+    ]
+  },
+  {
+    "text": "chronological",
+    "meanings": [
+      "연대순의"
+    ]
+  },
+  {
+    "text": "circumstantial",
+    "meanings": [
+      "정황적인"
+    ]
+  },
+  {
+    "text": "classify",
+    "meanings": [
+      "분류하다"
+    ]
+  },
+  {
+    "text": "cognitive",
+    "meanings": [
+      "인지적인"
+    ]
+  },
+  {
+    "text": "comet",
+    "meanings": [
+      "혜성"
+    ]
+  },
+  {
+    "text": "complex",
+    "meanings": [
+      "복잡한"
+    ]
+  },
+  {
+    "text": "compound",
+    "meanings": [
+      "복합물"
+    ]
+  },
+  {
+    "text": "conceive",
+    "meanings": [
+      "구상하다"
+    ]
+  },
+  {
+    "text": "conceptual",
+    "meanings": [
+      "개념적인"
+    ]
+  },
+  {
+    "text": "confine",
+    "meanings": [
+      "국한시키다"
+    ]
+  },
+  {
+    "text": "conformity",
+    "meanings": [
+      "순응"
+    ]
+  },
+  {
+    "text": "consequence",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "correlation",
+    "meanings": [
+      "상관관계"
+    ]
+  },
+  {
+    "text": "credible",
+    "meanings": [
+      "신뢰할 수 있는"
+    ]
+  },
+  {
+    "text": "crucial",
+    "meanings": [
+      "중요한"
+    ]
+  },
+  {
+    "text": "cumulative",
+    "meanings": [
+      "누적적인"
+    ]
+  },
+  {
+    "text": "deduction",
+    "meanings": [
+      "추론"
+    ]
+  },
+  {
+    "text": "deliberate",
+    "meanings": [
+      "의도적인"
+    ]
+  },
+  {
+    "text": "density",
+    "meanings": [
+      "밀도"
+    ]
+  },
+  {
+    "text": "deplete",
+    "meanings": [
+      "고갈시키다"
+    ]
+  },
+  {
+    "text": "detect",
+    "meanings": [
+      "탐지하다"
+    ]
+  },
+  {
+    "text": "diffuse",
+    "meanings": [
+      "퍼뜨리다"
+    ]
+  },
+  {
+    "text": "discrete",
+    "meanings": [
+      "별개의"
+    ]
+  },
+  {
+    "text": "disperse",
+    "meanings": [
+      "분산시키다"
+    ]
+  },
+  {
+    "text": "document",
+    "meanings": [
+      "기록하다"
+    ]
+  },
+  {
+    "text": "dominant",
+    "meanings": [
+      "지배적인"
+    ]
+  },
+  {
+    "text": "duration",
+    "meanings": [
+      "지속 기간"
+    ]
+  },
+  {
+    "text": "ecological",
+    "meanings": [
+      "생태학적인"
+    ]
+  },
+  {
+    "text": "element",
+    "meanings": [
+      "요소"
+    ]
+  },
+  {
+    "text": "emerge",
+    "meanings": [
+      "나타나다"
+    ]
+  },
+  {
+    "text": "emission",
+    "meanings": [
+      "배출"
+    ]
+  },
+  {
+    "text": "emphasis",
+    "meanings": [
+      "강조"
+    ]
+  },
+  {
+    "text": "encode",
+    "meanings": [
+      "인코딩하다"
+    ]
+  },
+  {
+    "text": "endure",
+    "meanings": [
+      "견디다"
+    ]
+  },
+  {
+    "text": "erode",
+    "meanings": [
+      "침식하다"
+    ]
+  },
+  {
+    "text": "essential",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "evolve",
+    "meanings": [
+      "진화하다"
+    ]
+  },
+  {
+    "text": "excavate",
+    "meanings": [
+      "발굴하다"
+    ]
+  },
+  {
+    "text": "exploit",
+    "meanings": [
+      "활용하다"
+    ]
+  },
+  {
+    "text": "extend",
+    "meanings": [
+      "확장하다"
+    ]
+  },
+  {
+    "text": "fluctuate",
+    "meanings": [
+      "변동하다"
+    ]
+  },
+  {
+    "text": "formulate",
+    "meanings": [
+      "공식화하다"
+    ]
+  },
+  {
+    "text": "fragment",
+    "meanings": [
+      "파편"
+    ]
+  },
+  {
+    "text": "frequency",
+    "meanings": [
+      "빈도"
+    ]
+  },
+  {
+    "text": "function",
+    "meanings": [
+      "기능"
+    ]
+  },
+  {
+    "text": "generate",
+    "meanings": [
+      "생성하다"
+    ]
+  },
+  {
+    "text": "geographic",
+    "meanings": [
+      "지리적인"
+    ]
+  },
+  {
+    "text": "gravity",
+    "meanings": [
+      "중력"
+    ]
+  },
+  {
+    "text": "hemisphere",
+    "meanings": [
+      "반구"
+    ]
+  },
+  {
+    "text": "hierarchy",
+    "meanings": [
+      "계층"
+    ]
+  },
+  {
+    "text": "identical",
+    "meanings": [
+      "동일한"
+    ]
+  },
+  {
+    "text": "implement",
+    "meanings": [
+      "시행하다"
+    ]
+  },
+  {
+    "text": "inevitable",
+    "meanings": [
+      "불가피한"
+    ]
+  },
+  {
+    "text": "inhibit",
+    "meanings": [
+      "억제하다"
+    ]
+  },
+  {
+    "text": "innovation",
+    "meanings": [
+      "혁신"
+    ]
+  },
+  {
+    "text": "integrated",
+    "meanings": [
+      "통합된"
+    ]
+  },
+  {
+    "text": "interaction",
+    "meanings": [
+      "상호작용"
+    ]
+  },
+  {
+    "text": "isolated",
+    "meanings": [
+      "고립된"
+    ]
+  },
+  {
+    "text": "kinetic",
+    "meanings": [
+      "운동의"
+    ]
+  },
+  {
+    "text": "landscape",
+    "meanings": [
+      "지형"
+    ]
+  },
+  {
+    "text": "linear",
+    "meanings": [
+      "선형의"
+    ]
+  },
+  {
+    "text": "magnetic",
+    "meanings": [
+      "자기의"
+    ]
+  },
+  {
+    "text": "manipulation",
+    "meanings": [
+      "조작"
+    ]
+  },
+  {
+    "text": "mechanism",
+    "meanings": [
+      "메커니즘"
+    ]
+  },
+  {
+    "text": "migration",
+    "meanings": [
+      "이동"
+    ]
+  },
+  {
+    "text": "molecular",
+    "meanings": [
+      "분자의"
+    ]
+  },
+  {
+    "text": "momentum",
+    "meanings": [
+      "운동량"
+    ]
+  },
+  {
+    "text": "neutral",
+    "meanings": [
+      "중립적인"
+    ]
+  },
+  {
+    "text": "nucleus",
+    "meanings": [
+      "핵"
+    ]
+  },
+  {
+    "text": "observation",
+    "meanings": [
+      "관찰"
+    ]
+  },
+  {
+    "text": "occur",
+    "meanings": [
+      "발생하다"
+    ]
+  },
+  {
+    "text": "organic",
+    "meanings": [
+      "유기적인"
+    ]
+  },
+  {
+    "text": "originate",
+    "meanings": [
+      "기원하다"
+    ]
+  },
+  {
+    "text": "oscillate",
+    "meanings": [
+      "진동하다"
+    ]
+  },
+  {
+    "text": "outcome",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "overlap",
+    "meanings": [
+      "겹치다"
+    ]
+  },
+  {
+    "text": "oxide",
+    "meanings": [
+      "산화물"
+    ]
+  },
+  {
+    "text": "particle",
+    "meanings": [
+      "입자"
+    ]
+  },
+  {
+    "text": "pattern",
+    "meanings": [
+      "패턴"
+    ]
+  },
+  {
+    "text": "perceive",
+    "meanings": [
+      "인식하다"
+    ]
+  },
+  {
+    "text": "persist",
+    "meanings": [
+      "지속하다"
+    ]
+  },
+  {
+    "text": "phase",
+    "meanings": [
+      "단계"
+    ]
+  },
+  {
+    "text": "physiology",
+    "meanings": [
+      "생리학"
+    ]
+  },
+  {
+    "text": "precede",
+    "meanings": [
+      "앞서다"
+    ]
+  },
+  {
+    "text": "precise",
+    "meanings": [
+      "정밀한"
+    ]
+  },
+  {
+    "text": "predict",
+    "meanings": [
+      "예측하다"
+    ]
+  },
+  {
+    "text": "primary",
+    "meanings": [
+      "주요한"
+    ]
+  },
+  {
+    "text": "primitive",
+    "meanings": [
+      "원시적인"
+    ]
+  },
+  {
+    "text": "principle",
+    "meanings": [
+      "원리"
+    ]
+  },
+  {
+    "text": "process",
+    "meanings": [
+      "과정"
+    ]
+  },
+  {
+    "text": "proportion",
+    "meanings": [
+      "비율"
+    ]
+  },
+  {
+    "text": "radiation",
+    "meanings": [
+      "방사선"
+    ]
+  },
+  {
+    "text": "regulate",
+    "meanings": [
+      "조절하다"
+    ]
+  },
+  {
+    "text": "relative",
+    "meanings": [
+      "상대적인"
+    ]
+  },
+  {
+    "text": "relevant",
+    "meanings": [
+      "관련 있는"
+    ]
+  },
+  {
+    "text": "replicate",
+    "meanings": [
+      "복제하다"
+    ]
+  },
+  {
+    "text": "retain",
+    "meanings": [
+      "유지하다"
+    ]
+  },
+  {
+    "text": "reveal",
+    "meanings": [
+      "밝히다"
+    ]
+  },
+  {
+    "text": "sediment",
+    "meanings": [
+      "퇴적물"
+    ]
+  },
+  {
+    "text": "simulate",
+    "meanings": [
+      "시뮬레이션하다"
+    ]
+  },
+  {
+    "text": "solar",
+    "meanings": [
+      "태양의"
+    ]
+  },
+  {
+    "text": "species",
+    "meanings": [
+      "종"
+    ]
+  },
+  {
+    "text": "stable",
+    "meanings": [
+      "안정적인"
+    ]
+  },
+  {
+    "text": "structure",
+    "meanings": [
+      "구조"
+    ]
+  },
+  {
+    "text": "substitute",
+    "meanings": [
+      "대체하다"
+    ]
+  },
+  {
+    "text": "taxonomy",
+    "meanings": [
+      "분류학"
+    ]
+  },
+  {
+    "text": "temporal",
+    "meanings": [
+      "시간적인"
+    ]
+  },
+  {
+    "text": "thermal",
+    "meanings": [
+      "열의"
+    ]
+  },
+  {
+    "text": "trait",
+    "meanings": [
+      "특성"
+    ]
+  },
+  {
+    "text": "transform",
+    "meanings": [
+      "변환하다"
+    ]
+  },
+  {
+    "text": "transmission",
+    "meanings": [
+      "전달"
+    ]
+  },
+  {
+    "text": "variation",
+    "meanings": [
+      "변이"
+    ]
+  },
+  {
+    "text": "visible",
+    "meanings": [
+      "보이는"
+    ]
+  }
 ]

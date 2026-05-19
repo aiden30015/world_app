@@ -1,161 +1,1632 @@
 [
-  {"text": "environment", "meaning": "환경"},
-  {"text": "sustainable", "meaning": "지속 가능한"},
-  {"text": "economy", "meaning": "경제"},
-  {"text": "culture", "meaning": "문화"},
-  {"text": "education", "meaning": "교육"},
-  {"text": "technology", "meaning": "기술"},
-  {"text": "immigration", "meaning": "이민"},
-  {"text": "globalization", "meaning": "세계화"},
-  {"text": "infrastructure", "meaning": "기반시설"},
-  {"text": "democracy", "meaning": "민주주의"},
-  {"text": "poverty", "meaning": "빈곤"},
-  {"text": "urbanization", "meaning": "도시화"},
-  {"text": "biodiversity", "meaning": "생물 다양성"},
-  {"text": "renewable", "meaning": "재생 가능한"},
-  {"text": "pollution", "meaning": "오염"},
-  {"text": "climate", "meaning": "기후"},
-  {"text": "agriculture", "meaning": "농업"},
-  {"text": "transportation", "meaning": "교통, 운송"},
-  {"text": "communication", "meaning": "의사소통"},
-  {"text": "healthcare", "meaning": "의료"},
-  {"text": "employment", "meaning": "고용"},
-  {"text": "inflation", "meaning": "인플레이션"},
-  {"text": "recession", "meaning": "경기 침체"},
-  {"text": "inequality", "meaning": "불평등"},
-  {"text": "diversity", "meaning": "다양성"},
-  {"text": "innovation", "meaning": "혁신"},
-  {"text": "productivity", "meaning": "생산성"},
-  {"text": "regulation", "meaning": "규제"},
-  {"text": "legislation", "meaning": "법률"},
-  {"text": "welfare", "meaning": "복지"},
-  {"text": "privacy", "meaning": "사생활"},
-  {"text": "surveillance", "meaning": "감시"},
-  {"text": "equality", "meaning": "평등"},
-  {"text": "rights", "meaning": "권리"},
-  {"text": "freedom", "meaning": "자유"},
-  {"text": "nutrition", "meaning": "영양"},
-  {"text": "obesity", "meaning": "비만"},
-  {"text": "exercise", "meaning": "운동"},
-  {"text": "mental", "meaning": "정신의"},
-  {"text": "wellbeing", "meaning": "복지, 안녕"},
-  {"text": "nuclear", "meaning": "핵의"},
-  {"text": "fossil", "meaning": "화석"},
-  {"text": "solar", "meaning": "태양의"},
-  {"text": "electricity", "meaning": "전기"},
-  {"text": "refugee", "meaning": "난민"},
-  {"text": "displacement", "meaning": "이주, 강제이동"},
-  {"text": "discrimination", "meaning": "차별"},
-  {"text": "prejudice", "meaning": "편견"},
-  {"text": "stereotype", "meaning": "고정관념"},
-  {"text": "tolerance", "meaning": "관용"},
-  {"text": "literacy", "meaning": "문해력"},
-  {"text": "curriculum", "meaning": "교육과정"},
-  {"text": "scholarship", "meaning": "장학금"},
-  {"text": "graduate", "meaning": "졸업하다"},
-  {"text": "qualification", "meaning": "자격"},
-  {"text": "vocational", "meaning": "직업의"},
-  {"text": "academic", "meaning": "학문적인"},
-  {"text": "tuition", "meaning": "수업료"},
-  {"text": "facility", "meaning": "시설"},
-  {"text": "resource", "meaning": "자원"},
-  {"text": "consumption", "meaning": "소비"},
-  {"text": "preservation", "meaning": "보존"},
-  {"text": "conservation", "meaning": "보존"},
-  {"text": "extinction", "meaning": "멸종"},
-  {"text": "ecosystem", "meaning": "생태계"},
-  {"text": "habitat", "meaning": "서식지"},
-  {"text": "wildlife", "meaning": "야생 생물"},
-  {"text": "deforestation", "meaning": "삼림 벌채"},
-  {"text": "emission", "meaning": "배출"},
-  {"text": "carbon", "meaning": "탄소"},
-  {"text": "recycling", "meaning": "재활용"},
-  {"text": "waste", "meaning": "쓰레기, 낭비"},
-  {"text": "energy", "meaning": "에너지"},
-  {"text": "industry", "meaning": "산업"},
-  {"text": "manufacture", "meaning": "제조하다"},
-  {"text": "consumer", "meaning": "소비자"},
-  {"text": "producer", "meaning": "생산자"},
-  {"text": "marketing", "meaning": "마케팅"},
-  {"text": "advertisement", "meaning": "광고"},
-  {"text": "media", "meaning": "매체"},
-  {"text": "broadcast", "meaning": "방송하다"},
-  {"text": "journalism", "meaning": "언론"},
-  {"text": "censorship", "meaning": "검열"},
-  {"text": "propaganda", "meaning": "선전"},
-  {"text": "ideology", "meaning": "이념"},
-  {"text": "politics", "meaning": "정치"},
-  {"text": "election", "meaning": "선거"},
-  {"text": "candidate", "meaning": "후보자"},
-  {"text": "policy", "meaning": "정책"},
-  {"text": "authority", "meaning": "권한"},
-  {"text": "government", "meaning": "정부"},
-  {"text": "parliament", "meaning": "의회"},
-  {"text": "constitution", "meaning": "헌법"},
-  {"text": "justice", "meaning": "정의"},
-  {"text": "crime", "meaning": "범죄"},
-  {"text": "punishment", "meaning": "처벌"},
-  {"text": "rehabilitation", "meaning": "재활"},
-  {"text": "violence", "meaning": "폭력"},
-  {"text": "conflict", "meaning": "갈등"},
-  {"text": "cooperation", "meaning": "협력"},
-  {"text": "negotiation", "meaning": "협상"},
-  {"text": "treaty", "meaning": "조약"},
-  {"text": "alliance", "meaning": "동맹"},
-  {"text": "rivalry", "meaning": "경쟁"},
-  {"text": "tradition", "meaning": "전통"},
-  {"text": "custom", "meaning": "관습"},
-  {"text": "heritage", "meaning": "유산"},
-  {"text": "identity", "meaning": "정체성"},
-  {"text": "language", "meaning": "언어"},
-  {"text": "dialect", "meaning": "방언"},
-  {"text": "literature", "meaning": "문학"},
-  {"text": "philosophy", "meaning": "철학"},
-  {"text": "religion", "meaning": "종교"},
-  {"text": "belief", "meaning": "믿음"},
-  {"text": "morality", "meaning": "도덕성"},
-  {"text": "ethics", "meaning": "윤리"},
-  {"text": "value", "meaning": "가치"},
-  {"text": "principle", "meaning": "원칙"},
-  {"text": "ambition", "meaning": "야망"},
-  {"text": "motivation", "meaning": "동기"},
-  {"text": "achievement", "meaning": "성취"},
-  {"text": "career", "meaning": "직업"},
-  {"text": "profession", "meaning": "전문직"},
-  {"text": "occupation", "meaning": "직업"},
-  {"text": "workforce", "meaning": "노동력"},
-  {"text": "unemployment", "meaning": "실업"},
-  {"text": "wage", "meaning": "임금"},
-  {"text": "income", "meaning": "수입"},
-  {"text": "expense", "meaning": "지출"},
-  {"text": "investment", "meaning": "투자"},
-  {"text": "savings", "meaning": "저축"},
-  {"text": "loan", "meaning": "대출"},
-  {"text": "debt", "meaning": "부채"},
-  {"text": "asset", "meaning": "자산"},
-  {"text": "wealth", "meaning": "부"},
-  {"text": "lifestyle", "meaning": "생활 방식"},
-  {"text": "leisure", "meaning": "여가"},
-  {"text": "entertainment", "meaning": "오락"},
-  {"text": "tourism", "meaning": "관광"},
-  {"text": "destination", "meaning": "목적지"},
-  {"text": "abroad", "meaning": "해외에"},
-  {"text": "currency", "meaning": "통화"},
-  {"text": "trade", "meaning": "무역"},
-  {"text": "export", "meaning": "수출"},
-  {"text": "import", "meaning": "수입"},
-  {"text": "tariff", "meaning": "관세"},
-  {"text": "subsidy", "meaning": "보조금"},
-  {"text": "infrastructure", "meaning": "기반 시설"},
-  {"text": "transportation", "meaning": "운송"},
-  {"text": "urban", "meaning": "도시의"},
-  {"text": "rural", "meaning": "시골의"},
-  {"text": "suburb", "meaning": "교외"},
-  {"text": "metropolitan", "meaning": "대도시의"},
-  {"text": "population", "meaning": "인구"},
-  {"text": "demographic", "meaning": "인구통계의"},
-  {"text": "generation", "meaning": "세대"},
-  {"text": "elderly", "meaning": "노인의"},
-  {"text": "youth", "meaning": "청년"},
-  {"text": "adolescence", "meaning": "청소년기"}
+  {
+    "text": "environment",
+    "meanings": [
+      "환경"
+    ]
+  },
+  {
+    "text": "sustainable",
+    "meanings": [
+      "지속 가능한"
+    ]
+  },
+  {
+    "text": "economy",
+    "meanings": [
+      "경제"
+    ]
+  },
+  {
+    "text": "culture",
+    "meanings": [
+      "문화"
+    ]
+  },
+  {
+    "text": "education",
+    "meanings": [
+      "교육"
+    ]
+  },
+  {
+    "text": "technology",
+    "meanings": [
+      "기술"
+    ]
+  },
+  {
+    "text": "immigration",
+    "meanings": [
+      "이민"
+    ]
+  },
+  {
+    "text": "globalization",
+    "meanings": [
+      "세계화"
+    ]
+  },
+  {
+    "text": "infrastructure",
+    "meanings": [
+      "기반시설"
+    ]
+  },
+  {
+    "text": "democracy",
+    "meanings": [
+      "민주주의"
+    ]
+  },
+  {
+    "text": "poverty",
+    "meanings": [
+      "빈곤"
+    ]
+  },
+  {
+    "text": "urbanization",
+    "meanings": [
+      "도시화"
+    ]
+  },
+  {
+    "text": "biodiversity",
+    "meanings": [
+      "생물 다양성"
+    ]
+  },
+  {
+    "text": "renewable",
+    "meanings": [
+      "재생 가능한"
+    ]
+  },
+  {
+    "text": "pollution",
+    "meanings": [
+      "오염"
+    ]
+  },
+  {
+    "text": "climate",
+    "meanings": [
+      "기후"
+    ]
+  },
+  {
+    "text": "agriculture",
+    "meanings": [
+      "농업"
+    ]
+  },
+  {
+    "text": "transportation",
+    "meanings": [
+      "교통",
+      "운송"
+    ]
+  },
+  {
+    "text": "communication",
+    "meanings": [
+      "의사소통"
+    ]
+  },
+  {
+    "text": "healthcare",
+    "meanings": [
+      "의료"
+    ]
+  },
+  {
+    "text": "employment",
+    "meanings": [
+      "고용"
+    ]
+  },
+  {
+    "text": "inflation",
+    "meanings": [
+      "인플레이션"
+    ]
+  },
+  {
+    "text": "recession",
+    "meanings": [
+      "경기 침체"
+    ]
+  },
+  {
+    "text": "inequality",
+    "meanings": [
+      "불평등"
+    ]
+  },
+  {
+    "text": "diversity",
+    "meanings": [
+      "다양성"
+    ]
+  },
+  {
+    "text": "innovation",
+    "meanings": [
+      "혁신"
+    ]
+  },
+  {
+    "text": "productivity",
+    "meanings": [
+      "생산성"
+    ]
+  },
+  {
+    "text": "regulation",
+    "meanings": [
+      "규제"
+    ]
+  },
+  {
+    "text": "legislation",
+    "meanings": [
+      "법률"
+    ]
+  },
+  {
+    "text": "welfare",
+    "meanings": [
+      "복지"
+    ]
+  },
+  {
+    "text": "privacy",
+    "meanings": [
+      "사생활"
+    ]
+  },
+  {
+    "text": "surveillance",
+    "meanings": [
+      "감시"
+    ]
+  },
+  {
+    "text": "equality",
+    "meanings": [
+      "평등"
+    ]
+  },
+  {
+    "text": "rights",
+    "meanings": [
+      "권리"
+    ]
+  },
+  {
+    "text": "freedom",
+    "meanings": [
+      "자유"
+    ]
+  },
+  {
+    "text": "nutrition",
+    "meanings": [
+      "영양"
+    ]
+  },
+  {
+    "text": "obesity",
+    "meanings": [
+      "비만"
+    ]
+  },
+  {
+    "text": "exercise",
+    "meanings": [
+      "운동"
+    ]
+  },
+  {
+    "text": "mental",
+    "meanings": [
+      "정신의"
+    ]
+  },
+  {
+    "text": "wellbeing",
+    "meanings": [
+      "복지",
+      "안녕"
+    ]
+  },
+  {
+    "text": "nuclear",
+    "meanings": [
+      "핵의"
+    ]
+  },
+  {
+    "text": "fossil",
+    "meanings": [
+      "화석"
+    ]
+  },
+  {
+    "text": "solar",
+    "meanings": [
+      "태양의"
+    ]
+  },
+  {
+    "text": "electricity",
+    "meanings": [
+      "전기"
+    ]
+  },
+  {
+    "text": "refugee",
+    "meanings": [
+      "난민"
+    ]
+  },
+  {
+    "text": "displacement",
+    "meanings": [
+      "이주",
+      "강제이동"
+    ]
+  },
+  {
+    "text": "discrimination",
+    "meanings": [
+      "차별"
+    ]
+  },
+  {
+    "text": "prejudice",
+    "meanings": [
+      "편견"
+    ]
+  },
+  {
+    "text": "stereotype",
+    "meanings": [
+      "고정관념"
+    ]
+  },
+  {
+    "text": "tolerance",
+    "meanings": [
+      "관용"
+    ]
+  },
+  {
+    "text": "literacy",
+    "meanings": [
+      "문해력"
+    ]
+  },
+  {
+    "text": "curriculum",
+    "meanings": [
+      "교육과정"
+    ]
+  },
+  {
+    "text": "scholarship",
+    "meanings": [
+      "장학금"
+    ]
+  },
+  {
+    "text": "graduate",
+    "meanings": [
+      "졸업하다"
+    ]
+  },
+  {
+    "text": "qualification",
+    "meanings": [
+      "자격"
+    ]
+  },
+  {
+    "text": "vocational",
+    "meanings": [
+      "직업의"
+    ]
+  },
+  {
+    "text": "academic",
+    "meanings": [
+      "학문적인"
+    ]
+  },
+  {
+    "text": "tuition",
+    "meanings": [
+      "수업료"
+    ]
+  },
+  {
+    "text": "facility",
+    "meanings": [
+      "시설"
+    ]
+  },
+  {
+    "text": "resource",
+    "meanings": [
+      "자원"
+    ]
+  },
+  {
+    "text": "consumption",
+    "meanings": [
+      "소비"
+    ]
+  },
+  {
+    "text": "preservation",
+    "meanings": [
+      "보존"
+    ]
+  },
+  {
+    "text": "conservation",
+    "meanings": [
+      "보존"
+    ]
+  },
+  {
+    "text": "extinction",
+    "meanings": [
+      "멸종"
+    ]
+  },
+  {
+    "text": "ecosystem",
+    "meanings": [
+      "생태계"
+    ]
+  },
+  {
+    "text": "habitat",
+    "meanings": [
+      "서식지"
+    ]
+  },
+  {
+    "text": "wildlife",
+    "meanings": [
+      "야생 생물"
+    ]
+  },
+  {
+    "text": "deforestation",
+    "meanings": [
+      "삼림 벌채"
+    ]
+  },
+  {
+    "text": "emission",
+    "meanings": [
+      "배출"
+    ]
+  },
+  {
+    "text": "carbon",
+    "meanings": [
+      "탄소"
+    ]
+  },
+  {
+    "text": "recycling",
+    "meanings": [
+      "재활용"
+    ]
+  },
+  {
+    "text": "waste",
+    "meanings": [
+      "쓰레기",
+      "낭비"
+    ]
+  },
+  {
+    "text": "energy",
+    "meanings": [
+      "에너지"
+    ]
+  },
+  {
+    "text": "industry",
+    "meanings": [
+      "산업"
+    ]
+  },
+  {
+    "text": "manufacture",
+    "meanings": [
+      "제조하다"
+    ]
+  },
+  {
+    "text": "consumer",
+    "meanings": [
+      "소비자"
+    ]
+  },
+  {
+    "text": "producer",
+    "meanings": [
+      "생산자"
+    ]
+  },
+  {
+    "text": "marketing",
+    "meanings": [
+      "마케팅"
+    ]
+  },
+  {
+    "text": "advertisement",
+    "meanings": [
+      "광고"
+    ]
+  },
+  {
+    "text": "media",
+    "meanings": [
+      "매체"
+    ]
+  },
+  {
+    "text": "broadcast",
+    "meanings": [
+      "방송하다"
+    ]
+  },
+  {
+    "text": "journalism",
+    "meanings": [
+      "언론"
+    ]
+  },
+  {
+    "text": "censorship",
+    "meanings": [
+      "검열"
+    ]
+  },
+  {
+    "text": "propaganda",
+    "meanings": [
+      "선전"
+    ]
+  },
+  {
+    "text": "ideology",
+    "meanings": [
+      "이념"
+    ]
+  },
+  {
+    "text": "politics",
+    "meanings": [
+      "정치"
+    ]
+  },
+  {
+    "text": "election",
+    "meanings": [
+      "선거"
+    ]
+  },
+  {
+    "text": "candidate",
+    "meanings": [
+      "후보자"
+    ]
+  },
+  {
+    "text": "policy",
+    "meanings": [
+      "정책"
+    ]
+  },
+  {
+    "text": "authority",
+    "meanings": [
+      "권한"
+    ]
+  },
+  {
+    "text": "government",
+    "meanings": [
+      "정부"
+    ]
+  },
+  {
+    "text": "parliament",
+    "meanings": [
+      "의회"
+    ]
+  },
+  {
+    "text": "constitution",
+    "meanings": [
+      "헌법"
+    ]
+  },
+  {
+    "text": "justice",
+    "meanings": [
+      "정의"
+    ]
+  },
+  {
+    "text": "crime",
+    "meanings": [
+      "범죄"
+    ]
+  },
+  {
+    "text": "punishment",
+    "meanings": [
+      "처벌"
+    ]
+  },
+  {
+    "text": "rehabilitation",
+    "meanings": [
+      "재활"
+    ]
+  },
+  {
+    "text": "violence",
+    "meanings": [
+      "폭력"
+    ]
+  },
+  {
+    "text": "conflict",
+    "meanings": [
+      "갈등"
+    ]
+  },
+  {
+    "text": "cooperation",
+    "meanings": [
+      "협력"
+    ]
+  },
+  {
+    "text": "negotiation",
+    "meanings": [
+      "협상"
+    ]
+  },
+  {
+    "text": "treaty",
+    "meanings": [
+      "조약"
+    ]
+  },
+  {
+    "text": "alliance",
+    "meanings": [
+      "동맹"
+    ]
+  },
+  {
+    "text": "rivalry",
+    "meanings": [
+      "경쟁"
+    ]
+  },
+  {
+    "text": "tradition",
+    "meanings": [
+      "전통"
+    ]
+  },
+  {
+    "text": "custom",
+    "meanings": [
+      "관습"
+    ]
+  },
+  {
+    "text": "heritage",
+    "meanings": [
+      "유산"
+    ]
+  },
+  {
+    "text": "identity",
+    "meanings": [
+      "정체성"
+    ]
+  },
+  {
+    "text": "language",
+    "meanings": [
+      "언어"
+    ]
+  },
+  {
+    "text": "dialect",
+    "meanings": [
+      "방언"
+    ]
+  },
+  {
+    "text": "literature",
+    "meanings": [
+      "문학"
+    ]
+  },
+  {
+    "text": "philosophy",
+    "meanings": [
+      "철학"
+    ]
+  },
+  {
+    "text": "religion",
+    "meanings": [
+      "종교"
+    ]
+  },
+  {
+    "text": "belief",
+    "meanings": [
+      "믿음"
+    ]
+  },
+  {
+    "text": "morality",
+    "meanings": [
+      "도덕성"
+    ]
+  },
+  {
+    "text": "ethics",
+    "meanings": [
+      "윤리"
+    ]
+  },
+  {
+    "text": "value",
+    "meanings": [
+      "가치"
+    ]
+  },
+  {
+    "text": "principle",
+    "meanings": [
+      "원칙"
+    ]
+  },
+  {
+    "text": "ambition",
+    "meanings": [
+      "야망"
+    ]
+  },
+  {
+    "text": "motivation",
+    "meanings": [
+      "동기"
+    ]
+  },
+  {
+    "text": "achievement",
+    "meanings": [
+      "성취"
+    ]
+  },
+  {
+    "text": "career",
+    "meanings": [
+      "직업"
+    ]
+  },
+  {
+    "text": "profession",
+    "meanings": [
+      "전문직"
+    ]
+  },
+  {
+    "text": "occupation",
+    "meanings": [
+      "직업"
+    ]
+  },
+  {
+    "text": "workforce",
+    "meanings": [
+      "노동력"
+    ]
+  },
+  {
+    "text": "unemployment",
+    "meanings": [
+      "실업"
+    ]
+  },
+  {
+    "text": "wage",
+    "meanings": [
+      "임금"
+    ]
+  },
+  {
+    "text": "income",
+    "meanings": [
+      "수입"
+    ]
+  },
+  {
+    "text": "expense",
+    "meanings": [
+      "지출"
+    ]
+  },
+  {
+    "text": "investment",
+    "meanings": [
+      "투자"
+    ]
+  },
+  {
+    "text": "savings",
+    "meanings": [
+      "저축"
+    ]
+  },
+  {
+    "text": "loan",
+    "meanings": [
+      "대출"
+    ]
+  },
+  {
+    "text": "debt",
+    "meanings": [
+      "부채"
+    ]
+  },
+  {
+    "text": "asset",
+    "meanings": [
+      "자산"
+    ]
+  },
+  {
+    "text": "wealth",
+    "meanings": [
+      "부"
+    ]
+  },
+  {
+    "text": "lifestyle",
+    "meanings": [
+      "생활 방식"
+    ]
+  },
+  {
+    "text": "leisure",
+    "meanings": [
+      "여가"
+    ]
+  },
+  {
+    "text": "entertainment",
+    "meanings": [
+      "오락"
+    ]
+  },
+  {
+    "text": "tourism",
+    "meanings": [
+      "관광"
+    ]
+  },
+  {
+    "text": "destination",
+    "meanings": [
+      "목적지"
+    ]
+  },
+  {
+    "text": "abroad",
+    "meanings": [
+      "해외에"
+    ]
+  },
+  {
+    "text": "currency",
+    "meanings": [
+      "통화"
+    ]
+  },
+  {
+    "text": "trade",
+    "meanings": [
+      "무역"
+    ]
+  },
+  {
+    "text": "export",
+    "meanings": [
+      "수출"
+    ]
+  },
+  {
+    "text": "import",
+    "meanings": [
+      "수입"
+    ]
+  },
+  {
+    "text": "tariff",
+    "meanings": [
+      "관세"
+    ]
+  },
+  {
+    "text": "subsidy",
+    "meanings": [
+      "보조금"
+    ]
+  },
+  {
+    "text": "infrastructure",
+    "meanings": [
+      "기반 시설"
+    ]
+  },
+  {
+    "text": "transportation",
+    "meanings": [
+      "운송"
+    ]
+  },
+  {
+    "text": "urban",
+    "meanings": [
+      "도시의"
+    ]
+  },
+  {
+    "text": "rural",
+    "meanings": [
+      "시골의"
+    ]
+  },
+  {
+    "text": "suburb",
+    "meanings": [
+      "교외"
+    ]
+  },
+  {
+    "text": "metropolitan",
+    "meanings": [
+      "대도시의"
+    ]
+  },
+  {
+    "text": "population",
+    "meanings": [
+      "인구"
+    ]
+  },
+  {
+    "text": "demographic",
+    "meanings": [
+      "인구통계의"
+    ]
+  },
+  {
+    "text": "generation",
+    "meanings": [
+      "세대"
+    ]
+  },
+  {
+    "text": "elderly",
+    "meanings": [
+      "노인의"
+    ]
+  },
+  {
+    "text": "youth",
+    "meanings": [
+      "청년"
+    ]
+  },
+  {
+    "text": "adolescence",
+    "meanings": [
+      "청소년기"
+    ]
+  },
+  {
+    "text": "abrupt",
+    "meanings": [
+      "갑작스러운"
+    ]
+  },
+  {
+    "text": "accessible",
+    "meanings": [
+      "접근 가능한"
+    ]
+  },
+  {
+    "text": "accommodate",
+    "meanings": [
+      "수용하다"
+    ]
+  },
+  {
+    "text": "accountability",
+    "meanings": [
+      "책임"
+    ]
+  },
+  {
+    "text": "accumulate",
+    "meanings": [
+      "축적하다"
+    ]
+  },
+  {
+    "text": "accurate",
+    "meanings": [
+      "정확한"
+    ]
+  },
+  {
+    "text": "achieve",
+    "meanings": [
+      "성취하다"
+    ]
+  },
+  {
+    "text": "activism",
+    "meanings": [
+      "행동주의"
+    ]
+  },
+  {
+    "text": "address",
+    "meanings": [
+      "해결하다"
+    ]
+  },
+  {
+    "text": "adequate",
+    "meanings": [
+      "충분한"
+    ]
+  },
+  {
+    "text": "affordable",
+    "meanings": [
+      "저렴한"
+    ]
+  },
+  {
+    "text": "ambitious",
+    "meanings": [
+      "야망이 있는"
+    ]
+  },
+  {
+    "text": "analyze",
+    "meanings": [
+      "분석하다"
+    ]
+  },
+  {
+    "text": "awareness",
+    "meanings": [
+      "인식"
+    ]
+  },
+  {
+    "text": "barrier",
+    "meanings": [
+      "장벽"
+    ]
+  },
+  {
+    "text": "bias",
+    "meanings": [
+      "편견"
+    ]
+  },
+  {
+    "text": "capacity",
+    "meanings": [
+      "용량"
+    ]
+  },
+  {
+    "text": "challenge",
+    "meanings": [
+      "도전"
+    ]
+  },
+  {
+    "text": "circumstance",
+    "meanings": [
+      "상황"
+    ]
+  },
+  {
+    "text": "collaboration",
+    "meanings": [
+      "협력"
+    ]
+  },
+  {
+    "text": "commodity",
+    "meanings": [
+      "상품"
+    ]
+  },
+  {
+    "text": "community",
+    "meanings": [
+      "지역 사회"
+    ]
+  },
+  {
+    "text": "competence",
+    "meanings": [
+      "역량"
+    ]
+  },
+  {
+    "text": "competition",
+    "meanings": [
+      "경쟁"
+    ]
+  },
+  {
+    "text": "complex",
+    "meanings": [
+      "복잡한"
+    ]
+  },
+  {
+    "text": "concern",
+    "meanings": [
+      "우려"
+    ]
+  },
+  {
+    "text": "consequence",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "constraint",
+    "meanings": [
+      "제약"
+    ]
+  },
+  {
+    "text": "controversial",
+    "meanings": [
+      "논란이 있는"
+    ]
+  },
+  {
+    "text": "cope",
+    "meanings": [
+      "대처하다"
+    ]
+  },
+  {
+    "text": "corruption",
+    "meanings": [
+      "부패"
+    ]
+  },
+  {
+    "text": "criteria",
+    "meanings": [
+      "기준"
+    ]
+  },
+  {
+    "text": "crucial",
+    "meanings": [
+      "중요한"
+    ]
+  },
+  {
+    "text": "cultural",
+    "meanings": [
+      "문화적인"
+    ]
+  },
+  {
+    "text": "debate",
+    "meanings": [
+      "토론"
+    ]
+  },
+  {
+    "text": "decline",
+    "meanings": [
+      "감소"
+    ]
+  },
+  {
+    "text": "demand",
+    "meanings": [
+      "수요"
+    ]
+  },
+  {
+    "text": "dependence",
+    "meanings": [
+      "의존"
+    ]
+  },
+  {
+    "text": "deteriorate",
+    "meanings": [
+      "악화되다"
+    ]
+  },
+  {
+    "text": "development",
+    "meanings": [
+      "개발"
+    ]
+  },
+  {
+    "text": "disposal",
+    "meanings": [
+      "처리"
+    ]
+  },
+  {
+    "text": "dispute",
+    "meanings": [
+      "분쟁"
+    ]
+  },
+  {
+    "text": "diverse",
+    "meanings": [
+      "다양한"
+    ]
+  },
+  {
+    "text": "domestic",
+    "meanings": [
+      "국내의"
+    ]
+  },
+  {
+    "text": "drought",
+    "meanings": [
+      "가뭄"
+    ]
+  },
+  {
+    "text": "economic",
+    "meanings": [
+      "경제적인"
+    ]
+  },
+  {
+    "text": "efficiency",
+    "meanings": [
+      "효율성"
+    ]
+  },
+  {
+    "text": "endangered",
+    "meanings": [
+      "위기에 처한"
+    ]
+  },
+  {
+    "text": "enforcement",
+    "meanings": [
+      "시행"
+    ]
+  },
+  {
+    "text": "ethical",
+    "meanings": [
+      "윤리적인"
+    ]
+  },
+  {
+    "text": "evolution",
+    "meanings": [
+      "진화"
+    ]
+  },
+  {
+    "text": "expenditure",
+    "meanings": [
+      "지출"
+    ]
+  },
+  {
+    "text": "factor",
+    "meanings": [
+      "요인"
+    ]
+  },
+  {
+    "text": "famine",
+    "meanings": [
+      "기근"
+    ]
+  },
+  {
+    "text": "fertility",
+    "meanings": [
+      "출산율"
+    ]
+  },
+  {
+    "text": "flood",
+    "meanings": [
+      "홍수"
+    ]
+  },
+  {
+    "text": "funding",
+    "meanings": [
+      "자금 지원"
+    ]
+  },
+  {
+    "text": "governance",
+    "meanings": [
+      "거버넌스"
+    ]
+  },
+  {
+    "text": "growth",
+    "meanings": [
+      "성장"
+    ]
+  },
+  {
+    "text": "humanitarian",
+    "meanings": [
+      "인도주의적인"
+    ]
+  },
+  {
+    "text": "impact",
+    "meanings": [
+      "영향"
+    ]
+  },
+  {
+    "text": "implementation",
+    "meanings": [
+      "시행"
+    ]
+  },
+  {
+    "text": "independence",
+    "meanings": [
+      "독립"
+    ]
+  },
+  {
+    "text": "institution",
+    "meanings": [
+      "기관"
+    ]
+  },
+  {
+    "text": "labor",
+    "meanings": [
+      "노동"
+    ]
+  },
+  {
+    "text": "landfill",
+    "meanings": [
+      "매립지"
+    ]
+  },
+  {
+    "text": "livelihood",
+    "meanings": [
+      "생계"
+    ]
+  },
+  {
+    "text": "manufacturing",
+    "meanings": [
+      "제조"
+    ]
+  },
+  {
+    "text": "migration",
+    "meanings": [
+      "이주"
+    ]
+  },
+  {
+    "text": "minority",
+    "meanings": [
+      "소수"
+    ]
+  },
+  {
+    "text": "mortality",
+    "meanings": [
+      "사망률"
+    ]
+  },
+  {
+    "text": "natural",
+    "meanings": [
+      "자연의"
+    ]
+  },
+  {
+    "text": "neutral",
+    "meanings": [
+      "중립적인"
+    ]
+  },
+  {
+    "text": "obligation",
+    "meanings": [
+      "의무"
+    ]
+  },
+  {
+    "text": "offshore",
+    "meanings": [
+      "해외의"
+    ]
+  },
+  {
+    "text": "opportunity",
+    "meanings": [
+      "기회"
+    ]
+  },
+  {
+    "text": "opposition",
+    "meanings": [
+      "반대"
+    ]
+  },
+  {
+    "text": "organic",
+    "meanings": [
+      "유기농의"
+    ]
+  },
+  {
+    "text": "outbreak",
+    "meanings": [
+      "발생"
+    ]
+  },
+  {
+    "text": "overcrowding",
+    "meanings": [
+      "과밀"
+    ]
+  },
+  {
+    "text": "participation",
+    "meanings": [
+      "참여"
+    ]
+  },
+  {
+    "text": "penalty",
+    "meanings": [
+      "처벌"
+    ]
+  },
+  {
+    "text": "perception",
+    "meanings": [
+      "인식"
+    ]
+  },
+  {
+    "text": "potential",
+    "meanings": [
+      "잠재력"
+    ]
+  },
+  {
+    "text": "production",
+    "meanings": [
+      "생산"
+    ]
+  },
+  {
+    "text": "progress",
+    "meanings": [
+      "진보"
+    ]
+  },
+  {
+    "text": "proposal",
+    "meanings": [
+      "제안"
+    ]
+  },
+  {
+    "text": "protest",
+    "meanings": [
+      "항의"
+    ]
+  },
+  {
+    "text": "quality",
+    "meanings": [
+      "품질"
+    ]
+  },
+  {
+    "text": "reform",
+    "meanings": [
+      "개혁"
+    ]
+  },
+  {
+    "text": "region",
+    "meanings": [
+      "지역"
+    ]
+  },
+  {
+    "text": "reliability",
+    "meanings": [
+      "신뢰성"
+    ]
+  },
+  {
+    "text": "renewable energy",
+    "meanings": [
+      "재생에너지"
+    ]
+  },
+  {
+    "text": "representation",
+    "meanings": [
+      "대표"
+    ]
+  },
+  {
+    "text": "research",
+    "meanings": [
+      "연구"
+    ]
+  },
+  {
+    "text": "revolution",
+    "meanings": [
+      "혁명"
+    ]
+  },
+  {
+    "text": "sanitation",
+    "meanings": [
+      "위생"
+    ]
+  },
+  {
+    "text": "scarcity",
+    "meanings": [
+      "부족"
+    ]
+  },
+  {
+    "text": "sector",
+    "meanings": [
+      "부문"
+    ]
+  },
+  {
+    "text": "security",
+    "meanings": [
+      "안보"
+    ]
+  },
+  {
+    "text": "shortage",
+    "meanings": [
+      "부족"
+    ]
+  },
+  {
+    "text": "social",
+    "meanings": [
+      "사회적인"
+    ]
+  },
+  {
+    "text": "species",
+    "meanings": [
+      "종"
+    ]
+  },
+  {
+    "text": "stability",
+    "meanings": [
+      "안정"
+    ]
+  },
+  {
+    "text": "strategy",
+    "meanings": [
+      "전략"
+    ]
+  },
+  {
+    "text": "survey",
+    "meanings": [
+      "조사"
+    ]
+  },
+  {
+    "text": "taxation",
+    "meanings": [
+      "세금"
+    ]
+  },
+  {
+    "text": "threat",
+    "meanings": [
+      "위협"
+    ]
+  },
+  {
+    "text": "trend",
+    "meanings": [
+      "경향"
+    ]
+  },
+  {
+    "text": "usage",
+    "meanings": [
+      "사용"
+    ]
+  },
+  {
+    "text": "vulnerable",
+    "meanings": [
+      "취약한"
+    ]
+  },
+  {
+    "text": "water scarcity",
+    "meanings": [
+      "물 부족"
+    ]
+  }
 ]

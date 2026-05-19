@@ -111,7 +111,7 @@ const Map<ToeicLevel, List<StudyTip>> tipsByLevel = {
       'put off, look into, come up with — 이 영역에서 점수가 갈립니다.',
     ),
   ],
-  ToeicLevel.lv989: [
+  ToeicLevel.lv700plus: [
     StudyTip(
       '단어 자체보단 문맥 추론',
       '900 이상은 모르는 단어가 나와도 문맥에서 의미를 잡는 속도 게임입니다.',

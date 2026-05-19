@@ -1,0 +1,3833 @@
+[
+  {
+    "text": "discrepancy",
+    "meanings": [
+      "불일치"
+    ]
+  },
+  {
+    "text": "contingency",
+    "meanings": [
+      "비상사태"
+    ]
+  },
+  {
+    "text": "liquidation",
+    "meanings": [
+      "청산"
+    ]
+  },
+  {
+    "text": "jurisdiction",
+    "meanings": [
+      "관할권"
+    ]
+  },
+  {
+    "text": "proprietary",
+    "meanings": [
+      "독점적인"
+    ]
+  },
+  {
+    "text": "indemnify",
+    "meanings": [
+      "배상하다"
+    ]
+  },
+  {
+    "text": "mitigate",
+    "meanings": [
+      "완화하다"
+    ]
+  },
+  {
+    "text": "leverage",
+    "meanings": [
+      "영향력",
+      "차입금"
+    ]
+  },
+  {
+    "text": "hedge",
+    "meanings": [
+      "회피하다"
+    ]
+  },
+  {
+    "text": "divestiture",
+    "meanings": [
+      "매각"
+    ]
+  },
+  {
+    "text": "consolidate",
+    "meanings": [
+      "통합하다"
+    ]
+  },
+  {
+    "text": "prevailing",
+    "meanings": [
+      "우세한"
+    ]
+  },
+  {
+    "text": "scrutinize",
+    "meanings": [
+      "면밀히 조사하다"
+    ]
+  },
+  {
+    "text": "encumbrance",
+    "meanings": [
+      "부담",
+      "저당"
+    ]
+  },
+  {
+    "text": "fiduciary",
+    "meanings": [
+      "수탁자의"
+    ]
+  },
+  {
+    "text": "contingent",
+    "meanings": [
+      "불확정적인"
+    ]
+  },
+  {
+    "text": "exorbitant",
+    "meanings": [
+      "과도한"
+    ]
+  },
+  {
+    "text": "predatory",
+    "meanings": [
+      "약탈적인"
+    ]
+  },
+  {
+    "text": "monopolistic",
+    "meanings": [
+      "독점적인"
+    ]
+  },
+  {
+    "text": "jurisprudence",
+    "meanings": [
+      "법학"
+    ]
+  },
+  {
+    "text": "litigation",
+    "meanings": [
+      "소송"
+    ]
+  },
+  {
+    "text": "surety",
+    "meanings": [
+      "보증"
+    ]
+  },
+  {
+    "text": "treasury",
+    "meanings": [
+      "재무"
+    ]
+  },
+  {
+    "text": "austerity",
+    "meanings": [
+      "긴축"
+    ]
+  },
+  {
+    "text": "viable",
+    "meanings": [
+      "실행 가능한"
+    ]
+  },
+  {
+    "text": "scalable",
+    "meanings": [
+      "확장 가능한"
+    ]
+  },
+  {
+    "text": "inception",
+    "meanings": [
+      "시작"
+    ]
+  },
+  {
+    "text": "materialize",
+    "meanings": [
+      "실현되다"
+    ]
+  },
+  {
+    "text": "culminate",
+    "meanings": [
+      "절정에 달하다"
+    ]
+  },
+  {
+    "text": "arrears",
+    "meanings": [
+      "연체금"
+    ]
+  },
+  {
+    "text": "conscientious",
+    "meanings": [
+      "양심적인"
+    ]
+  },
+  {
+    "text": "preclude",
+    "meanings": [
+      "배제하다"
+    ]
+  },
+  {
+    "text": "relinquish",
+    "meanings": [
+      "포기하다"
+    ]
+  },
+  {
+    "text": "forfeit",
+    "meanings": [
+      "몰수당하다"
+    ]
+  },
+  {
+    "text": "substantiate",
+    "meanings": [
+      "입증하다"
+    ]
+  },
+  {
+    "text": "repudiate",
+    "meanings": [
+      "거부하다"
+    ]
+  },
+  {
+    "text": "promulgate",
+    "meanings": [
+      "공포하다"
+    ]
+  },
+  {
+    "text": "abrogate",
+    "meanings": [
+      "폐지하다"
+    ]
+  },
+  {
+    "text": "rescind",
+    "meanings": [
+      "철회하다"
+    ]
+  },
+  {
+    "text": "nullify",
+    "meanings": [
+      "무효화하다"
+    ]
+  },
+  {
+    "text": "circumvent",
+    "meanings": [
+      "우회하다"
+    ]
+  },
+  {
+    "text": "contravene",
+    "meanings": [
+      "위반하다"
+    ]
+  },
+  {
+    "text": "extricate",
+    "meanings": [
+      "구출하다"
+    ]
+  },
+  {
+    "text": "encroach",
+    "meanings": [
+      "침해하다"
+    ]
+  },
+  {
+    "text": "exacerbate",
+    "meanings": [
+      "악화시키다"
+    ]
+  },
+  {
+    "text": "ameliorate",
+    "meanings": [
+      "개선하다"
+    ]
+  },
+  {
+    "text": "consummate",
+    "meanings": [
+      "완성하다",
+      "완벽한"
+    ]
+  },
+  {
+    "text": "expedient",
+    "meanings": [
+      "편의주의적인"
+    ]
+  },
+  {
+    "text": "judicious",
+    "meanings": [
+      "현명한"
+    ]
+  },
+  {
+    "text": "prudent",
+    "meanings": [
+      "신중한"
+    ]
+  },
+  {
+    "text": "meticulous",
+    "meanings": [
+      "꼼꼼한"
+    ]
+  },
+  {
+    "text": "diligent",
+    "meanings": [
+      "근면한"
+    ]
+  },
+  {
+    "text": "tenacious",
+    "meanings": [
+      "끈질긴"
+    ]
+  },
+  {
+    "text": "astute",
+    "meanings": [
+      "기민한"
+    ]
+  },
+  {
+    "text": "perceptive",
+    "meanings": [
+      "통찰력 있는"
+    ]
+  },
+  {
+    "text": "discerning",
+    "meanings": [
+      "안목 있는"
+    ]
+  },
+  {
+    "text": "lucrative",
+    "meanings": [
+      "수익성 있는"
+    ]
+  },
+  {
+    "text": "profitable",
+    "meanings": [
+      "수익성 있는"
+    ]
+  },
+  {
+    "text": "burgeoning",
+    "meanings": [
+      "급성장하는"
+    ]
+  },
+  {
+    "text": "flourishing",
+    "meanings": [
+      "번성하는"
+    ]
+  },
+  {
+    "text": "indispensable",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "inevitable",
+    "meanings": [
+      "불가피한"
+    ]
+  },
+  {
+    "text": "imminent",
+    "meanings": [
+      "임박한"
+    ]
+  },
+  {
+    "text": "tentative",
+    "meanings": [
+      "잠정적인"
+    ]
+  },
+  {
+    "text": "provisional",
+    "meanings": [
+      "임시의"
+    ]
+  },
+  {
+    "text": "definitive",
+    "meanings": [
+      "결정적인"
+    ]
+  },
+  {
+    "text": "conclusive",
+    "meanings": [
+      "결정적인"
+    ]
+  },
+  {
+    "text": "exhaustive",
+    "meanings": [
+      "철저한"
+    ]
+  },
+  {
+    "text": "rudimentary",
+    "meanings": [
+      "기초적인"
+    ]
+  },
+  {
+    "text": "obsolete",
+    "meanings": [
+      "구식의"
+    ]
+  },
+  {
+    "text": "archaic",
+    "meanings": [
+      "고대의"
+    ]
+  },
+  {
+    "text": "ubiquitous",
+    "meanings": [
+      "어디에나 있는"
+    ]
+  },
+  {
+    "text": "pervasive",
+    "meanings": [
+      "만연한"
+    ]
+  },
+  {
+    "text": "innocuous",
+    "meanings": [
+      "무해한"
+    ]
+  },
+  {
+    "text": "benign",
+    "meanings": [
+      "온화한"
+    ]
+  },
+  {
+    "text": "malign",
+    "meanings": [
+      "악의적인"
+    ]
+  },
+  {
+    "text": "malicious",
+    "meanings": [
+      "악의적인"
+    ]
+  },
+  {
+    "text": "egregious",
+    "meanings": [
+      "지독한"
+    ]
+  },
+  {
+    "text": "flagrant",
+    "meanings": [
+      "노골적인"
+    ]
+  },
+  {
+    "text": "blatant",
+    "meanings": [
+      "노골적인"
+    ]
+  },
+  {
+    "text": "tantamount",
+    "meanings": [
+      "~에 상당하는"
+    ]
+  },
+  {
+    "text": "paramount",
+    "meanings": [
+      "가장 중요한"
+    ]
+  },
+  {
+    "text": "preeminent",
+    "meanings": [
+      "탁월한"
+    ]
+  },
+  {
+    "text": "ostentatious",
+    "meanings": [
+      "과시하는"
+    ]
+  },
+  {
+    "text": "vacillate",
+    "meanings": [
+      "흔들리다"
+    ]
+  },
+  {
+    "text": "procrastinate",
+    "meanings": [
+      "미루다"
+    ]
+  },
+  {
+    "text": "ruminate",
+    "meanings": [
+      "곰곰이 생각하다"
+    ]
+  },
+  {
+    "text": "perpetuate",
+    "meanings": [
+      "영속시키다"
+    ]
+  },
+  {
+    "text": "abate",
+    "meanings": [
+      "약해지다"
+    ]
+  },
+  {
+    "text": "wane",
+    "meanings": [
+      "쇠퇴하다"
+    ]
+  },
+  {
+    "text": "subside",
+    "meanings": [
+      "가라앉다"
+    ]
+  },
+  {
+    "text": "escalate",
+    "meanings": [
+      "확대되다"
+    ]
+  },
+  {
+    "text": "proliferate",
+    "meanings": [
+      "확산되다"
+    ]
+  },
+  {
+    "text": "burgeon",
+    "meanings": [
+      "급성장하다"
+    ]
+  },
+  {
+    "text": "stagnate",
+    "meanings": [
+      "정체되다"
+    ]
+  },
+  {
+    "text": "languish",
+    "meanings": [
+      "쇠퇴하다"
+    ]
+  },
+  {
+    "text": "deteriorate",
+    "meanings": [
+      "악화되다"
+    ]
+  },
+  {
+    "text": "rejuvenate",
+    "meanings": [
+      "활기를 되찾게 하다"
+    ]
+  },
+  {
+    "text": "revitalize",
+    "meanings": [
+      "활력을 불어넣다"
+    ]
+  },
+  {
+    "text": "augment",
+    "meanings": [
+      "늘리다"
+    ]
+  },
+  {
+    "text": "curtail",
+    "meanings": [
+      "줄이다"
+    ]
+  },
+  {
+    "text": "abridge",
+    "meanings": [
+      "축약하다"
+    ]
+  },
+  {
+    "text": "abstain",
+    "meanings": [
+      "삼가다"
+    ]
+  },
+  {
+    "text": "concede",
+    "meanings": [
+      "인정하다"
+    ]
+  },
+  {
+    "text": "acquiesce",
+    "meanings": [
+      "동의하다"
+    ]
+  },
+  {
+    "text": "capitulate",
+    "meanings": [
+      "굴복하다"
+    ]
+  },
+  {
+    "text": "succumb",
+    "meanings": [
+      "굴복하다"
+    ]
+  },
+  {
+    "text": "paradigm shift",
+    "meanings": [
+      "패러다임 전환"
+    ]
+  },
+  {
+    "text": "disintermediation",
+    "meanings": [
+      "탈중개화"
+    ]
+  },
+  {
+    "text": "hyperinflation",
+    "meanings": [
+      "초인플레이션"
+    ]
+  },
+  {
+    "text": "stagflation",
+    "meanings": [
+      "스태그플레이션"
+    ]
+  },
+  {
+    "text": "forbearance",
+    "meanings": [
+      "관용",
+      "채무 유예"
+    ]
+  },
+  {
+    "text": "moratorium",
+    "meanings": [
+      "지급 유예"
+    ]
+  },
+  {
+    "text": "rescission",
+    "meanings": [
+      "해제"
+    ]
+  },
+  {
+    "text": "repudiation",
+    "meanings": [
+      "거절"
+    ]
+  },
+  {
+    "text": "hypothecate",
+    "meanings": [
+      "담보로 잡히다"
+    ]
+  },
+  {
+    "text": "subordinate",
+    "meanings": [
+      "후순위"
+    ]
+  },
+  {
+    "text": "seniority",
+    "meanings": [
+      "선순위",
+      "연공"
+    ]
+  },
+  {
+    "text": "perpetuity",
+    "meanings": [
+      "영구성"
+    ]
+  },
+  {
+    "text": "annuitant",
+    "meanings": [
+      "연금 수령자"
+    ]
+  },
+  {
+    "text": "custodian",
+    "meanings": [
+      "보관인"
+    ]
+  },
+  {
+    "text": "trustee",
+    "meanings": [
+      "수탁자"
+    ]
+  },
+  {
+    "text": "executor",
+    "meanings": [
+      "유언 집행자"
+    ]
+  },
+  {
+    "text": "administrator",
+    "meanings": [
+      "관재인"
+    ]
+  },
+  {
+    "text": "intestate",
+    "meanings": [
+      "유언 없이 죽은"
+    ]
+  },
+  {
+    "text": "probate",
+    "meanings": [
+      "유언 검인"
+    ]
+  },
+  {
+    "text": "bequest",
+    "meanings": [
+      "유증"
+    ]
+  },
+  {
+    "text": "legacy",
+    "meanings": [
+      "유산"
+    ]
+  },
+  {
+    "text": "escheat",
+    "meanings": [
+      "복귀"
+    ]
+  },
+  {
+    "text": "usufruct",
+    "meanings": [
+      "용익권"
+    ]
+  },
+  {
+    "text": "encumbered",
+    "meanings": [
+      "저당 잡힌"
+    ]
+  },
+  {
+    "text": "unencumbered",
+    "meanings": [
+      "저당 잡히지 않은"
+    ]
+  },
+  {
+    "text": "lien",
+    "meanings": [
+      "유치권"
+    ]
+  },
+  {
+    "text": "pledge",
+    "meanings": [
+      "담보"
+    ]
+  },
+  {
+    "text": "mortgagor",
+    "meanings": [
+      "저당권 설정자"
+    ]
+  },
+  {
+    "text": "mortgagee",
+    "meanings": [
+      "저당권자"
+    ]
+  },
+  {
+    "text": "lessee",
+    "meanings": [
+      "임차인"
+    ]
+  },
+  {
+    "text": "lessor",
+    "meanings": [
+      "임대인"
+    ]
+  },
+  {
+    "text": "bailment",
+    "meanings": [
+      "수치"
+    ]
+  },
+  {
+    "text": "estoppel",
+    "meanings": [
+      "금반언"
+    ]
+  },
+  {
+    "text": "laches",
+    "meanings": [
+      "권리 행사 지연"
+    ]
+  },
+  {
+    "text": "res judicata",
+    "meanings": [
+      "기판력"
+    ]
+  },
+  {
+    "text": "stare decisis",
+    "meanings": [
+      "선례 구속"
+    ]
+  },
+  {
+    "text": "habeas corpus",
+    "meanings": [
+      "인신 보호"
+    ]
+  },
+  {
+    "text": "amicus curiae",
+    "meanings": [
+      "법정 조언자"
+    ]
+  },
+  {
+    "text": "voir dire",
+    "meanings": [
+      "예비 심문"
+    ]
+  },
+  {
+    "text": "ex parte",
+    "meanings": [
+      "일방 당사자의"
+    ]
+  },
+  {
+    "text": "pro bono",
+    "meanings": [
+      "공익을 위한"
+    ]
+  },
+  {
+    "text": "pro forma",
+    "meanings": [
+      "형식적인"
+    ]
+  },
+  {
+    "text": "ad hoc",
+    "meanings": [
+      "특별한"
+    ]
+  },
+  {
+    "text": "de facto",
+    "meanings": [
+      "사실상의"
+    ]
+  },
+  {
+    "text": "de jure",
+    "meanings": [
+      "법률상의"
+    ]
+  },
+  {
+    "text": "ipso facto",
+    "meanings": [
+      "그 사실 자체로"
+    ]
+  },
+  {
+    "text": "sine qua non",
+    "meanings": [
+      "필수 조건"
+    ]
+  },
+  {
+    "text": "status quo",
+    "meanings": [
+      "현상태"
+    ]
+  },
+  {
+    "text": "bona fide",
+    "meanings": [
+      "진실한"
+    ]
+  },
+  {
+    "text": "mala fide",
+    "meanings": [
+      "악의의"
+    ]
+  },
+  {
+    "text": "quid pro quo",
+    "meanings": [
+      "대가성"
+    ]
+  },
+  {
+    "text": "caveat emptor",
+    "meanings": [
+      "매수자 위험 부담"
+    ]
+  },
+  {
+    "text": "act of god",
+    "meanings": [
+      "천재지변"
+    ]
+  },
+  {
+    "text": "obfuscate",
+    "meanings": [
+      "혼란스럽게 하다"
+    ]
+  },
+  {
+    "text": "equivocate",
+    "meanings": [
+      "얼버무리다"
+    ]
+  },
+  {
+    "text": "prevaricate",
+    "meanings": [
+      "얼버무리다"
+    ]
+  },
+  {
+    "text": "dissemble",
+    "meanings": [
+      "감추다"
+    ]
+  },
+  {
+    "text": "renege",
+    "meanings": [
+      "약속을 어기다"
+    ]
+  },
+  {
+    "text": "recant",
+    "meanings": [
+      "철회하다"
+    ]
+  },
+  {
+    "text": "retract",
+    "meanings": [
+      "철회하다"
+    ]
+  },
+  {
+    "text": "reiterate",
+    "meanings": [
+      "반복하다"
+    ]
+  },
+  {
+    "text": "reaffirm",
+    "meanings": [
+      "재확인하다"
+    ]
+  },
+  {
+    "text": "propitiate",
+    "meanings": [
+      "달래다"
+    ]
+  },
+  {
+    "text": "conciliate",
+    "meanings": [
+      "회유하다"
+    ]
+  },
+  {
+    "text": "mollify",
+    "meanings": [
+      "달래다"
+    ]
+  },
+  {
+    "text": "assuage",
+    "meanings": [
+      "달래다"
+    ]
+  },
+  {
+    "text": "aggravate",
+    "meanings": [
+      "악화시키다"
+    ]
+  },
+  {
+    "text": "alleviate",
+    "meanings": [
+      "완화하다"
+    ]
+  },
+  {
+    "text": "attenuate",
+    "meanings": [
+      "약화시키다"
+    ]
+  },
+  {
+    "text": "rectify",
+    "meanings": [
+      "바로잡다"
+    ]
+  },
+  {
+    "text": "redress",
+    "meanings": [
+      "시정하다"
+    ]
+  },
+  {
+    "text": "expatiate",
+    "meanings": [
+      "장황하게 말하다"
+    ]
+  },
+  {
+    "text": "extrapolate",
+    "meanings": [
+      "추정하다"
+    ]
+  },
+  {
+    "text": "interpolate",
+    "meanings": [
+      "끼워 넣다"
+    ]
+  },
+  {
+    "text": "hypothesize",
+    "meanings": [
+      "가설을 세우다"
+    ]
+  },
+  {
+    "text": "conjecture",
+    "meanings": [
+      "추측하다"
+    ]
+  },
+  {
+    "text": "surmise",
+    "meanings": [
+      "추측하다"
+    ]
+  },
+  {
+    "text": "infer",
+    "meanings": [
+      "추론하다"
+    ]
+  },
+  {
+    "text": "deduce",
+    "meanings": [
+      "추론하다"
+    ]
+  },
+  {
+    "text": "corroborate",
+    "meanings": [
+      "확증하다"
+    ]
+  },
+  {
+    "text": "rebut",
+    "meanings": [
+      "반박하다"
+    ]
+  },
+  {
+    "text": "refute",
+    "meanings": [
+      "반박하다"
+    ]
+  },
+  {
+    "text": "debunk",
+    "meanings": [
+      "허위를 폭로하다"
+    ]
+  },
+  {
+    "text": "disparage",
+    "meanings": [
+      "헐뜯다"
+    ]
+  },
+  {
+    "text": "denigrate",
+    "meanings": [
+      "폄훼하다"
+    ]
+  },
+  {
+    "text": "vilify",
+    "meanings": [
+      "비방하다"
+    ]
+  },
+  {
+    "text": "extol",
+    "meanings": [
+      "극찬하다"
+    ]
+  },
+  {
+    "text": "eulogize",
+    "meanings": [
+      "찬양하다"
+    ]
+  },
+  {
+    "text": "venerate",
+    "meanings": [
+      "공경하다"
+    ]
+  },
+  {
+    "text": "revere",
+    "meanings": [
+      "경외하다"
+    ]
+  },
+  {
+    "text": "excoriate",
+    "meanings": [
+      "혹평하다"
+    ]
+  },
+  {
+    "text": "castigate",
+    "meanings": [
+      "혹독히 비난하다"
+    ]
+  },
+  {
+    "text": "vituperate",
+    "meanings": [
+      "욕설을 퍼붓다"
+    ]
+  },
+  {
+    "text": "inveigh",
+    "meanings": [
+      "맹비난하다"
+    ]
+  },
+  {
+    "text": "expurgate",
+    "meanings": [
+      "삭제하다"
+    ]
+  },
+  {
+    "text": "redact",
+    "meanings": [
+      "편집하다"
+    ]
+  },
+  {
+    "text": "abjure",
+    "meanings": [
+      "포기하다"
+    ]
+  },
+  {
+    "text": "renounce",
+    "meanings": [
+      "포기하다"
+    ]
+  },
+  {
+    "text": "eschew",
+    "meanings": [
+      "피하다"
+    ]
+  },
+  {
+    "text": "forsake",
+    "meanings": [
+      "버리다"
+    ]
+  },
+  {
+    "text": "emulate",
+    "meanings": [
+      "모방하다"
+    ]
+  },
+  {
+    "text": "simulate",
+    "meanings": [
+      "모의 실험하다"
+    ]
+  },
+  {
+    "text": "dissimulate",
+    "meanings": [
+      "감추다"
+    ]
+  },
+  {
+    "text": "feign",
+    "meanings": [
+      "가장하다"
+    ]
+  },
+  {
+    "text": "supplant",
+    "meanings": [
+      "대신하다"
+    ]
+  },
+  {
+    "text": "supersede",
+    "meanings": [
+      "대체하다"
+    ]
+  },
+  {
+    "text": "displace",
+    "meanings": [
+      "대체하다"
+    ]
+  },
+  {
+    "text": "usurp",
+    "meanings": [
+      "찬탈하다"
+    ]
+  },
+  {
+    "text": "expropriate",
+    "meanings": [
+      "수용하다"
+    ]
+  },
+  {
+    "text": "misappropriate",
+    "meanings": [
+      "유용하다"
+    ]
+  },
+  {
+    "text": "embezzle",
+    "meanings": [
+      "횡령하다"
+    ]
+  },
+  {
+    "text": "defraud",
+    "meanings": [
+      "사취하다"
+    ]
+  },
+  {
+    "text": "swindle",
+    "meanings": [
+      "사취하다"
+    ]
+  },
+  {
+    "text": "perjure",
+    "meanings": [
+      "위증하다"
+    ]
+  },
+  {
+    "text": "falsify",
+    "meanings": [
+      "위조하다"
+    ]
+  },
+  {
+    "text": "counterfeit",
+    "meanings": [
+      "위조하다"
+    ]
+  },
+  {
+    "text": "forge",
+    "meanings": [
+      "위조하다"
+    ]
+  },
+  {
+    "text": "plagiarize",
+    "meanings": [
+      "표절하다"
+    ]
+  },
+  {
+    "text": "infringe",
+    "meanings": [
+      "침해하다"
+    ]
+  },
+  {
+    "text": "transgress",
+    "meanings": [
+      "위반하다"
+    ]
+  },
+  {
+    "text": "trespass",
+    "meanings": [
+      "침해하다"
+    ]
+  },
+  {
+    "text": "violate",
+    "meanings": [
+      "위반하다"
+    ]
+  },
+  {
+    "text": "flout",
+    "meanings": [
+      "무시하다"
+    ]
+  },
+  {
+    "text": "disregard",
+    "meanings": [
+      "무시하다"
+    ]
+  },
+  {
+    "text": "dismiss",
+    "meanings": [
+      "묵살하다"
+    ]
+  },
+  {
+    "text": "placard",
+    "meanings": [
+      "벽보를 붙이다"
+    ]
+  },
+  {
+    "text": "inculcate",
+    "meanings": [
+      "주입하다"
+    ]
+  },
+  {
+    "text": "indoctrinate",
+    "meanings": [
+      "교화시키다"
+    ]
+  },
+  {
+    "text": "inure",
+    "meanings": [
+      "익숙해지게 하다"
+    ]
+  },
+  {
+    "text": "habituate",
+    "meanings": [
+      "습관이 되게 하다"
+    ]
+  },
+  {
+    "text": "acclimate",
+    "meanings": [
+      "적응시키다"
+    ]
+  },
+  {
+    "text": "acclimatize",
+    "meanings": [
+      "적응시키다"
+    ]
+  },
+  {
+    "text": "acculturate",
+    "meanings": [
+      "문화에 동화시키다"
+    ]
+  },
+  {
+    "text": "assimilate",
+    "meanings": [
+      "동화시키다"
+    ]
+  },
+  {
+    "text": "perfunctory",
+    "meanings": [
+      "형식적인"
+    ]
+  },
+  {
+    "text": "cursory",
+    "meanings": [
+      "피상적인"
+    ]
+  },
+  {
+    "text": "superficial",
+    "meanings": [
+      "피상적인"
+    ]
+  },
+  {
+    "text": "nascent",
+    "meanings": [
+      "초기의"
+    ]
+  },
+  {
+    "text": "incipient",
+    "meanings": [
+      "발단의"
+    ]
+  },
+  {
+    "text": "embryonic",
+    "meanings": [
+      "초기의"
+    ]
+  },
+  {
+    "text": "inchoate",
+    "meanings": [
+      "초기의"
+    ]
+  },
+  {
+    "text": "vestigial",
+    "meanings": [
+      "흔적의"
+    ]
+  },
+  {
+    "text": "residual",
+    "meanings": [
+      "잔여의"
+    ]
+  },
+  {
+    "text": "interminable",
+    "meanings": [
+      "끝없는"
+    ]
+  },
+  {
+    "text": "ephemeral",
+    "meanings": [
+      "단명하는"
+    ]
+  },
+  {
+    "text": "transient",
+    "meanings": [
+      "일시적인"
+    ]
+  },
+  {
+    "text": "evanescent",
+    "meanings": [
+      "사라지는"
+    ]
+  },
+  {
+    "text": "fleeting",
+    "meanings": [
+      "잠깐의"
+    ]
+  },
+  {
+    "text": "perpetual",
+    "meanings": [
+      "영구적인"
+    ]
+  },
+  {
+    "text": "eternal",
+    "meanings": [
+      "영원한"
+    ]
+  },
+  {
+    "text": "transitory",
+    "meanings": [
+      "일시적인"
+    ]
+  },
+  {
+    "text": "indelible",
+    "meanings": [
+      "지울 수 없는"
+    ]
+  },
+  {
+    "text": "ineradicable",
+    "meanings": [
+      "근절할 수 없는"
+    ]
+  },
+  {
+    "text": "inviolable",
+    "meanings": [
+      "침해할 수 없는"
+    ]
+  },
+  {
+    "text": "sacrosanct",
+    "meanings": [
+      "신성 불가침의"
+    ]
+  },
+  {
+    "text": "inalienable",
+    "meanings": [
+      "양도할 수 없는"
+    ]
+  },
+  {
+    "text": "inherent",
+    "meanings": [
+      "내재된"
+    ]
+  },
+  {
+    "text": "intrinsic",
+    "meanings": [
+      "본질적인"
+    ]
+  },
+  {
+    "text": "integral",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "extraneous",
+    "meanings": [
+      "관계없는"
+    ]
+  },
+  {
+    "text": "extrinsic",
+    "meanings": [
+      "외부의"
+    ]
+  },
+  {
+    "text": "incidental",
+    "meanings": [
+      "부수적인"
+    ]
+  },
+  {
+    "text": "ancillary",
+    "meanings": [
+      "부차적인"
+    ]
+  },
+  {
+    "text": "peripheral",
+    "meanings": [
+      "주변의"
+    ]
+  },
+  {
+    "text": "tangential",
+    "meanings": [
+      "지엽적인"
+    ]
+  },
+  {
+    "text": "germane",
+    "meanings": [
+      "관련 있는"
+    ]
+  },
+  {
+    "text": "pertinent",
+    "meanings": [
+      "관련 있는"
+    ]
+  },
+  {
+    "text": "apposite",
+    "meanings": [
+      "적절한"
+    ]
+  },
+  {
+    "text": "apropos",
+    "meanings": [
+      "적절한"
+    ]
+  },
+  {
+    "text": "salient",
+    "meanings": [
+      "두드러진"
+    ]
+  },
+  {
+    "text": "cogent",
+    "meanings": [
+      "설득력 있는"
+    ]
+  },
+  {
+    "text": "compelling",
+    "meanings": [
+      "설득력 있는"
+    ]
+  },
+  {
+    "text": "persuasive",
+    "meanings": [
+      "설득력 있는"
+    ]
+  },
+  {
+    "text": "convincing",
+    "meanings": [
+      "설득력 있는"
+    ]
+  },
+  {
+    "text": "trenchant",
+    "meanings": [
+      "신랄한"
+    ]
+  },
+  {
+    "text": "incisive",
+    "meanings": [
+      "예리한"
+    ]
+  },
+  {
+    "text": "perspicuous",
+    "meanings": [
+      "명료한"
+    ]
+  },
+  {
+    "text": "lucid",
+    "meanings": [
+      "명료한"
+    ]
+  },
+  {
+    "text": "opaque",
+    "meanings": [
+      "불투명한"
+    ]
+  },
+  {
+    "text": "inscrutable",
+    "meanings": [
+      "이해할 수 없는"
+    ]
+  },
+  {
+    "text": "enigmatic",
+    "meanings": [
+      "수수께끼 같은"
+    ]
+  },
+  {
+    "text": "recondite",
+    "meanings": [
+      "난해한"
+    ]
+  },
+  {
+    "text": "abstruse",
+    "meanings": [
+      "심오한"
+    ]
+  },
+  {
+    "text": "esoteric",
+    "meanings": [
+      "난해한"
+    ]
+  },
+  {
+    "text": "arcane",
+    "meanings": [
+      "신비한"
+    ]
+  },
+  {
+    "text": "occult",
+    "meanings": [
+      "신비한"
+    ]
+  },
+  {
+    "text": "byzantine",
+    "meanings": [
+      "복잡한"
+    ]
+  },
+  {
+    "text": "labyrinthine",
+    "meanings": [
+      "미로의"
+    ]
+  },
+  {
+    "text": "tortuous",
+    "meanings": [
+      "복잡한"
+    ]
+  },
+  {
+    "text": "pretentious",
+    "meanings": [
+      "허세 부리는"
+    ]
+  },
+  {
+    "text": "grandiose",
+    "meanings": [
+      "거창한"
+    ]
+  },
+  {
+    "text": "bombastic",
+    "meanings": [
+      "과장된"
+    ]
+  },
+  {
+    "text": "pompous",
+    "meanings": [
+      "거만한"
+    ]
+  },
+  {
+    "text": "haughty",
+    "meanings": [
+      "거만한"
+    ]
+  },
+  {
+    "text": "supercilious",
+    "meanings": [
+      "거만한"
+    ]
+  },
+  {
+    "text": "imperious",
+    "meanings": [
+      "거만한"
+    ]
+  },
+  {
+    "text": "magnanimous",
+    "meanings": [
+      "관대한"
+    ]
+  },
+  {
+    "text": "munificent",
+    "meanings": [
+      "후한"
+    ]
+  },
+  {
+    "text": "philanthropic",
+    "meanings": [
+      "박애의"
+    ]
+  },
+  {
+    "text": "altruistic",
+    "meanings": [
+      "이타적인"
+    ]
+  },
+  {
+    "text": "benevolent",
+    "meanings": [
+      "자비로운"
+    ]
+  },
+  {
+    "text": "beneficent",
+    "meanings": [
+      "자선의"
+    ]
+  },
+  {
+    "text": "malevolent",
+    "meanings": [
+      "악의 있는"
+    ]
+  },
+  {
+    "text": "nefarious",
+    "meanings": [
+      "악랄한"
+    ]
+  },
+  {
+    "text": "heinous",
+    "meanings": [
+      "극악한"
+    ]
+  },
+  {
+    "text": "atrocious",
+    "meanings": [
+      "잔혹한"
+    ]
+  },
+  {
+    "text": "reprehensible",
+    "meanings": [
+      "비난받을 만한"
+    ]
+  },
+  {
+    "text": "deplorable",
+    "meanings": [
+      "한탄스러운"
+    ]
+  },
+  {
+    "text": "lamentable",
+    "meanings": [
+      "유감스러운"
+    ]
+  },
+  {
+    "text": "regrettable",
+    "meanings": [
+      "유감스러운"
+    ]
+  },
+  {
+    "text": "commendable",
+    "meanings": [
+      "칭찬할 만한"
+    ]
+  },
+  {
+    "text": "laudable",
+    "meanings": [
+      "칭찬할 만한"
+    ]
+  },
+  {
+    "text": "admirable",
+    "meanings": [
+      "감탄할 만한"
+    ]
+  },
+  {
+    "text": "estimable",
+    "meanings": [
+      "존경할 만한"
+    ]
+  },
+  {
+    "text": "redoubtable",
+    "meanings": [
+      "가공할 만한"
+    ]
+  },
+  {
+    "text": "formidable",
+    "meanings": [
+      "가공할 만한"
+    ]
+  },
+  {
+    "text": "indomitable",
+    "meanings": [
+      "굴복하지 않는"
+    ]
+  },
+  {
+    "text": "intrepid",
+    "meanings": [
+      "용감한"
+    ]
+  },
+  {
+    "text": "dauntless",
+    "meanings": [
+      "용감한"
+    ]
+  },
+  {
+    "text": "valiant",
+    "meanings": [
+      "용감한"
+    ]
+  },
+  {
+    "text": "audacious",
+    "meanings": [
+      "대담한"
+    ]
+  },
+  {
+    "text": "brazen",
+    "meanings": [
+      "뻔뻔한"
+    ]
+  },
+  {
+    "text": "impudent",
+    "meanings": [
+      "뻔뻔한"
+    ]
+  },
+  {
+    "text": "insolent",
+    "meanings": [
+      "건방진"
+    ]
+  },
+  {
+    "text": "impertinent",
+    "meanings": [
+      "건방진"
+    ]
+  },
+  {
+    "text": "flippant",
+    "meanings": [
+      "경박한"
+    ]
+  },
+  {
+    "text": "frivolous",
+    "meanings": [
+      "경박한"
+    ]
+  },
+  {
+    "text": "inane",
+    "meanings": [
+      "어리석은"
+    ]
+  },
+  {
+    "text": "vacuous",
+    "meanings": [
+      "공허한"
+    ]
+  },
+  {
+    "text": "fatuous",
+    "meanings": [
+      "어리석은"
+    ]
+  },
+  {
+    "text": "inept",
+    "meanings": [
+      "서툰"
+    ]
+  },
+  {
+    "text": "incompetent",
+    "meanings": [
+      "무능한"
+    ]
+  },
+  {
+    "text": "hapless",
+    "meanings": [
+      "운 없는"
+    ]
+  },
+  {
+    "text": "hapful",
+    "meanings": [
+      "행복한"
+    ]
+  },
+  {
+    "text": "propitious",
+    "meanings": [
+      "상서로운"
+    ]
+  },
+  {
+    "text": "auspicious",
+    "meanings": [
+      "상서로운"
+    ]
+  },
+  {
+    "text": "inauspicious",
+    "meanings": [
+      "불길한"
+    ]
+  },
+  {
+    "text": "ominous",
+    "meanings": [
+      "불길한"
+    ]
+  },
+  {
+    "text": "portentous",
+    "meanings": [
+      "불길한"
+    ]
+  },
+  {
+    "text": "foreboding",
+    "meanings": [
+      "불길한 예감의"
+    ]
+  },
+  {
+    "text": "sanguine",
+    "meanings": [
+      "낙관적인"
+    ]
+  },
+  {
+    "text": "pessimistic",
+    "meanings": [
+      "비관적인"
+    ]
+  },
+  {
+    "text": "phlegmatic",
+    "meanings": [
+      "냉정한"
+    ]
+  },
+  {
+    "text": "stoic",
+    "meanings": [
+      "금욕적인"
+    ]
+  },
+  {
+    "text": "ascetic",
+    "meanings": [
+      "금욕적인"
+    ]
+  },
+  {
+    "text": "hedonistic",
+    "meanings": [
+      "쾌락주의의"
+    ]
+  },
+  {
+    "text": "epicurean",
+    "meanings": [
+      "식도락의"
+    ]
+  },
+  {
+    "text": "sybaritic",
+    "meanings": [
+      "사치스러운"
+    ]
+  },
+  {
+    "text": "sumptuous",
+    "meanings": [
+      "호화로운"
+    ]
+  },
+  {
+    "text": "lavish",
+    "meanings": [
+      "사치스러운"
+    ]
+  },
+  {
+    "text": "extravagant",
+    "meanings": [
+      "사치스러운"
+    ]
+  },
+  {
+    "text": "profligate",
+    "meanings": [
+      "방탕한"
+    ]
+  },
+  {
+    "text": "prodigal",
+    "meanings": [
+      "낭비하는"
+    ]
+  },
+  {
+    "text": "spendthrift",
+    "meanings": [
+      "낭비하는"
+    ]
+  },
+  {
+    "text": "parsimonious",
+    "meanings": [
+      "인색한"
+    ]
+  },
+  {
+    "text": "miserly",
+    "meanings": [
+      "인색한"
+    ]
+  },
+  {
+    "text": "avaricious",
+    "meanings": [
+      "탐욕스러운"
+    ]
+  },
+  {
+    "text": "rapacious",
+    "meanings": [
+      "탐욕스러운"
+    ]
+  },
+  {
+    "text": "voracious",
+    "meanings": [
+      "탐욕스러운"
+    ]
+  },
+  {
+    "text": "insatiable",
+    "meanings": [
+      "만족할 줄 모르는"
+    ]
+  },
+  {
+    "text": "nadir",
+    "meanings": [
+      "최저점"
+    ]
+  },
+  {
+    "text": "zenith",
+    "meanings": [
+      "최고점"
+    ]
+  },
+  {
+    "text": "apex",
+    "meanings": [
+      "정점"
+    ]
+  },
+  {
+    "text": "apogee",
+    "meanings": [
+      "정점"
+    ]
+  },
+  {
+    "text": "acme",
+    "meanings": [
+      "절정"
+    ]
+  },
+  {
+    "text": "pinnacle",
+    "meanings": [
+      "정점"
+    ]
+  },
+  {
+    "text": "crescendo",
+    "meanings": [
+      "절정"
+    ]
+  },
+  {
+    "text": "denouement",
+    "meanings": [
+      "대단원"
+    ]
+  },
+  {
+    "text": "epilogue",
+    "meanings": [
+      "후기"
+    ]
+  },
+  {
+    "text": "prologue",
+    "meanings": [
+      "서막"
+    ]
+  },
+  {
+    "text": "prelude",
+    "meanings": [
+      "서곡"
+    ]
+  },
+  {
+    "text": "interlude",
+    "meanings": [
+      "간주"
+    ]
+  },
+  {
+    "text": "juncture",
+    "meanings": [
+      "시점"
+    ]
+  },
+  {
+    "text": "threshold",
+    "meanings": [
+      "문턱"
+    ]
+  },
+  {
+    "text": "precipice",
+    "meanings": [
+      "벼랑"
+    ]
+  },
+  {
+    "text": "brink",
+    "meanings": [
+      "직전"
+    ]
+  },
+  {
+    "text": "imbroglio",
+    "meanings": [
+      "분규"
+    ]
+  },
+  {
+    "text": "debacle",
+    "meanings": [
+      "실패"
+    ]
+  },
+  {
+    "text": "fiasco",
+    "meanings": [
+      "대실패"
+    ]
+  },
+  {
+    "text": "enigma",
+    "meanings": [
+      "수수께끼"
+    ]
+  },
+  {
+    "text": "riddle",
+    "meanings": [
+      "수수께끼"
+    ]
+  },
+  {
+    "text": "oxymoron",
+    "meanings": [
+      "모순 어법"
+    ]
+  },
+  {
+    "text": "contradiction",
+    "meanings": [
+      "모순"
+    ]
+  },
+  {
+    "text": "anachronism",
+    "meanings": [
+      "시대착오"
+    ]
+  },
+  {
+    "text": "incongruity",
+    "meanings": [
+      "부조화"
+    ]
+  },
+  {
+    "text": "dichotomy",
+    "meanings": [
+      "이분법"
+    ]
+  },
+  {
+    "text": "schism",
+    "meanings": [
+      "분열"
+    ]
+  },
+  {
+    "text": "rift",
+    "meanings": [
+      "균열"
+    ]
+  },
+  {
+    "text": "chasm",
+    "meanings": [
+      "큰 간격"
+    ]
+  },
+  {
+    "text": "hegemony",
+    "meanings": [
+      "패권"
+    ]
+  },
+  {
+    "text": "supremacy",
+    "meanings": [
+      "패권"
+    ]
+  },
+  {
+    "text": "dominion",
+    "meanings": [
+      "지배권"
+    ]
+  },
+  {
+    "text": "suzerainty",
+    "meanings": [
+      "종주권"
+    ]
+  },
+  {
+    "text": "plutocracy",
+    "meanings": [
+      "금권 정치"
+    ]
+  },
+  {
+    "text": "oligarchy",
+    "meanings": [
+      "과두 정치"
+    ]
+  },
+  {
+    "text": "autocracy",
+    "meanings": [
+      "독재 정치"
+    ]
+  },
+  {
+    "text": "kleptocracy",
+    "meanings": [
+      "도둑 정치"
+    ]
+  },
+  {
+    "text": "meritocracy",
+    "meanings": [
+      "능력주의"
+    ]
+  },
+  {
+    "text": "technocracy",
+    "meanings": [
+      "기술 관료 정치"
+    ]
+  },
+  {
+    "text": "aficionado",
+    "meanings": [
+      "애호가"
+    ]
+  },
+  {
+    "text": "connoisseur",
+    "meanings": [
+      "감정가"
+    ]
+  },
+  {
+    "text": "virtuoso",
+    "meanings": [
+      "거장"
+    ]
+  },
+  {
+    "text": "savant",
+    "meanings": [
+      "현인"
+    ]
+  },
+  {
+    "text": "luminary",
+    "meanings": [
+      "지도자"
+    ]
+  },
+  {
+    "text": "doyen",
+    "meanings": [
+      "원로"
+    ]
+  },
+  {
+    "text": "magnate",
+    "meanings": [
+      "거물"
+    ]
+  },
+  {
+    "text": "tycoon",
+    "meanings": [
+      "거물"
+    ]
+  },
+  {
+    "text": "mogul",
+    "meanings": [
+      "거물"
+    ]
+  },
+  {
+    "text": "baron",
+    "meanings": [
+      "남작",
+      "거물"
+    ]
+  },
+  {
+    "text": "sycophant",
+    "meanings": [
+      "아첨꾼"
+    ]
+  },
+  {
+    "text": "flatterer",
+    "meanings": [
+      "아첨꾼"
+    ]
+  },
+  {
+    "text": "toady",
+    "meanings": [
+      "아첨꾼"
+    ]
+  },
+  {
+    "text": "lackey",
+    "meanings": [
+      "하인"
+    ]
+  },
+  {
+    "text": "acolyte",
+    "meanings": [
+      "추종자"
+    ]
+  },
+  {
+    "text": "disciple",
+    "meanings": [
+      "제자"
+    ]
+  },
+  {
+    "text": "protégé",
+    "meanings": [
+      "후배"
+    ]
+  },
+  {
+    "text": "mentor",
+    "meanings": [
+      "스승"
+    ]
+  },
+  {
+    "text": "notwithstanding",
+    "meanings": [
+      "그럼에도 불구하고"
+    ]
+  },
+  {
+    "text": "nevertheless",
+    "meanings": [
+      "그럼에도 불구하고"
+    ]
+  },
+  {
+    "text": "nonetheless",
+    "meanings": [
+      "그럼에도 불구하고"
+    ]
+  },
+  {
+    "text": "howsoever",
+    "meanings": [
+      "어떻게든"
+    ]
+  },
+  {
+    "text": "henceforth",
+    "meanings": [
+      "이제부터"
+    ]
+  },
+  {
+    "text": "hitherto",
+    "meanings": [
+      "지금까지"
+    ]
+  },
+  {
+    "text": "hereinafter",
+    "meanings": [
+      "이하"
+    ]
+  },
+  {
+    "text": "aforementioned",
+    "meanings": [
+      "앞서 언급한"
+    ]
+  },
+  {
+    "text": "heretofore",
+    "meanings": [
+      "이전에는"
+    ]
+  },
+  {
+    "text": "thereto",
+    "meanings": [
+      "그것에"
+    ]
+  },
+  {
+    "text": "thereof",
+    "meanings": [
+      "그것의"
+    ]
+  },
+  {
+    "text": "thereby",
+    "meanings": [
+      "그것에 의해"
+    ]
+  },
+  {
+    "text": "whereby",
+    "meanings": [
+      "그것에 의해"
+    ]
+  },
+  {
+    "text": "wherein",
+    "meanings": [
+      "그 안에"
+    ]
+  },
+  {
+    "text": "vis-à-vis",
+    "meanings": [
+      "~에 관하여"
+    ]
+  },
+  {
+    "text": "inter alia",
+    "meanings": [
+      "그 중에서도"
+    ]
+  },
+  {
+    "text": "mutatis mutandis",
+    "meanings": [
+      "필요한 변경을 가하여"
+    ]
+  },
+  {
+    "text": "relegate",
+    "meanings": [
+      "좌천시키다"
+    ]
+  },
+  {
+    "text": "procure",
+    "meanings": [
+      "조달하다"
+    ]
+  },
+  {
+    "text": "proscribe",
+    "meanings": [
+      "금지하다"
+    ]
+  },
+  {
+    "text": "precipitate",
+    "meanings": [
+      "촉발하다"
+    ]
+  },
+  {
+    "text": "engender",
+    "meanings": [
+      "초래하다"
+    ]
+  },
+  {
+    "text": "elicit",
+    "meanings": [
+      "이끌어내다"
+    ]
+  },
+  {
+    "text": "evoke",
+    "meanings": [
+      "불러일으키다"
+    ]
+  },
+  {
+    "text": "truncate",
+    "meanings": [
+      "단축하다"
+    ]
+  },
+  {
+    "text": "laud",
+    "meanings": [
+      "찬양하다"
+    ]
+  },
+  {
+    "text": "explicate",
+    "meanings": [
+      "해명하다"
+    ]
+  },
+  {
+    "text": "disambiguate",
+    "meanings": [
+      "모호함을 없애다"
+    ]
+  },
+  {
+    "text": "reconfigure",
+    "meanings": [
+      "재구성하다"
+    ]
+  },
+  {
+    "text": "recalibrate",
+    "meanings": [
+      "재조정하다"
+    ]
+  },
+  {
+    "text": "draconian",
+    "meanings": [
+      "가혹한"
+    ]
+  },
+  {
+    "text": "equivocal",
+    "meanings": [
+      "애매한"
+    ]
+  },
+  {
+    "text": "insidious",
+    "meanings": [
+      "교활한",
+      "서서히 퍼지는"
+    ]
+  },
+  {
+    "text": "pernicious",
+    "meanings": [
+      "해로운"
+    ]
+  },
+  {
+    "text": "deleterious",
+    "meanings": [
+      "해로운"
+    ]
+  },
+  {
+    "text": "detrimental",
+    "meanings": [
+      "해로운"
+    ]
+  },
+  {
+    "text": "redundant",
+    "meanings": [
+      "불필요한",
+      "중복의"
+    ]
+  },
+  {
+    "text": "superfluous",
+    "meanings": [
+      "불필요한"
+    ]
+  },
+  {
+    "text": "seminal",
+    "meanings": [
+      "중대한"
+    ]
+  },
+  {
+    "text": "quintessential",
+    "meanings": [
+      "전형적인"
+    ]
+  },
+  {
+    "text": "enduring",
+    "meanings": [
+      "오래가는"
+    ]
+  },
+  {
+    "text": "arduous",
+    "meanings": [
+      "고된"
+    ]
+  },
+  {
+    "text": "onerous",
+    "meanings": [
+      "번거로운"
+    ]
+  },
+  {
+    "text": "cumbersome",
+    "meanings": [
+      "번거로운"
+    ]
+  },
+  {
+    "text": "laborious",
+    "meanings": [
+      "힘든"
+    ]
+  },
+  {
+    "text": "precarious",
+    "meanings": [
+      "불안정한"
+    ]
+  },
+  {
+    "text": "tenuous",
+    "meanings": [
+      "미약한"
+    ]
+  },
+  {
+    "text": "volatile",
+    "meanings": [
+      "변덕스러운"
+    ]
+  },
+  {
+    "text": "mercurial",
+    "meanings": [
+      "변덕스러운"
+    ]
+  },
+  {
+    "text": "groundbreaking",
+    "meanings": [
+      "획기적인"
+    ]
+  },
+  {
+    "text": "unprecedented",
+    "meanings": [
+      "전례 없는"
+    ]
+  },
+  {
+    "text": "unparalleled",
+    "meanings": [
+      "비할 데 없는"
+    ]
+  },
+  {
+    "text": "inexorable",
+    "meanings": [
+      "멈출 수 없는"
+    ]
+  },
+  {
+    "text": "extant",
+    "meanings": [
+      "현존하는"
+    ]
+  },
+  {
+    "text": "omnipresent",
+    "meanings": [
+      "편재하는"
+    ]
+  },
+  {
+    "text": "rampant",
+    "meanings": [
+      "만연한"
+    ]
+  },
+  {
+    "text": "endemic",
+    "meanings": [
+      "고질적인"
+    ]
+  },
+  {
+    "text": "shrewd",
+    "meanings": [
+      "예리한"
+    ]
+  },
+  {
+    "text": "circumspect",
+    "meanings": [
+      "신중한"
+    ]
+  },
+  {
+    "text": "punctilious",
+    "meanings": [
+      "꼼꼼한"
+    ]
+  },
+  {
+    "text": "scrupulous",
+    "meanings": [
+      "양심적인"
+    ]
+  },
+  {
+    "text": "exigency",
+    "meanings": [
+      "긴급 상황"
+    ]
+  },
+  {
+    "text": "prerequisite",
+    "meanings": [
+      "전제조건"
+    ]
+  },
+  {
+    "text": "antecedent",
+    "meanings": [
+      "선행 사건"
+    ]
+  },
+  {
+    "text": "precedent",
+    "meanings": [
+      "선례"
+    ]
+  },
+  {
+    "text": "corollary",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "archetype",
+    "meanings": [
+      "전형"
+    ]
+  },
+  {
+    "text": "inconsistency",
+    "meanings": [
+      "불일치"
+    ]
+  },
+  {
+    "text": "disparity",
+    "meanings": [
+      "차이"
+    ]
+  },
+  {
+    "text": "divergence",
+    "meanings": [
+      "차이"
+    ]
+  },
+  {
+    "text": "caveat",
+    "meanings": [
+      "경고"
+    ]
+  },
+  {
+    "text": "proviso",
+    "meanings": [
+      "단서"
+    ]
+  },
+  {
+    "text": "autonomy",
+    "meanings": [
+      "자율성"
+    ]
+  },
+  {
+    "text": "sovereignty",
+    "meanings": [
+      "주권"
+    ]
+  },
+  {
+    "text": "plethora",
+    "meanings": [
+      "과다"
+    ]
+  },
+  {
+    "text": "myriad",
+    "meanings": [
+      "무수"
+    ]
+  },
+  {
+    "text": "paucity",
+    "meanings": [
+      "부족"
+    ]
+  },
+  {
+    "text": "dearth",
+    "meanings": [
+      "부족"
+    ]
+  },
+  {
+    "text": "proclivity",
+    "meanings": [
+      "성향"
+    ]
+  },
+  {
+    "text": "predilection",
+    "meanings": [
+      "편애"
+    ]
+  },
+  {
+    "text": "penchant",
+    "meanings": [
+      "애호"
+    ]
+  },
+  {
+    "text": "quintessence",
+    "meanings": [
+      "정수"
+    ]
+  },
+  {
+    "text": "epitome",
+    "meanings": [
+      "전형"
+    ]
+  },
+  {
+    "text": "exemplar",
+    "meanings": [
+      "모범"
+    ]
+  },
+  {
+    "text": "panacea",
+    "meanings": [
+      "만병통치약"
+    ]
+  },
+  {
+    "text": "elixir",
+    "meanings": [
+      "묘약"
+    ]
+  },
+  {
+    "text": "hindrance",
+    "meanings": [
+      "방해"
+    ]
+  },
+  {
+    "text": "impediment",
+    "meanings": [
+      "장애"
+    ]
+  },
+  {
+    "text": "proponent",
+    "meanings": [
+      "지지자"
+    ]
+  },
+  {
+    "text": "advocate",
+    "meanings": [
+      "옹호자"
+    ]
+  },
+  {
+    "text": "detractor",
+    "meanings": [
+      "비방자"
+    ]
+  },
+  {
+    "text": "adversary",
+    "meanings": [
+      "적"
+    ]
+  },
+  {
+    "text": "vehemently",
+    "meanings": [
+      "격렬하게"
+    ]
+  },
+  {
+    "text": "fervently",
+    "meanings": [
+      "열렬히"
+    ]
+  },
+  {
+    "text": "purportedly",
+    "meanings": [
+      "주장에 따르면"
+    ]
+  },
+  {
+    "text": "inadvertently",
+    "meanings": [
+      "무심코"
+    ]
+  },
+  {
+    "text": "inexplicably",
+    "meanings": [
+      "불가해하게"
+    ]
+  },
+  {
+    "text": "unequivocally",
+    "meanings": [
+      "명백히"
+    ]
+  },
+  {
+    "text": "emphatically",
+    "meanings": [
+      "단호하게"
+    ]
+  },
+  {
+    "text": "exorbitantly",
+    "meanings": [
+      "엄청나게"
+    ]
+  },
+  {
+    "text": "inordinately",
+    "meanings": [
+      "지나치게"
+    ]
+  },
+  {
+    "text": "contingent liability",
+    "meanings": [
+      "우발 부채"
+    ]
+  },
+  {
+    "text": "amalgamation",
+    "meanings": [
+      "합병"
+    ]
+  },
+  {
+    "text": "leveraged buyout",
+    "meanings": [
+      "차입매수"
+    ]
+  },
+  {
+    "text": "proxy",
+    "meanings": [
+      "대리"
+    ]
+  },
+  {
+    "text": "preemptive",
+    "meanings": [
+      "선제적인"
+    ]
+  },
+  {
+    "text": "arrogate",
+    "meanings": [
+      "멋대로 차지하다"
+    ]
+  },
+  {
+    "text": "imbue",
+    "meanings": [
+      "스며들게 하다"
+    ]
+  },
+  {
+    "text": "inundate",
+    "meanings": [
+      "넘치게 하다"
+    ]
+  },
+  {
+    "text": "saturate",
+    "meanings": [
+      "포화시키다"
+    ]
+  },
+  {
+    "text": "permeate",
+    "meanings": [
+      "스며들다"
+    ]
+  },
+  {
+    "text": "pervade",
+    "meanings": [
+      "만연하다"
+    ]
+  },
+  {
+    "text": "abdicate",
+    "meanings": [
+      "포기하다"
+    ]
+  },
+  {
+    "text": "berate",
+    "meanings": [
+      "질책하다"
+    ]
+  },
+  {
+    "text": "upbraid",
+    "meanings": [
+      "질책하다"
+    ]
+  },
+  {
+    "text": "encapsulate",
+    "meanings": [
+      "요약하다"
+    ]
+  },
+  {
+    "text": "emend",
+    "meanings": [
+      "교정하다"
+    ]
+  },
+  {
+    "text": "forestall",
+    "meanings": [
+      "미연에 방지하다"
+    ]
+  },
+  {
+    "text": "thwart",
+    "meanings": [
+      "좌절시키다"
+    ]
+  },
+  {
+    "text": "foil",
+    "meanings": [
+      "좌절시키다"
+    ]
+  },
+  {
+    "text": "stymie",
+    "meanings": [
+      "방해하다"
+    ]
+  },
+  {
+    "text": "extenuate",
+    "meanings": [
+      "경감시키다"
+    ]
+  },
+  {
+    "text": "exculpate",
+    "meanings": [
+      "무죄임을 입증하다"
+    ]
+  },
+  {
+    "text": "palliate",
+    "meanings": [
+      "완화하다"
+    ]
+  },
+  {
+    "text": "astringent",
+    "meanings": [
+      "신랄한",
+      "수렴성의"
+    ]
+  },
+  {
+    "text": "acrimonious",
+    "meanings": [
+      "신랄한"
+    ]
+  },
+  {
+    "text": "belligerent",
+    "meanings": [
+      "호전적인"
+    ]
+  },
+  {
+    "text": "bellicose",
+    "meanings": [
+      "호전적인"
+    ]
+  },
+  {
+    "text": "truculent",
+    "meanings": [
+      "반항적인"
+    ]
+  },
+  {
+    "text": "pugnacious",
+    "meanings": [
+      "싸우기 좋아하는"
+    ]
+  },
+  {
+    "text": "cantankerous",
+    "meanings": [
+      "괴팍한"
+    ]
+  },
+  {
+    "text": "querulous",
+    "meanings": [
+      "투덜대는"
+    ]
+  },
+  {
+    "text": "garrulous",
+    "meanings": [
+      "수다스러운"
+    ]
+  },
+  {
+    "text": "loquacious",
+    "meanings": [
+      "수다스러운"
+    ]
+  },
+  {
+    "text": "taciturn",
+    "meanings": [
+      "과묵한"
+    ]
+  },
+  {
+    "text": "laconic",
+    "meanings": [
+      "간결한"
+    ]
+  },
+  {
+    "text": "terse",
+    "meanings": [
+      "간결한"
+    ]
+  },
+  {
+    "text": "verbose",
+    "meanings": [
+      "장황한"
+    ]
+  },
+  {
+    "text": "prolix",
+    "meanings": [
+      "장황한"
+    ]
+  },
+  {
+    "text": "didactic",
+    "meanings": [
+      "교훈적인"
+    ]
+  },
+  {
+    "text": "pedantic",
+    "meanings": [
+      "현학적인"
+    ]
+  },
+  {
+    "text": "erudite",
+    "meanings": [
+      "박식한"
+    ]
+  },
+  {
+    "text": "sagacious",
+    "meanings": [
+      "현명한"
+    ]
+  },
+  {
+    "text": "perspicacious",
+    "meanings": [
+      "통찰력 있는"
+    ]
+  },
+  {
+    "text": "penetrating",
+    "meanings": [
+      "예리한"
+    ]
+  },
+  {
+    "text": "sardonic",
+    "meanings": [
+      "냉소적인"
+    ]
+  },
+  {
+    "text": "sardonical",
+    "meanings": [
+      "냉소적인"
+    ]
+  },
+  {
+    "text": "cynical",
+    "meanings": [
+      "냉소적인"
+    ]
+  },
+  {
+    "text": "credulous",
+    "meanings": [
+      "잘 믿는"
+    ]
+  },
+  {
+    "text": "gullible",
+    "meanings": [
+      "속기 쉬운"
+    ]
+  },
+  {
+    "text": "naive",
+    "meanings": [
+      "순진한"
+    ]
+  },
+  {
+    "text": "ingenuous",
+    "meanings": [
+      "순진한"
+    ]
+  },
+  {
+    "text": "disingenuous",
+    "meanings": [
+      "솔직하지 않은"
+    ]
+  },
+  {
+    "text": "insincere",
+    "meanings": [
+      "진심이 없는"
+    ]
+  },
+  {
+    "text": "mendacious",
+    "meanings": [
+      "거짓된"
+    ]
+  },
+  {
+    "text": "duplicitous",
+    "meanings": [
+      "이중적인"
+    ]
+  },
+  {
+    "text": "clandestine",
+    "meanings": [
+      "은밀한"
+    ]
+  },
+  {
+    "text": "surreptitious",
+    "meanings": [
+      "은밀한"
+    ]
+  },
+  {
+    "text": "covert",
+    "meanings": [
+      "은밀한"
+    ]
+  },
+  {
+    "text": "overt",
+    "meanings": [
+      "공공연한"
+    ]
+  },
+  {
+    "text": "iniquitous",
+    "meanings": [
+      "부당한"
+    ]
+  },
+  {
+    "text": "frugal",
+    "meanings": [
+      "검소한"
+    ]
+  },
+  {
+    "text": "sagacity",
+    "meanings": [
+      "현명함"
+    ]
+  },
+  {
+    "text": "discernment",
+    "meanings": [
+      "분별"
+    ]
+  },
+  {
+    "text": "prudence",
+    "meanings": [
+      "신중"
+    ]
+  },
+  {
+    "text": "temperance",
+    "meanings": [
+      "절제"
+    ]
+  },
+  {
+    "text": "fortitude",
+    "meanings": [
+      "용기"
+    ]
+  },
+  {
+    "text": "alacrity",
+    "meanings": [
+      "민첩성"
+    ]
+  },
+  {
+    "text": "apathy",
+    "meanings": [
+      "무관심"
+    ]
+  },
+  {
+    "text": "antipathy",
+    "meanings": [
+      "반감"
+    ]
+  },
+  {
+    "text": "animosity",
+    "meanings": [
+      "적의"
+    ]
+  },
+  {
+    "text": "rancor",
+    "meanings": [
+      "원한"
+    ]
+  },
+  {
+    "text": "enmity",
+    "meanings": [
+      "적대감"
+    ]
+  },
+  {
+    "text": "amity",
+    "meanings": [
+      "친선"
+    ]
+  },
+  {
+    "text": "camaraderie",
+    "meanings": [
+      "동지애"
+    ]
+  },
+  {
+    "text": "benevolence",
+    "meanings": [
+      "자비"
+    ]
+  },
+  {
+    "text": "malevolence",
+    "meanings": [
+      "악의"
+    ]
+  },
+  {
+    "text": "munificence",
+    "meanings": [
+      "후함"
+    ]
+  },
+  {
+    "text": "largesse",
+    "meanings": [
+      "후한 선물"
+    ]
+  },
+  {
+    "text": "penury",
+    "meanings": [
+      "빈곤"
+    ]
+  },
+  {
+    "text": "opulence",
+    "meanings": [
+      "풍요"
+    ]
+  },
+  {
+    "text": "affluence",
+    "meanings": [
+      "부"
+    ]
+  },
+  {
+    "text": "candor",
+    "meanings": [
+      "솔직함"
+    ]
+  },
+  {
+    "text": "mendacity",
+    "meanings": [
+      "거짓"
+    ]
+  },
+  {
+    "text": "hypocrisy",
+    "meanings": [
+      "위선"
+    ]
+  },
+  {
+    "text": "duplicity",
+    "meanings": [
+      "이중성"
+    ]
+  },
+  {
+    "text": "rectitude",
+    "meanings": [
+      "공정함"
+    ]
+  },
+  {
+    "text": "probity",
+    "meanings": [
+      "청렴"
+    ]
+  },
+  {
+    "text": "turpitude",
+    "meanings": [
+      "타락"
+    ]
+  },
+  {
+    "text": "inference",
+    "meanings": [
+      "추론"
+    ]
+  },
+  {
+    "text": "connotation",
+    "meanings": [
+      "함축"
+    ]
+  },
+  {
+    "text": "denotation",
+    "meanings": [
+      "명시적 의미"
+    ]
+  },
+  {
+    "text": "nuance",
+    "meanings": [
+      "미묘한 차이"
+    ]
+  },
+  {
+    "text": "subtlety",
+    "meanings": [
+      "미묘함"
+    ]
+  },
+  {
+    "text": "ambivalence",
+    "meanings": [
+      "양가감정"
+    ]
+  },
+  {
+    "text": "ambiguity",
+    "meanings": [
+      "모호성"
+    ]
+  },
+  {
+    "text": "equivocation",
+    "meanings": [
+      "얼버무리기"
+    ]
+  },
+  {
+    "text": "vacillation",
+    "meanings": [
+      "우유부단"
+    ]
+  },
+  {
+    "text": "procrastination",
+    "meanings": [
+      "미루기"
+    ]
+  },
+  {
+    "text": "deliberation",
+    "meanings": [
+      "숙고"
+    ]
+  },
+  {
+    "text": "contemplation",
+    "meanings": [
+      "숙고"
+    ]
+  },
+  {
+    "text": "expeditiously",
+    "meanings": [
+      "신속하게"
+    ]
+  },
+  {
+    "text": "judiciously",
+    "meanings": [
+      "신중하게"
+    ]
+  },
+  {
+    "text": "meticulously",
+    "meanings": [
+      "꼼꼼하게"
+    ]
+  },
+  {
+    "text": "punctiliously",
+    "meanings": [
+      "꼼꼼하게"
+    ]
+  },
+  {
+    "text": "scrupulously",
+    "meanings": [
+      "양심적으로"
+    ]
+  },
+  {
+    "text": "vociferously",
+    "meanings": [
+      "시끄럽게"
+    ]
+  },
+  {
+    "text": "clandestinely",
+    "meanings": [
+      "은밀하게"
+    ]
+  },
+  {
+    "text": "surreptitiously",
+    "meanings": [
+      "은밀하게"
+    ]
+  },
+  {
+    "text": "overtly",
+    "meanings": [
+      "공공연히"
+    ]
+  },
+  {
+    "text": "tacitly",
+    "meanings": [
+      "암묵적으로"
+    ]
+  },
+  {
+    "text": "implicitly",
+    "meanings": [
+      "암묵적으로"
+    ]
+  },
+  {
+    "text": "explicitly",
+    "meanings": [
+      "명시적으로"
+    ]
+  }
+]

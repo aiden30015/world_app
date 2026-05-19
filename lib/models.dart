@@ -2,9 +2,11 @@ import 'package:flutter/material.dart';
 
 class Word {
   final String text;
-  final String meaning;
+  final List<String> meanings;
 
-  const Word(this.text, this.meaning);
+  const Word(this.text, this.meanings);
+
+  String get displayMeaning => meanings.join(' / ');
 }
 
 class Category {
@@ -44,7 +46,7 @@ enum ToeicLevel {
   lv200('0 ~ 200점', '입문'),
   lv500('201 ~ 500점', '기초'),
   lv700('501 ~ 700점', '중급'),
-  lv989('701 ~ 989점', '고급');
+  lv700plus('701점 이상', '고급');
 
   final String label;
   final String description;

@@ -527,7 +527,7 @@ class _WordTile extends StatelessWidget {
                 ),
                 const SizedBox(height: 2),
                 Text(
-                  word.meaning,
+                  word.displayMeaning,
                   style: const TextStyle(fontSize: 13, color: kMuted),
                 ),
               ],

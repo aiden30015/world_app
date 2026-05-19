@@ -16,6 +16,12 @@ const List<Category> englishCategories = [
     icon: Icons.chat_bubble_outline,
   ),
   Category(
+    id: 'idiom',
+    name: '숙어',
+    description: '자주 쓰는 영어 숙어',
+    icon: Icons.auto_stories,
+  ),
+  Category(
     id: 'toeic',
     name: 'TOEIC',
     description: '점수대별 비즈니스 영어',

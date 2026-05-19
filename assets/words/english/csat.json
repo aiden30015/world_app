@@ -1,202 +1,1755 @@
 [
-  {"text": "abandon", "meaning": "버리다"},
-  {"text": "abstract", "meaning": "추상적인"},
-  {"text": "accomplish", "meaning": "성취하다"},
-  {"text": "acquire", "meaning": "얻다"},
-  {"text": "adapt", "meaning": "적응하다"},
-  {"text": "adequate", "meaning": "적절한"},
-  {"text": "advocate", "meaning": "옹호하다"},
-  {"text": "anxiety", "meaning": "불안"},
-  {"text": "approach", "meaning": "접근하다"},
-  {"text": "assume", "meaning": "가정하다"},
-  {"text": "capable", "meaning": "능력 있는"},
-  {"text": "comprehend", "meaning": "이해하다"},
-  {"text": "concentrate", "meaning": "집중하다"},
-  {"text": "consist", "meaning": "구성되다"},
-  {"text": "constant", "meaning": "끊임없는"},
-  {"text": "contribute", "meaning": "기여하다"},
-  {"text": "convince", "meaning": "확신시키다"},
-  {"text": "decline", "meaning": "감소하다"},
-  {"text": "declare", "meaning": "선언하다"},
-  {"text": "depend", "meaning": "의존하다"},
-  {"text": "describe", "meaning": "묘사하다"},
-  {"text": "devote", "meaning": "헌신하다"},
-  {"text": "distinguish", "meaning": "구별하다"},
-  {"text": "emphasize", "meaning": "강조하다"},
-  {"text": "encounter", "meaning": "마주치다"},
-  {"text": "enhance", "meaning": "향상시키다"},
-  {"text": "establish", "meaning": "설립하다"},
-  {"text": "estimate", "meaning": "추정하다"},
-  {"text": "observe", "meaning": "관찰하다"},
-  {"text": "recognize", "meaning": "인식하다"},
-  {"text": "refer", "meaning": "언급하다"},
-  {"text": "retain", "meaning": "유지하다"},
-  {"text": "reveal", "meaning": "드러내다"},
-  {"text": "struggle", "meaning": "분투하다"},
-  {"text": "suspend", "meaning": "중단하다"},
-  {"text": "tend", "meaning": "경향이 있다"},
-  {"text": "undertake", "meaning": "착수하다"},
-  {"text": "vary", "meaning": "다양하다"},
-  {"text": "withdraw", "meaning": "철회하다"},
-  {"text": "crucial", "meaning": "결정적인"},
-  {"text": "essential", "meaning": "필수적인"},
-  {"text": "evident", "meaning": "분명한"},
-  {"text": "inevitable", "meaning": "불가피한"},
-  {"text": "mutual", "meaning": "상호의"},
-  {"text": "profound", "meaning": "심오한"},
-  {"text": "severe", "meaning": "심각한"},
-  {"text": "vague", "meaning": "모호한"},
-  {"text": "vital", "meaning": "필수적인"},
-  {"text": "generate", "meaning": "생성하다"},
-  {"text": "identify", "meaning": "확인하다"},
-  {"text": "interpret", "meaning": "해석하다"},
-  {"text": "modify", "meaning": "수정하다"},
-  {"text": "neglect", "meaning": "소홀히 하다"},
-  {"text": "obtain", "meaning": "얻다"},
-  {"text": "persist", "meaning": "지속하다"},
-  {"text": "regret", "meaning": "후회하다"},
-  {"text": "restrain", "meaning": "억제하다"},
-  {"text": "assemble", "meaning": "모으다"},
-  {"text": "dispose", "meaning": "처분하다"},
-  {"text": "occupy", "meaning": "차지하다"},
-  {"text": "absorb", "meaning": "흡수하다"},
-  {"text": "accelerate", "meaning": "가속하다"},
-  {"text": "accompany", "meaning": "동반하다"},
-  {"text": "accumulate", "meaning": "축적하다"},
-  {"text": "achieve", "meaning": "달성하다"},
-  {"text": "acknowledge", "meaning": "인정하다"},
-  {"text": "adjust", "meaning": "조정하다"},
-  {"text": "admire", "meaning": "존경하다"},
-  {"text": "admit", "meaning": "인정하다"},
-  {"text": "afford", "meaning": "여유가 되다"},
-  {"text": "alter", "meaning": "바꾸다"},
-  {"text": "anticipate", "meaning": "예상하다"},
-  {"text": "appeal", "meaning": "호소하다"},
-  {"text": "appreciate", "meaning": "감사하다"},
-  {"text": "arouse", "meaning": "불러일으키다"},
-  {"text": "assign", "meaning": "할당하다"},
-  {"text": "assist", "meaning": "돕다"},
-  {"text": "associate", "meaning": "연관시키다"},
-  {"text": "attempt", "meaning": "시도하다"},
-  {"text": "attract", "meaning": "끌어들이다"},
-  {"text": "avoid", "meaning": "피하다"},
-  {"text": "await", "meaning": "기다리다"},
-  {"text": "betray", "meaning": "배신하다"},
-  {"text": "borrow", "meaning": "빌리다"},
-  {"text": "calculate", "meaning": "계산하다"},
-  {"text": "cease", "meaning": "그치다"},
-  {"text": "chase", "meaning": "쫓다"},
-  {"text": "claim", "meaning": "주장하다"},
-  {"text": "classify", "meaning": "분류하다"},
-  {"text": "collapse", "meaning": "붕괴하다"},
-  {"text": "collide", "meaning": "충돌하다"},
-  {"text": "combine", "meaning": "결합하다"},
-  {"text": "compete", "meaning": "경쟁하다"},
-  {"text": "complain", "meaning": "불평하다"},
-  {"text": "conceal", "meaning": "숨기다"},
-  {"text": "concentrate", "meaning": "집중하다"},
-  {"text": "confine", "meaning": "한정하다"},
-  {"text": "confront", "meaning": "직면하다"},
-  {"text": "consider", "meaning": "고려하다"},
-  {"text": "consult", "meaning": "상담하다"},
-  {"text": "convey", "meaning": "전달하다"},
-  {"text": "correspond", "meaning": "일치하다, 연락하다"},
-  {"text": "criticize", "meaning": "비판하다"},
-  {"text": "decorate", "meaning": "장식하다"},
-  {"text": "dedicate", "meaning": "바치다"},
-  {"text": "defeat", "meaning": "패배시키다"},
-  {"text": "defend", "meaning": "방어하다"},
-  {"text": "define", "meaning": "정의하다"},
-  {"text": "delay", "meaning": "지연시키다"},
-  {"text": "demand", "meaning": "요구하다"},
-  {"text": "deny", "meaning": "부인하다"},
-  {"text": "depart", "meaning": "떠나다"},
-  {"text": "deprive", "meaning": "빼앗다"},
-  {"text": "design", "meaning": "설계하다"},
-  {"text": "destroy", "meaning": "파괴하다"},
-  {"text": "detect", "meaning": "감지하다"},
-  {"text": "determine", "meaning": "결정하다"},
-  {"text": "develop", "meaning": "발전시키다"},
-  {"text": "differ", "meaning": "다르다"},
-  {"text": "diminish", "meaning": "감소시키다"},
-  {"text": "discover", "meaning": "발견하다"},
-  {"text": "discuss", "meaning": "논의하다"},
-  {"text": "display", "meaning": "전시하다"},
-  {"text": "dispute", "meaning": "논쟁하다"},
-  {"text": "distribute", "meaning": "분배하다"},
-  {"text": "doubt", "meaning": "의심하다"},
-  {"text": "earn", "meaning": "벌다"},
-  {"text": "elect", "meaning": "선출하다"},
-  {"text": "embrace", "meaning": "포용하다"},
-  {"text": "emerge", "meaning": "나타나다"},
-  {"text": "employ", "meaning": "고용하다"},
-  {"text": "enable", "meaning": "가능하게 하다"},
-  {"text": "encourage", "meaning": "격려하다"},
-  {"text": "endure", "meaning": "견디다"},
-  {"text": "engage", "meaning": "참여하다"},
-  {"text": "enrich", "meaning": "풍부하게 하다"},
-  {"text": "ensure", "meaning": "보장하다"},
-  {"text": "entitle", "meaning": "자격을 주다"},
-  {"text": "envision", "meaning": "마음에 그리다"},
-  {"text": "evolve", "meaning": "진화하다"},
-  {"text": "exceed", "meaning": "초과하다"},
-  {"text": "exhibit", "meaning": "전시하다"},
-  {"text": "exist", "meaning": "존재하다"},
-  {"text": "expand", "meaning": "확장하다"},
-  {"text": "expect", "meaning": "기대하다"},
-  {"text": "explore", "meaning": "탐험하다"},
-  {"text": "expose", "meaning": "노출시키다"},
-  {"text": "express", "meaning": "표현하다"},
-  {"text": "extend", "meaning": "확장하다"},
-  {"text": "facilitate", "meaning": "촉진하다"},
-  {"text": "fade", "meaning": "사라지다"},
-  {"text": "fasten", "meaning": "조이다"},
-  {"text": "feature", "meaning": "특징으로 하다"},
-  {"text": "flourish", "meaning": "번성하다"},
-  {"text": "fold", "meaning": "접다"},
-  {"text": "forbid", "meaning": "금지하다"},
-  {"text": "forgive", "meaning": "용서하다"},
-  {"text": "formulate", "meaning": "공식화하다"},
-  {"text": "frighten", "meaning": "겁먹게 하다"},
-  {"text": "function", "meaning": "기능하다"},
-  {"text": "gather", "meaning": "모으다"},
-  {"text": "glance", "meaning": "흘끗 보다"},
-  {"text": "govern", "meaning": "통치하다"},
-  {"text": "grasp", "meaning": "꽉 잡다"},
-  {"text": "guarantee", "meaning": "보장하다"},
-  {"text": "guide", "meaning": "안내하다"},
-  {"text": "handle", "meaning": "다루다"},
-  {"text": "hesitate", "meaning": "주저하다"},
-  {"text": "highlight", "meaning": "강조하다"},
-  {"text": "ignore", "meaning": "무시하다"},
-  {"text": "imply", "meaning": "암시하다"},
-  {"text": "impose", "meaning": "부과하다"},
-  {"text": "improve", "meaning": "개선하다"},
-  {"text": "include", "meaning": "포함하다"},
-  {"text": "indicate", "meaning": "나타내다"},
-  {"text": "induce", "meaning": "유도하다"},
-  {"text": "inform", "meaning": "알리다"},
-  {"text": "inherit", "meaning": "물려받다"},
-  {"text": "insist", "meaning": "주장하다"},
-  {"text": "inspect", "meaning": "검사하다"},
-  {"text": "inspire", "meaning": "영감을 주다"},
-  {"text": "install", "meaning": "설치하다"},
-  {"text": "instruct", "meaning": "지시하다"},
-  {"text": "intend", "meaning": "의도하다"},
-  {"text": "interact", "meaning": "상호작용하다"},
-  {"text": "interfere", "meaning": "간섭하다"},
-  {"text": "introduce", "meaning": "소개하다"},
-  {"text": "invade", "meaning": "침입하다"},
-  {"text": "invest", "meaning": "투자하다"},
-  {"text": "invite", "meaning": "초대하다"},
-  {"text": "involve", "meaning": "관련시키다"},
-  {"text": "judge", "meaning": "판단하다"},
-  {"text": "justify", "meaning": "정당화하다"},
-  {"text": "lend", "meaning": "빌려주다"},
-  {"text": "limit", "meaning": "제한하다"},
-  {"text": "locate", "meaning": "위치시키다"},
-  {"text": "maintain", "meaning": "유지하다"},
-  {"text": "manage", "meaning": "관리하다"},
-  {"text": "measure", "meaning": "측정하다"},
-  {"text": "mention", "meaning": "언급하다"}
+  {
+    "text": "abandon",
+    "meanings": [
+      "버리다"
+    ]
+  },
+  {
+    "text": "abstract",
+    "meanings": [
+      "추상적인"
+    ]
+  },
+  {
+    "text": "accomplish",
+    "meanings": [
+      "성취하다"
+    ]
+  },
+  {
+    "text": "acquire",
+    "meanings": [
+      "얻다"
+    ]
+  },
+  {
+    "text": "adapt",
+    "meanings": [
+      "적응하다"
+    ]
+  },
+  {
+    "text": "adequate",
+    "meanings": [
+      "적절한"
+    ]
+  },
+  {
+    "text": "advocate",
+    "meanings": [
+      "옹호하다"
+    ]
+  },
+  {
+    "text": "anxiety",
+    "meanings": [
+      "불안"
+    ]
+  },
+  {
+    "text": "approach",
+    "meanings": [
+      "접근하다"
+    ]
+  },
+  {
+    "text": "assume",
+    "meanings": [
+      "가정하다"
+    ]
+  },
+  {
+    "text": "capable",
+    "meanings": [
+      "능력 있는"
+    ]
+  },
+  {
+    "text": "comprehend",
+    "meanings": [
+      "이해하다"
+    ]
+  },
+  {
+    "text": "concentrate",
+    "meanings": [
+      "집중하다"
+    ]
+  },
+  {
+    "text": "consist",
+    "meanings": [
+      "구성되다"
+    ]
+  },
+  {
+    "text": "constant",
+    "meanings": [
+      "끊임없는"
+    ]
+  },
+  {
+    "text": "contribute",
+    "meanings": [
+      "기여하다"
+    ]
+  },
+  {
+    "text": "convince",
+    "meanings": [
+      "확신시키다"
+    ]
+  },
+  {
+    "text": "decline",
+    "meanings": [
+      "감소하다"
+    ]
+  },
+  {
+    "text": "declare",
+    "meanings": [
+      "선언하다"
+    ]
+  },
+  {
+    "text": "depend",
+    "meanings": [
+      "의존하다"
+    ]
+  },
+  {
+    "text": "describe",
+    "meanings": [
+      "묘사하다"
+    ]
+  },
+  {
+    "text": "devote",
+    "meanings": [
+      "헌신하다"
+    ]
+  },
+  {
+    "text": "distinguish",
+    "meanings": [
+      "구별하다"
+    ]
+  },
+  {
+    "text": "emphasize",
+    "meanings": [
+      "강조하다"
+    ]
+  },
+  {
+    "text": "encounter",
+    "meanings": [
+      "마주치다"
+    ]
+  },
+  {
+    "text": "enhance",
+    "meanings": [
+      "향상시키다"
+    ]
+  },
+  {
+    "text": "establish",
+    "meanings": [
+      "설립하다"
+    ]
+  },
+  {
+    "text": "estimate",
+    "meanings": [
+      "추정하다"
+    ]
+  },
+  {
+    "text": "observe",
+    "meanings": [
+      "관찰하다"
+    ]
+  },
+  {
+    "text": "recognize",
+    "meanings": [
+      "인식하다"
+    ]
+  },
+  {
+    "text": "refer",
+    "meanings": [
+      "언급하다"
+    ]
+  },
+  {
+    "text": "retain",
+    "meanings": [
+      "유지하다"
+    ]
+  },
+  {
+    "text": "reveal",
+    "meanings": [
+      "드러내다"
+    ]
+  },
+  {
+    "text": "struggle",
+    "meanings": [
+      "분투하다"
+    ]
+  },
+  {
+    "text": "suspend",
+    "meanings": [
+      "중단하다"
+    ]
+  },
+  {
+    "text": "tend",
+    "meanings": [
+      "경향이 있다"
+    ]
+  },
+  {
+    "text": "undertake",
+    "meanings": [
+      "착수하다"
+    ]
+  },
+  {
+    "text": "vary",
+    "meanings": [
+      "다양하다"
+    ]
+  },
+  {
+    "text": "withdraw",
+    "meanings": [
+      "철회하다"
+    ]
+  },
+  {
+    "text": "crucial",
+    "meanings": [
+      "결정적인"
+    ]
+  },
+  {
+    "text": "essential",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "evident",
+    "meanings": [
+      "분명한"
+    ]
+  },
+  {
+    "text": "inevitable",
+    "meanings": [
+      "불가피한"
+    ]
+  },
+  {
+    "text": "mutual",
+    "meanings": [
+      "상호의"
+    ]
+  },
+  {
+    "text": "profound",
+    "meanings": [
+      "심오한"
+    ]
+  },
+  {
+    "text": "severe",
+    "meanings": [
+      "심각한"
+    ]
+  },
+  {
+    "text": "vague",
+    "meanings": [
+      "모호한"
+    ]
+  },
+  {
+    "text": "vital",
+    "meanings": [
+      "필수적인"
+    ]
+  },
+  {
+    "text": "generate",
+    "meanings": [
+      "생성하다"
+    ]
+  },
+  {
+    "text": "identify",
+    "meanings": [
+      "확인하다"
+    ]
+  },
+  {
+    "text": "interpret",
+    "meanings": [
+      "해석하다"
+    ]
+  },
+  {
+    "text": "modify",
+    "meanings": [
+      "수정하다"
+    ]
+  },
+  {
+    "text": "neglect",
+    "meanings": [
+      "소홀히 하다"
+    ]
+  },
+  {
+    "text": "obtain",
+    "meanings": [
+      "얻다"
+    ]
+  },
+  {
+    "text": "persist",
+    "meanings": [
+      "지속하다"
+    ]
+  },
+  {
+    "text": "regret",
+    "meanings": [
+      "후회하다"
+    ]
+  },
+  {
+    "text": "restrain",
+    "meanings": [
+      "억제하다"
+    ]
+  },
+  {
+    "text": "assemble",
+    "meanings": [
+      "모으다"
+    ]
+  },
+  {
+    "text": "dispose",
+    "meanings": [
+      "처분하다"
+    ]
+  },
+  {
+    "text": "occupy",
+    "meanings": [
+      "차지하다"
+    ]
+  },
+  {
+    "text": "absorb",
+    "meanings": [
+      "흡수하다"
+    ]
+  },
+  {
+    "text": "accelerate",
+    "meanings": [
+      "가속하다"
+    ]
+  },
+  {
+    "text": "accompany",
+    "meanings": [
+      "동반하다"
+    ]
+  },
+  {
+    "text": "accumulate",
+    "meanings": [
+      "축적하다"
+    ]
+  },
+  {
+    "text": "achieve",
+    "meanings": [
+      "달성하다"
+    ]
+  },
+  {
+    "text": "acknowledge",
+    "meanings": [
+      "인정하다"
+    ]
+  },
+  {
+    "text": "adjust",
+    "meanings": [
+      "조정하다"
+    ]
+  },
+  {
+    "text": "admire",
+    "meanings": [
+      "존경하다"
+    ]
+  },
+  {
+    "text": "admit",
+    "meanings": [
+      "인정하다"
+    ]
+  },
+  {
+    "text": "afford",
+    "meanings": [
+      "여유가 되다"
+    ]
+  },
+  {
+    "text": "alter",
+    "meanings": [
+      "바꾸다"
+    ]
+  },
+  {
+    "text": "anticipate",
+    "meanings": [
+      "예상하다"
+    ]
+  },
+  {
+    "text": "appeal",
+    "meanings": [
+      "호소하다"
+    ]
+  },
+  {
+    "text": "appreciate",
+    "meanings": [
+      "감사하다"
+    ]
+  },
+  {
+    "text": "arouse",
+    "meanings": [
+      "불러일으키다"
+    ]
+  },
+  {
+    "text": "assign",
+    "meanings": [
+      "할당하다"
+    ]
+  },
+  {
+    "text": "assist",
+    "meanings": [
+      "돕다"
+    ]
+  },
+  {
+    "text": "associate",
+    "meanings": [
+      "연관시키다"
+    ]
+  },
+  {
+    "text": "attempt",
+    "meanings": [
+      "시도하다"
+    ]
+  },
+  {
+    "text": "attract",
+    "meanings": [
+      "끌어들이다"
+    ]
+  },
+  {
+    "text": "avoid",
+    "meanings": [
+      "피하다"
+    ]
+  },
+  {
+    "text": "await",
+    "meanings": [
+      "기다리다"
+    ]
+  },
+  {
+    "text": "betray",
+    "meanings": [
+      "배신하다"
+    ]
+  },
+  {
+    "text": "borrow",
+    "meanings": [
+      "빌리다"
+    ]
+  },
+  {
+    "text": "calculate",
+    "meanings": [
+      "계산하다"
+    ]
+  },
+  {
+    "text": "cease",
+    "meanings": [
+      "그치다"
+    ]
+  },
+  {
+    "text": "chase",
+    "meanings": [
+      "쫓다"
+    ]
+  },
+  {
+    "text": "claim",
+    "meanings": [
+      "주장하다"
+    ]
+  },
+  {
+    "text": "classify",
+    "meanings": [
+      "분류하다"
+    ]
+  },
+  {
+    "text": "collapse",
+    "meanings": [
+      "붕괴하다"
+    ]
+  },
+  {
+    "text": "collide",
+    "meanings": [
+      "충돌하다"
+    ]
+  },
+  {
+    "text": "combine",
+    "meanings": [
+      "결합하다"
+    ]
+  },
+  {
+    "text": "compete",
+    "meanings": [
+      "경쟁하다"
+    ]
+  },
+  {
+    "text": "complain",
+    "meanings": [
+      "불평하다"
+    ]
+  },
+  {
+    "text": "conceal",
+    "meanings": [
+      "숨기다"
+    ]
+  },
+  {
+    "text": "concentrate",
+    "meanings": [
+      "집중하다"
+    ]
+  },
+  {
+    "text": "confine",
+    "meanings": [
+      "한정하다"
+    ]
+  },
+  {
+    "text": "confront",
+    "meanings": [
+      "직면하다"
+    ]
+  },
+  {
+    "text": "consider",
+    "meanings": [
+      "고려하다"
+    ]
+  },
+  {
+    "text": "consult",
+    "meanings": [
+      "상담하다"
+    ]
+  },
+  {
+    "text": "convey",
+    "meanings": [
+      "전달하다"
+    ]
+  },
+  {
+    "text": "correspond",
+    "meanings": [
+      "일치하다",
+      "연락하다"
+    ]
+  },
+  {
+    "text": "criticize",
+    "meanings": [
+      "비판하다"
+    ]
+  },
+  {
+    "text": "decorate",
+    "meanings": [
+      "장식하다"
+    ]
+  },
+  {
+    "text": "dedicate",
+    "meanings": [
+      "바치다"
+    ]
+  },
+  {
+    "text": "defeat",
+    "meanings": [
+      "패배시키다"
+    ]
+  },
+  {
+    "text": "defend",
+    "meanings": [
+      "방어하다"
+    ]
+  },
+  {
+    "text": "define",
+    "meanings": [
+      "정의하다"
+    ]
+  },
+  {
+    "text": "delay",
+    "meanings": [
+      "지연시키다"
+    ]
+  },
+  {
+    "text": "demand",
+    "meanings": [
+      "요구하다"
+    ]
+  },
+  {
+    "text": "deny",
+    "meanings": [
+      "부인하다"
+    ]
+  },
+  {
+    "text": "depart",
+    "meanings": [
+      "떠나다"
+    ]
+  },
+  {
+    "text": "deprive",
+    "meanings": [
+      "빼앗다"
+    ]
+  },
+  {
+    "text": "design",
+    "meanings": [
+      "설계하다"
+    ]
+  },
+  {
+    "text": "destroy",
+    "meanings": [
+      "파괴하다"
+    ]
+  },
+  {
+    "text": "detect",
+    "meanings": [
+      "감지하다"
+    ]
+  },
+  {
+    "text": "determine",
+    "meanings": [
+      "결정하다"
+    ]
+  },
+  {
+    "text": "develop",
+    "meanings": [
+      "발전시키다"
+    ]
+  },
+  {
+    "text": "differ",
+    "meanings": [
+      "다르다"
+    ]
+  },
+  {
+    "text": "diminish",
+    "meanings": [
+      "감소시키다"
+    ]
+  },
+  {
+    "text": "discover",
+    "meanings": [
+      "발견하다"
+    ]
+  },
+  {
+    "text": "discuss",
+    "meanings": [
+      "논의하다"
+    ]
+  },
+  {
+    "text": "display",
+    "meanings": [
+      "전시하다"
+    ]
+  },
+  {
+    "text": "dispute",
+    "meanings": [
+      "논쟁하다"
+    ]
+  },
+  {
+    "text": "distribute",
+    "meanings": [
+      "분배하다"
+    ]
+  },
+  {
+    "text": "doubt",
+    "meanings": [
+      "의심하다"
+    ]
+  },
+  {
+    "text": "earn",
+    "meanings": [
+      "벌다"
+    ]
+  },
+  {
+    "text": "elect",
+    "meanings": [
+      "선출하다"
+    ]
+  },
+  {
+    "text": "embrace",
+    "meanings": [
+      "포용하다"
+    ]
+  },
+  {
+    "text": "emerge",
+    "meanings": [
+      "나타나다"
+    ]
+  },
+  {
+    "text": "employ",
+    "meanings": [
+      "고용하다"
+    ]
+  },
+  {
+    "text": "enable",
+    "meanings": [
+      "가능하게 하다"
+    ]
+  },
+  {
+    "text": "encourage",
+    "meanings": [
+      "격려하다"
+    ]
+  },
+  {
+    "text": "endure",
+    "meanings": [
+      "견디다"
+    ]
+  },
+  {
+    "text": "engage",
+    "meanings": [
+      "참여하다"
+    ]
+  },
+  {
+    "text": "enrich",
+    "meanings": [
+      "풍부하게 하다"
+    ]
+  },
+  {
+    "text": "ensure",
+    "meanings": [
+      "보장하다"
+    ]
+  },
+  {
+    "text": "entitle",
+    "meanings": [
+      "자격을 주다"
+    ]
+  },
+  {
+    "text": "envision",
+    "meanings": [
+      "마음에 그리다"
+    ]
+  },
+  {
+    "text": "evolve",
+    "meanings": [
+      "진화하다"
+    ]
+  },
+  {
+    "text": "exceed",
+    "meanings": [
+      "초과하다"
+    ]
+  },
+  {
+    "text": "exhibit",
+    "meanings": [
+      "전시하다"
+    ]
+  },
+  {
+    "text": "exist",
+    "meanings": [
+      "존재하다"
+    ]
+  },
+  {
+    "text": "expand",
+    "meanings": [
+      "확장하다"
+    ]
+  },
+  {
+    "text": "expect",
+    "meanings": [
+      "기대하다"
+    ]
+  },
+  {
+    "text": "explore",
+    "meanings": [
+      "탐험하다"
+    ]
+  },
+  {
+    "text": "expose",
+    "meanings": [
+      "노출시키다"
+    ]
+  },
+  {
+    "text": "express",
+    "meanings": [
+      "표현하다"
+    ]
+  },
+  {
+    "text": "extend",
+    "meanings": [
+      "확장하다"
+    ]
+  },
+  {
+    "text": "facilitate",
+    "meanings": [
+      "촉진하다"
+    ]
+  },
+  {
+    "text": "fade",
+    "meanings": [
+      "사라지다"
+    ]
+  },
+  {
+    "text": "fasten",
+    "meanings": [
+      "조이다"
+    ]
+  },
+  {
+    "text": "feature",
+    "meanings": [
+      "특징으로 하다"
+    ]
+  },
+  {
+    "text": "flourish",
+    "meanings": [
+      "번성하다"
+    ]
+  },
+  {
+    "text": "fold",
+    "meanings": [
+      "접다"
+    ]
+  },
+  {
+    "text": "forbid",
+    "meanings": [
+      "금지하다"
+    ]
+  },
+  {
+    "text": "forgive",
+    "meanings": [
+      "용서하다"
+    ]
+  },
+  {
+    "text": "formulate",
+    "meanings": [
+      "공식화하다"
+    ]
+  },
+  {
+    "text": "frighten",
+    "meanings": [
+      "겁먹게 하다"
+    ]
+  },
+  {
+    "text": "function",
+    "meanings": [
+      "기능하다"
+    ]
+  },
+  {
+    "text": "gather",
+    "meanings": [
+      "모으다"
+    ]
+  },
+  {
+    "text": "glance",
+    "meanings": [
+      "흘끗 보다"
+    ]
+  },
+  {
+    "text": "govern",
+    "meanings": [
+      "통치하다"
+    ]
+  },
+  {
+    "text": "grasp",
+    "meanings": [
+      "꽉 잡다"
+    ]
+  },
+  {
+    "text": "guarantee",
+    "meanings": [
+      "보장하다"
+    ]
+  },
+  {
+    "text": "guide",
+    "meanings": [
+      "안내하다"
+    ]
+  },
+  {
+    "text": "handle",
+    "meanings": [
+      "다루다"
+    ]
+  },
+  {
+    "text": "hesitate",
+    "meanings": [
+      "주저하다"
+    ]
+  },
+  {
+    "text": "highlight",
+    "meanings": [
+      "강조하다"
+    ]
+  },
+  {
+    "text": "ignore",
+    "meanings": [
+      "무시하다"
+    ]
+  },
+  {
+    "text": "imply",
+    "meanings": [
+      "암시하다"
+    ]
+  },
+  {
+    "text": "impose",
+    "meanings": [
+      "부과하다"
+    ]
+  },
+  {
+    "text": "improve",
+    "meanings": [
+      "개선하다"
+    ]
+  },
+  {
+    "text": "include",
+    "meanings": [
+      "포함하다"
+    ]
+  },
+  {
+    "text": "indicate",
+    "meanings": [
+      "나타내다"
+    ]
+  },
+  {
+    "text": "induce",
+    "meanings": [
+      "유도하다"
+    ]
+  },
+  {
+    "text": "inform",
+    "meanings": [
+      "알리다"
+    ]
+  },
+  {
+    "text": "inherit",
+    "meanings": [
+      "물려받다"
+    ]
+  },
+  {
+    "text": "insist",
+    "meanings": [
+      "주장하다"
+    ]
+  },
+  {
+    "text": "inspect",
+    "meanings": [
+      "검사하다"
+    ]
+  },
+  {
+    "text": "inspire",
+    "meanings": [
+      "영감을 주다"
+    ]
+  },
+  {
+    "text": "install",
+    "meanings": [
+      "설치하다"
+    ]
+  },
+  {
+    "text": "instruct",
+    "meanings": [
+      "지시하다"
+    ]
+  },
+  {
+    "text": "intend",
+    "meanings": [
+      "의도하다"
+    ]
+  },
+  {
+    "text": "interact",
+    "meanings": [
+      "상호작용하다"
+    ]
+  },
+  {
+    "text": "interfere",
+    "meanings": [
+      "간섭하다"
+    ]
+  },
+  {
+    "text": "introduce",
+    "meanings": [
+      "소개하다"
+    ]
+  },
+  {
+    "text": "invade",
+    "meanings": [
+      "침입하다"
+    ]
+  },
+  {
+    "text": "invest",
+    "meanings": [
+      "투자하다"
+    ]
+  },
+  {
+    "text": "invite",
+    "meanings": [
+      "초대하다"
+    ]
+  },
+  {
+    "text": "involve",
+    "meanings": [
+      "관련시키다"
+    ]
+  },
+  {
+    "text": "judge",
+    "meanings": [
+      "판단하다"
+    ]
+  },
+  {
+    "text": "justify",
+    "meanings": [
+      "정당화하다"
+    ]
+  },
+  {
+    "text": "lend",
+    "meanings": [
+      "빌려주다"
+    ]
+  },
+  {
+    "text": "limit",
+    "meanings": [
+      "제한하다"
+    ]
+  },
+  {
+    "text": "locate",
+    "meanings": [
+      "위치시키다"
+    ]
+  },
+  {
+    "text": "maintain",
+    "meanings": [
+      "유지하다"
+    ]
+  },
+  {
+    "text": "manage",
+    "meanings": [
+      "관리하다"
+    ]
+  },
+  {
+    "text": "measure",
+    "meanings": [
+      "측정하다"
+    ]
+  },
+  {
+    "text": "mention",
+    "meanings": [
+      "언급하다"
+    ]
+  },
+  {
+    "text": "abolish",
+    "meanings": [
+      "폐지하다"
+    ]
+  },
+  {
+    "text": "affect",
+    "meanings": [
+      "영향을 미치다"
+    ]
+  },
+  {
+    "text": "aggravate",
+    "meanings": [
+      "악화시키다"
+    ]
+  },
+  {
+    "text": "alleviate",
+    "meanings": [
+      "완화하다"
+    ]
+  },
+  {
+    "text": "ambiguous",
+    "meanings": [
+      "모호한"
+    ]
+  },
+  {
+    "text": "analyze",
+    "meanings": [
+      "분석하다"
+    ]
+  },
+  {
+    "text": "apparent",
+    "meanings": [
+      "명백한"
+    ]
+  },
+  {
+    "text": "appropriate",
+    "meanings": [
+      "적절한"
+    ]
+  },
+  {
+    "text": "assert",
+    "meanings": [
+      "주장하다"
+    ]
+  },
+  {
+    "text": "assess",
+    "meanings": [
+      "평가하다"
+    ]
+  },
+  {
+    "text": "attribute",
+    "meanings": [
+      "~의 탓으로 돌리다"
+    ]
+  },
+  {
+    "text": "benefit",
+    "meanings": [
+      "이득"
+    ]
+  },
+  {
+    "text": "challenge",
+    "meanings": [
+      "도전"
+    ]
+  },
+  {
+    "text": "circumstance",
+    "meanings": [
+      "상황"
+    ]
+  },
+  {
+    "text": "comment",
+    "meanings": [
+      "언급하다"
+    ]
+  },
+  {
+    "text": "complex",
+    "meanings": [
+      "복잡한"
+    ]
+  },
+  {
+    "text": "consequence",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "considerable",
+    "meanings": [
+      "상당한"
+    ]
+  },
+  {
+    "text": "contrast",
+    "meanings": [
+      "대조하다"
+    ]
+  },
+  {
+    "text": "demonstrate",
+    "meanings": [
+      "보여주다"
+    ]
+  },
+  {
+    "text": "depict",
+    "meanings": [
+      "묘사하다"
+    ]
+  },
+  {
+    "text": "diverse",
+    "meanings": [
+      "다양한"
+    ]
+  },
+  {
+    "text": "dominate",
+    "meanings": [
+      "지배하다"
+    ]
+  },
+  {
+    "text": "elaborate",
+    "meanings": [
+      "정교한"
+    ]
+  },
+  {
+    "text": "eliminate",
+    "meanings": [
+      "제거하다"
+    ]
+  },
+  {
+    "text": "enforce",
+    "meanings": [
+      "강행하다"
+    ]
+  },
+  {
+    "text": "eventually",
+    "meanings": [
+      "결국"
+    ]
+  },
+  {
+    "text": "examine",
+    "meanings": [
+      "조사하다"
+    ]
+  },
+  {
+    "text": "exclusive",
+    "meanings": [
+      "독점적인"
+    ]
+  },
+  {
+    "text": "explicit",
+    "meanings": [
+      "명시적인"
+    ]
+  },
+  {
+    "text": "extensive",
+    "meanings": [
+      "광범위한"
+    ]
+  },
+  {
+    "text": "factor",
+    "meanings": [
+      "요인"
+    ]
+  },
+  {
+    "text": "favorable",
+    "meanings": [
+      "호의적인"
+    ]
+  },
+  {
+    "text": "flexible",
+    "meanings": [
+      "유연한"
+    ]
+  },
+  {
+    "text": "fundamental",
+    "meanings": [
+      "근본적인"
+    ]
+  },
+  {
+    "text": "global",
+    "meanings": [
+      "세계적인"
+    ]
+  },
+  {
+    "text": "gradual",
+    "meanings": [
+      "점진적인"
+    ]
+  },
+  {
+    "text": "grant",
+    "meanings": [
+      "허가하다"
+    ]
+  },
+  {
+    "text": "harm",
+    "meanings": [
+      "해치다"
+    ]
+  },
+  {
+    "text": "illustrate",
+    "meanings": [
+      "설명하다"
+    ]
+  },
+  {
+    "text": "individual",
+    "meanings": [
+      "개인적인"
+    ]
+  },
+  {
+    "text": "influence",
+    "meanings": [
+      "영향"
+    ]
+  },
+  {
+    "text": "initiate",
+    "meanings": [
+      "시작하다"
+    ]
+  },
+  {
+    "text": "innovate",
+    "meanings": [
+      "혁신하다"
+    ]
+  },
+  {
+    "text": "insight",
+    "meanings": [
+      "통찰"
+    ]
+  },
+  {
+    "text": "integrate",
+    "meanings": [
+      "통합하다"
+    ]
+  },
+  {
+    "text": "investigate",
+    "meanings": [
+      "조사하다"
+    ]
+  },
+  {
+    "text": "manifest",
+    "meanings": [
+      "나타내다"
+    ]
+  },
+  {
+    "text": "maximize",
+    "meanings": [
+      "최대화하다"
+    ]
+  },
+  {
+    "text": "minimize",
+    "meanings": [
+      "최소화하다"
+    ]
+  },
+  {
+    "text": "motivate",
+    "meanings": [
+      "동기 부여하다"
+    ]
+  },
+  {
+    "text": "obvious",
+    "meanings": [
+      "명백한"
+    ]
+  },
+  {
+    "text": "occur",
+    "meanings": [
+      "발생하다"
+    ]
+  },
+  {
+    "text": "overcome",
+    "meanings": [
+      "극복하다"
+    ]
+  },
+  {
+    "text": "perceive",
+    "meanings": [
+      "인식하다"
+    ]
+  },
+  {
+    "text": "predict",
+    "meanings": [
+      "예측하다"
+    ]
+  },
+  {
+    "text": "preserve",
+    "meanings": [
+      "보존하다"
+    ]
+  },
+  {
+    "text": "prevent",
+    "meanings": [
+      "예방하다"
+    ]
+  },
+  {
+    "text": "principle",
+    "meanings": [
+      "원칙"
+    ]
+  },
+  {
+    "text": "proceed",
+    "meanings": [
+      "진행하다"
+    ]
+  },
+  {
+    "text": "promote",
+    "meanings": [
+      "촉진하다"
+    ]
+  },
+  {
+    "text": "propose",
+    "meanings": [
+      "제안하다"
+    ]
+  },
+  {
+    "text": "protect",
+    "meanings": [
+      "보호하다"
+    ]
+  },
+  {
+    "text": "prove",
+    "meanings": [
+      "증명하다"
+    ]
+  },
+  {
+    "text": "provide",
+    "meanings": [
+      "제공하다"
+    ]
+  },
+  {
+    "text": "pursue",
+    "meanings": [
+      "추구하다"
+    ]
+  },
+  {
+    "text": "reflect",
+    "meanings": [
+      "반영하다"
+    ]
+  },
+  {
+    "text": "regulate",
+    "meanings": [
+      "규제하다"
+    ]
+  },
+  {
+    "text": "reinforce",
+    "meanings": [
+      "강화하다"
+    ]
+  },
+  {
+    "text": "reject",
+    "meanings": [
+      "거부하다"
+    ]
+  },
+  {
+    "text": "relate",
+    "meanings": [
+      "관련시키다"
+    ]
+  },
+  {
+    "text": "relevant",
+    "meanings": [
+      "관련 있는"
+    ]
+  },
+  {
+    "text": "represent",
+    "meanings": [
+      "나타내다"
+    ]
+  },
+  {
+    "text": "require",
+    "meanings": [
+      "요구하다"
+    ]
+  },
+  {
+    "text": "resolve",
+    "meanings": [
+      "해결하다"
+    ]
+  },
+  {
+    "text": "resource",
+    "meanings": [
+      "자원"
+    ]
+  },
+  {
+    "text": "respond",
+    "meanings": [
+      "응답하다"
+    ]
+  },
+  {
+    "text": "restore",
+    "meanings": [
+      "회복시키다"
+    ]
+  },
+  {
+    "text": "result",
+    "meanings": [
+      "결과"
+    ]
+  },
+  {
+    "text": "significant",
+    "meanings": [
+      "중요한"
+    ]
+  },
+  {
+    "text": "solution",
+    "meanings": [
+      "해결책"
+    ]
+  },
+  {
+    "text": "specify",
+    "meanings": [
+      "구체화하다"
+    ]
+  },
+  {
+    "text": "stimulate",
+    "meanings": [
+      "자극하다"
+    ]
+  },
+  {
+    "text": "substantial",
+    "meanings": [
+      "상당한"
+    ]
+  },
+  {
+    "text": "sufficient",
+    "meanings": [
+      "충분한"
+    ]
+  },
+  {
+    "text": "suggest",
+    "meanings": [
+      "제안하다"
+    ]
+  },
+  {
+    "text": "support",
+    "meanings": [
+      "지지하다"
+    ]
+  },
+  {
+    "text": "transform",
+    "meanings": [
+      "변환하다"
+    ]
+  },
+  {
+    "text": "unique",
+    "meanings": [
+      "독특한"
+    ]
+  },
+  {
+    "text": "utilize",
+    "meanings": [
+      "활용하다"
+    ]
+  },
+  {
+    "text": "various",
+    "meanings": [
+      "다양한"
+    ]
+  },
+  {
+    "text": "widespread",
+    "meanings": [
+      "광범위한"
+    ]
+  }
 ]

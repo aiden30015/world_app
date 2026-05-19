@@ -140,7 +140,7 @@ class _SpellingQuizPageState extends State<SpellingQuizPage> {
                       ),
                       child: Center(
                         child: Text(
-                          word.meaning,
+                          word.displayMeaning,
                           textAlign: TextAlign.center,
                           style: const TextStyle(
                             fontSize: 30,

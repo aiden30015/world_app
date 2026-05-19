@@ -1,2226 +1,3575 @@
 [
   {
     "text": "office",
-    "meaning": "사무실"
+    "meanings": [
+      "사무실"
+    ]
   },
   {
     "text": "meeting",
-    "meaning": "회의"
+    "meanings": [
+      "회의"
+    ]
   },
   {
     "text": "email",
-    "meaning": "이메일"
+    "meanings": [
+      "이메일"
+    ]
   },
   {
     "text": "letter",
-    "meaning": "편지"
+    "meanings": [
+      "편지"
+    ]
   },
   {
     "text": "order",
-    "meaning": "주문"
+    "meanings": [
+      "주문"
+    ]
   },
   {
     "text": "product",
-    "meaning": "제품"
+    "meanings": [
+      "제품"
+    ]
   },
   {
     "text": "price",
-    "meaning": "가격"
+    "meanings": [
+      "가격"
+    ]
   },
   {
     "text": "service",
-    "meaning": "서비스"
+    "meanings": [
+      "서비스"
+    ]
   },
   {
     "text": "customer",
-    "meaning": "고객"
+    "meanings": [
+      "고객"
+    ]
   },
   {
     "text": "manager",
-    "meaning": "관리자"
+    "meanings": [
+      "관리자"
+    ]
   },
   {
     "text": "report",
-    "meaning": "보고서"
+    "meanings": [
+      "보고서"
+    ]
   },
   {
     "text": "plan",
-    "meaning": "계획"
+    "meanings": [
+      "계획"
+    ]
   },
   {
     "text": "company",
-    "meaning": "회사"
+    "meanings": [
+      "회사"
+    ]
   },
   {
     "text": "business",
-    "meaning": "사업"
+    "meanings": [
+      "사업"
+    ]
   },
   {
     "text": "job",
-    "meaning": "일자리"
+    "meanings": [
+      "일자리"
+    ]
   },
   {
     "text": "team",
-    "meaning": "팀"
+    "meanings": [
+      "팀"
+    ]
   },
   {
     "text": "project",
-    "meaning": "프로젝트"
+    "meanings": [
+      "프로젝트"
+    ]
   },
   {
     "text": "document",
-    "meaning": "문서"
+    "meanings": [
+      "문서"
+    ]
   },
   {
     "text": "file",
-    "meaning": "파일"
+    "meanings": [
+      "파일"
+    ]
   },
   {
     "text": "copy",
-    "meaning": "사본"
+    "meanings": [
+      "사본"
+    ]
   },
   {
     "text": "print",
-    "meaning": "인쇄하다"
+    "meanings": [
+      "인쇄하다"
+    ]
   },
   {
     "text": "send",
-    "meaning": "보내다"
+    "meanings": [
+      "보내다"
+    ]
   },
   {
     "text": "receive",
-    "meaning": "받다"
+    "meanings": [
+      "받다"
+    ]
   },
   {
     "text": "check",
-    "meaning": "확인하다"
+    "meanings": [
+      "확인하다"
+    ]
   },
   {
     "text": "sign",
-    "meaning": "서명하다"
-  },
-  {
-    "text": "desk",
-    "meaning": "책상"
-  },
-  {
-    "text": "chair",
-    "meaning": "의자"
+    "meanings": [
+      "서명하다"
+    ]
   },
   {
     "text": "computer",
-    "meaning": "컴퓨터"
+    "meanings": [
+      "컴퓨터"
+    ]
   },
   {
     "text": "screen",
-    "meaning": "화면"
+    "meanings": [
+      "화면"
+    ]
   },
   {
     "text": "keyboard",
-    "meaning": "키보드"
+    "meanings": [
+      "키보드"
+    ]
   },
   {
     "text": "printer",
-    "meaning": "프린터"
+    "meanings": [
+      "프린터"
+    ]
   },
   {
     "text": "staff",
-    "meaning": "직원"
+    "meanings": [
+      "직원"
+    ]
   },
   {
     "text": "employee",
-    "meaning": "직원"
+    "meanings": [
+      "직원"
+    ]
   },
   {
     "text": "employer",
-    "meaning": "고용주"
+    "meanings": [
+      "고용주"
+    ]
   },
   {
     "text": "colleague",
-    "meaning": "동료"
+    "meanings": [
+      "동료"
+    ]
   },
   {
     "text": "boss",
-    "meaning": "상사"
+    "meanings": [
+      "상사"
+    ]
   },
   {
     "text": "presentation",
-    "meaning": "발표"
+    "meanings": [
+      "발표"
+    ]
   },
   {
     "text": "slide",
-    "meaning": "슬라이드"
+    "meanings": [
+      "슬라이드"
+    ]
   },
   {
     "text": "handout",
-    "meaning": "유인물"
+    "meanings": [
+      "유인물"
+    ]
   },
   {
     "text": "offer",
-    "meaning": "제안"
+    "meanings": [
+      "제안"
+    ]
   },
   {
     "text": "deal",
-    "meaning": "거래"
+    "meanings": [
+      "거래"
+    ]
   },
   {
     "text": "request",
-    "meaning": "요청"
+    "meanings": [
+      "요청"
+    ]
   },
   {
     "text": "response",
-    "meaning": "응답"
+    "meanings": [
+      "응답"
+    ]
   },
   {
     "text": "reply",
-    "meaning": "답장하다"
+    "meanings": [
+      "답장하다"
+    ]
   },
   {
     "text": "start",
-    "meaning": "시작하다"
+    "meanings": [
+      "시작하다"
+    ]
   },
   {
     "text": "finish",
-    "meaning": "끝내다"
+    "meanings": [
+      "끝내다"
+    ]
   },
   {
     "text": "complete",
-    "meaning": "완료하다"
+    "meanings": [
+      "완료하다"
+    ]
   },
   {
     "text": "deliver",
-    "meaning": "배달하다"
+    "meanings": [
+      "배달하다"
+    ]
   },
   {
     "text": "attach",
-    "meaning": "첨부하다"
+    "meanings": [
+      "첨부하다"
+    ]
   },
   {
     "text": "forward",
-    "meaning": "전달하다"
+    "meanings": [
+      "전달하다"
+    ]
   },
   {
     "text": "search",
-    "meaning": "검색하다"
+    "meanings": [
+      "검색하다"
+    ]
   },
   {
     "text": "share",
-    "meaning": "공유하다"
+    "meanings": [
+      "공유하다"
+    ]
   },
   {
     "text": "arrange",
-    "meaning": "준비하다"
+    "meanings": [
+      "준비하다"
+    ]
   },
   {
     "text": "prepare",
-    "meaning": "준비하다"
+    "meanings": [
+      "준비하다"
+    ]
   },
   {
     "text": "organize",
-    "meaning": "조직하다"
+    "meanings": [
+      "조직하다"
+    ]
   },
   {
     "text": "manage",
-    "meaning": "관리하다"
+    "meanings": [
+      "관리하다"
+    ]
   },
   {
     "text": "visit",
-    "meaning": "방문하다"
+    "meanings": [
+      "방문하다"
+    ]
   },
   {
     "text": "attend",
-    "meaning": "참석하다"
+    "meanings": [
+      "참석하다"
+    ]
   },
   {
     "text": "join",
-    "meaning": "참여하다"
+    "meanings": [
+      "참여하다"
+    ]
   },
   {
     "text": "contact",
-    "meaning": "연락하다"
+    "meanings": [
+      "연락하다"
+    ]
   },
   {
     "text": "fax",
-    "meaning": "팩스"
+    "meanings": [
+      "팩스"
+    ]
   },
   {
     "text": "address",
-    "meaning": "주소"
+    "meanings": [
+      "주소"
+    ]
   },
   {
     "text": "form",
-    "meaning": "양식"
+    "meanings": [
+      "양식"
+    ]
   },
   {
     "text": "list",
-    "meaning": "목록"
+    "meanings": [
+      "목록"
+    ]
   },
   {
     "text": "note",
-    "meaning": "메모"
+    "meanings": [
+      "메모"
+    ]
   },
   {
     "text": "memo",
-    "meaning": "메모"
+    "meanings": [
+      "메모"
+    ]
   },
   {
     "text": "draft",
-    "meaning": "초안"
+    "meanings": [
+      "초안"
+    ]
   },
   {
     "text": "review",
-    "meaning": "검토하다"
+    "meanings": [
+      "검토하다"
+    ]
   },
   {
     "text": "edit",
-    "meaning": "편집하다"
+    "meanings": [
+      "편집하다"
+    ]
   },
   {
     "text": "approve",
-    "meaning": "승인하다"
+    "meanings": [
+      "승인하다"
+    ]
   },
   {
     "text": "reject",
-    "meaning": "거절하다"
+    "meanings": [
+      "거절하다"
+    ]
   },
   {
     "text": "submit",
-    "meaning": "제출하다"
+    "meanings": [
+      "제출하다"
+    ]
   },
   {
     "text": "fill out",
-    "meaning": "기입하다"
+    "meanings": [
+      "기입하다"
+    ]
   },
   {
     "text": "schedule",
-    "meaning": "일정"
+    "meanings": [
+      "일정"
+    ]
   },
   {
     "text": "calendar",
-    "meaning": "달력"
+    "meanings": [
+      "달력"
+    ]
   },
   {
     "text": "agenda",
-    "meaning": "안건"
-  },
-  {
-    "text": "minute",
-    "meaning": "회의록"
+    "meanings": [
+      "안건"
+    ]
   },
   {
     "text": "topic",
-    "meaning": "주제"
+    "meanings": [
+      "주제"
+    ]
   },
   {
     "text": "issue",
-    "meaning": "문제"
+    "meanings": [
+      "문제"
+    ]
   },
   {
     "text": "matter",
-    "meaning": "문제, 일"
+    "meanings": [
+      "문제",
+      "일"
+    ]
   },
   {
     "text": "decision",
-    "meaning": "결정"
+    "meanings": [
+      "결정"
+    ]
   },
   {
     "text": "decide",
-    "meaning": "결정하다"
+    "meanings": [
+      "결정하다"
+    ]
   },
   {
     "text": "choose",
-    "meaning": "선택하다"
+    "meanings": [
+      "선택하다"
+    ]
   },
   {
     "text": "choice",
-    "meaning": "선택"
+    "meanings": [
+      "선택"
+    ]
   },
   {
     "text": "option",
-    "meaning": "선택권"
+    "meanings": [
+      "선택권"
+    ]
   },
   {
     "text": "discuss",
-    "meaning": "논의하다"
+    "meanings": [
+      "논의하다"
+    ]
   },
   {
     "text": "explain",
-    "meaning": "설명하다"
+    "meanings": [
+      "설명하다"
+    ]
   },
   {
     "text": "describe",
-    "meaning": "묘사하다"
+    "meanings": [
+      "묘사하다"
+    ]
   },
   {
     "text": "show",
-    "meaning": "보여주다"
-  },
-  {
-    "text": "tell",
-    "meaning": "말하다"
+    "meanings": [
+      "보여주다"
+    ]
   },
   {
     "text": "inform",
-    "meaning": "알리다"
+    "meanings": [
+      "알리다"
+    ]
   },
   {
     "text": "announce",
-    "meaning": "발표하다"
+    "meanings": [
+      "발표하다"
+    ]
   },
   {
     "text": "notify",
-    "meaning": "통지하다"
+    "meanings": [
+      "통지하다"
+    ]
   },
   {
     "text": "remind",
-    "meaning": "상기시키다"
+    "meanings": [
+      "상기시키다"
+    ]
   },
   {
     "text": "delay",
-    "meaning": "연기하다"
+    "meanings": [
+      "연기하다"
+    ]
   },
   {
     "text": "cancel",
-    "meaning": "취소하다"
+    "meanings": [
+      "취소하다"
+    ]
   },
   {
     "text": "confirm",
-    "meaning": "확인하다"
+    "meanings": [
+      "확인하다"
+    ]
   },
   {
     "text": "reserve",
-    "meaning": "예약하다"
-  },
-  {
-    "text": "book",
-    "meaning": "예약하다"
+    "meanings": [
+      "예약하다"
+    ]
   },
   {
     "text": "register",
-    "meaning": "등록하다"
+    "meanings": [
+      "등록하다"
+    ]
   },
   {
     "text": "apply",
-    "meaning": "지원하다, 적용하다"
+    "meanings": [
+      "지원하다",
+      "적용하다"
+    ]
   },
   {
     "text": "application",
-    "meaning": "지원, 신청"
+    "meanings": [
+      "지원",
+      "신청"
+    ]
   },
   {
     "text": "interview",
-    "meaning": "면접"
+    "meanings": [
+      "면접"
+    ]
   },
   {
     "text": "resume",
-    "meaning": "이력서"
+    "meanings": [
+      "이력서"
+    ]
   },
   {
     "text": "experience",
-    "meaning": "경험"
+    "meanings": [
+      "경험"
+    ]
   },
   {
     "text": "skill",
-    "meaning": "기술"
+    "meanings": [
+      "기술"
+    ]
   },
   {
     "text": "qualified",
-    "meaning": "자격을 갖춘"
+    "meanings": [
+      "자격을 갖춘"
+    ]
   },
   {
     "text": "qualification",
-    "meaning": "자격"
+    "meanings": [
+      "자격"
+    ]
   },
   {
     "text": "training",
-    "meaning": "교육"
+    "meanings": [
+      "교육"
+    ]
   },
   {
     "text": "course",
-    "meaning": "강좌"
+    "meanings": [
+      "강좌"
+    ]
   },
   {
     "text": "session",
-    "meaning": "회의 시간"
+    "meanings": [
+      "회의 시간"
+    ]
   },
   {
     "text": "manual",
-    "meaning": "설명서"
+    "meanings": [
+      "설명서"
+    ]
   },
   {
     "text": "guide",
-    "meaning": "안내서"
+    "meanings": [
+      "안내서"
+    ]
   },
   {
     "text": "instruction",
-    "meaning": "지시"
+    "meanings": [
+      "지시"
+    ]
   },
   {
     "text": "procedure",
-    "meaning": "절차"
+    "meanings": [
+      "절차"
+    ]
   },
   {
     "text": "process",
-    "meaning": "과정"
+    "meanings": [
+      "과정"
+    ]
   },
   {
     "text": "step",
-    "meaning": "단계"
+    "meanings": [
+      "단계"
+    ]
   },
   {
     "text": "rule",
-    "meaning": "규칙"
+    "meanings": [
+      "규칙"
+    ]
   },
   {
     "text": "policy",
-    "meaning": "정책"
+    "meanings": [
+      "정책"
+    ]
   },
   {
     "text": "deadline",
-    "meaning": "마감 기한"
+    "meanings": [
+      "마감 기한"
+    ]
   },
   {
     "text": "due",
-    "meaning": "기한이 된"
+    "meanings": [
+      "기한이 된"
+    ]
   },
   {
     "text": "available",
-    "meaning": "이용 가능한"
+    "meanings": [
+      "이용 가능한"
+    ]
   },
   {
     "text": "busy",
-    "meaning": "바쁜"
+    "meanings": [
+      "바쁜"
+    ]
   },
   {
     "text": "free",
-    "meaning": "자유로운, 무료의"
+    "meanings": [
+      "자유로운",
+      "무료의"
+    ]
   },
   {
     "text": "open",
-    "meaning": "열다"
+    "meanings": [
+      "열다"
+    ]
   },
   {
     "text": "close",
-    "meaning": "닫다"
+    "meanings": [
+      "닫다"
+    ]
   },
   {
     "text": "during",
-    "meaning": "~동안"
+    "meanings": [
+      "~동안"
+    ]
   },
   {
     "text": "until",
-    "meaning": "~까지"
+    "meanings": [
+      "~까지"
+    ]
   },
   {
     "text": "since",
-    "meaning": "~이래로"
+    "meanings": [
+      "~이래로"
+    ]
   },
   {
     "text": "soon",
-    "meaning": "곧"
+    "meanings": [
+      "곧"
+    ]
   },
   {
     "text": "later",
-    "meaning": "나중에"
+    "meanings": [
+      "나중에"
+    ]
   },
   {
     "text": "before",
-    "meaning": "전에"
+    "meanings": [
+      "전에"
+    ]
   },
   {
     "text": "after",
-    "meaning": "후에"
-  },
-  {
-    "text": "always",
-    "meaning": "항상"
-  },
-  {
-    "text": "usually",
-    "meaning": "보통"
-  },
-  {
-    "text": "often",
-    "meaning": "자주"
+    "meanings": [
+      "후에"
+    ]
   },
   {
     "text": "rarely",
-    "meaning": "드물게"
+    "meanings": [
+      "드물게"
+    ]
   },
   {
     "text": "fee",
-    "meaning": "수수료"
+    "meanings": [
+      "수수료"
+    ]
   },
   {
     "text": "cost",
-    "meaning": "비용"
+    "meanings": [
+      "비용"
+    ]
   },
   {
     "text": "charge",
-    "meaning": "요금, 부과하다"
+    "meanings": [
+      "요금",
+      "부과하다"
+    ]
   },
   {
     "text": "tax",
-    "meaning": "세금"
+    "meanings": [
+      "세금"
+    ]
   },
   {
     "text": "bill",
-    "meaning": "청구서"
+    "meanings": [
+      "청구서"
+    ]
   },
   {
     "text": "receipt",
-    "meaning": "영수증"
+    "meanings": [
+      "영수증"
+    ]
   },
   {
     "text": "cash",
-    "meaning": "현금"
-  },
-  {
-    "text": "card",
-    "meaning": "카드"
+    "meanings": [
+      "현금"
+    ]
   },
   {
     "text": "pay",
-    "meaning": "지불하다"
+    "meanings": [
+      "지불하다"
+    ]
   },
   {
     "text": "spend",
-    "meaning": "쓰다"
+    "meanings": [
+      "쓰다"
+    ]
   },
   {
     "text": "save",
-    "meaning": "절약하다"
+    "meanings": [
+      "절약하다"
+    ]
   },
   {
     "text": "earn",
-    "meaning": "벌다"
+    "meanings": [
+      "벌다"
+    ]
   },
   {
     "text": "increase",
-    "meaning": "증가하다"
+    "meanings": [
+      "증가하다"
+    ]
   },
   {
     "text": "decrease",
-    "meaning": "감소하다"
+    "meanings": [
+      "감소하다"
+    ]
   },
   {
     "text": "raise",
-    "meaning": "올리다"
+    "meanings": [
+      "올리다"
+    ]
   },
   {
     "text": "lower",
-    "meaning": "낮추다"
+    "meanings": [
+      "낮추다"
+    ]
   },
   {
     "text": "amount",
-    "meaning": "양, 금액"
+    "meanings": [
+      "양",
+      "금액"
+    ]
   },
   {
     "text": "total",
-    "meaning": "총계"
+    "meanings": [
+      "총계"
+    ]
   },
   {
     "text": "number",
-    "meaning": "숫자"
+    "meanings": [
+      "숫자"
+    ]
   },
   {
     "text": "percent",
-    "meaning": "퍼센트"
+    "meanings": [
+      "퍼센트"
+    ]
   },
   {
     "text": "workplace",
-    "meaning": "직장"
+    "meanings": [
+      "직장"
+    ]
   },
   {
     "text": "workspace",
-    "meaning": "업무 공간"
+    "meanings": [
+      "업무 공간"
+    ]
   },
   {
     "text": "cubicle",
-    "meaning": "칸막이 사무실"
+    "meanings": [
+      "칸막이 사무실"
+    ]
   },
   {
     "text": "reception",
-    "meaning": "접수처"
+    "meanings": [
+      "접수처"
+    ]
   },
   {
     "text": "lobby",
-    "meaning": "로비"
+    "meanings": [
+      "로비"
+    ]
   },
   {
     "text": "hallway",
-    "meaning": "복도"
+    "meanings": [
+      "복도"
+    ]
   },
   {
     "text": "supply room",
-    "meaning": "물품실"
+    "meanings": [
+      "물품실"
+    ]
   },
   {
     "text": "break room",
-    "meaning": "휴게실"
+    "meanings": [
+      "휴게실"
+    ]
   },
   {
     "text": "cafeteria",
-    "meaning": "구내식당"
+    "meanings": [
+      "구내식당"
+    ]
   },
   {
     "text": "vending machine",
-    "meaning": "자판기"
+    "meanings": [
+      "자판기"
+    ]
   },
   {
     "text": "elevator",
-    "meaning": "엘리베이터"
+    "meanings": [
+      "엘리베이터"
+    ]
   },
   {
     "text": "stairs",
-    "meaning": "계단"
+    "meanings": [
+      "계단"
+    ]
   },
   {
     "text": "parking lot",
-    "meaning": "주차장"
+    "meanings": [
+      "주차장"
+    ]
   },
   {
     "text": "entrance",
-    "meaning": "입구"
-  },
-  {
-    "text": "exit",
-    "meaning": "출구"
+    "meanings": [
+      "입구"
+    ]
   },
   {
     "text": "CEO",
-    "meaning": "최고경영자"
+    "meanings": [
+      "최고경영자"
+    ]
   },
   {
     "text": "president",
-    "meaning": "사장"
+    "meanings": [
+      "사장"
+    ]
   },
   {
     "text": "vice president",
-    "meaning": "부사장"
+    "meanings": [
+      "부사장"
+    ]
   },
   {
     "text": "director",
-    "meaning": "이사"
+    "meanings": [
+      "이사"
+    ]
   },
   {
     "text": "assistant",
-    "meaning": "보조"
+    "meanings": [
+      "보조"
+    ]
   },
   {
     "text": "secretary",
-    "meaning": "비서"
+    "meanings": [
+      "비서"
+    ]
   },
   {
     "text": "receptionist",
-    "meaning": "접수원"
+    "meanings": [
+      "접수원"
+    ]
   },
   {
     "text": "intern",
-    "meaning": "인턴"
+    "meanings": [
+      "인턴"
+    ]
   },
   {
     "text": "trainee",
-    "meaning": "수습"
+    "meanings": [
+      "수습"
+    ]
   },
   {
     "text": "technician",
-    "meaning": "기술자"
+    "meanings": [
+      "기술자"
+    ]
   },
   {
     "text": "engineer",
-    "meaning": "엔지니어"
+    "meanings": [
+      "엔지니어"
+    ]
   },
   {
     "text": "designer",
-    "meaning": "디자이너"
+    "meanings": [
+      "디자이너"
+    ]
   },
   {
     "text": "developer",
-    "meaning": "개발자"
+    "meanings": [
+      "개발자"
+    ]
   },
   {
     "text": "programmer",
-    "meaning": "프로그래머"
+    "meanings": [
+      "프로그래머"
+    ]
   },
   {
     "text": "analyst",
-    "meaning": "분석가"
+    "meanings": [
+      "분석가"
+    ]
   },
   {
     "text": "accountant",
-    "meaning": "회계사"
+    "meanings": [
+      "회계사"
+    ]
   },
   {
     "text": "lawyer",
-    "meaning": "변호사"
+    "meanings": [
+      "변호사"
+    ]
   },
   {
     "text": "doctor",
-    "meaning": "의사"
+    "meanings": [
+      "의사"
+    ]
   },
   {
     "text": "nurse",
-    "meaning": "간호사"
+    "meanings": [
+      "간호사"
+    ]
   },
   {
     "text": "driver",
-    "meaning": "운전기사"
+    "meanings": [
+      "운전기사"
+    ]
   },
   {
     "text": "clerk",
-    "meaning": "사무원"
+    "meanings": [
+      "사무원"
+    ]
   },
   {
     "text": "subject",
-    "meaning": "제목"
+    "meanings": [
+      "제목"
+    ]
   },
   {
     "text": "inbox",
-    "meaning": "받은편지함"
+    "meanings": [
+      "받은편지함"
+    ]
   },
   {
     "text": "outbox",
-    "meaning": "보낸편지함"
+    "meanings": [
+      "보낸편지함"
+    ]
   },
   {
     "text": "attachment",
-    "meaning": "첨부파일"
+    "meanings": [
+      "첨부파일"
+    ]
   },
   {
     "text": "recipient",
-    "meaning": "받는 사람"
+    "meanings": [
+      "받는 사람"
+    ]
   },
   {
     "text": "sender",
-    "meaning": "보낸 사람"
+    "meanings": [
+      "보낸 사람"
+    ]
   },
   {
     "text": "cc",
-    "meaning": "참조"
+    "meanings": [
+      "참조"
+    ]
   },
   {
     "text": "bcc",
-    "meaning": "숨은 참조"
+    "meanings": [
+      "숨은 참조"
+    ]
   },
   {
     "text": "signature",
-    "meaning": "서명"
+    "meanings": [
+      "서명"
+    ]
   },
   {
     "text": "reply all",
-    "meaning": "전체 답장"
+    "meanings": [
+      "전체 답장"
+    ]
   },
   {
     "text": "trash",
-    "meaning": "휴지통"
+    "meanings": [
+      "휴지통"
+    ]
   },
   {
     "text": "spam",
-    "meaning": "스팸"
+    "meanings": [
+      "스팸"
+    ]
   },
   {
     "text": "delete",
-    "meaning": "삭제하다"
-  },
-  {
-    "text": "call",
-    "meaning": "전화하다"
+    "meanings": [
+      "삭제하다"
+    ]
   },
   {
     "text": "dial",
-    "meaning": "전화 걸다"
+    "meanings": [
+      "전화 걸다"
+    ]
   },
   {
     "text": "voicemail",
-    "meaning": "음성메시지"
+    "meanings": [
+      "음성메시지"
+    ]
   },
   {
     "text": "voice message",
-    "meaning": "음성 메시지"
-  },
-  {
-    "text": "hold",
-    "meaning": "기다리게 하다"
+    "meanings": [
+      "음성 메시지"
+    ]
   },
   {
     "text": "transfer",
-    "meaning": "돌려주다"
+    "meanings": [
+      "돌려주다"
+    ]
   },
   {
     "text": "extension",
-    "meaning": "내선번호"
+    "meanings": [
+      "내선번호"
+    ]
   },
   {
     "text": "hang up",
-    "meaning": "전화 끊다"
+    "meanings": [
+      "전화 끊다"
+    ]
   },
   {
     "text": "pick up",
-    "meaning": "전화 받다"
-  },
-  {
-    "text": "ring",
-    "meaning": "벨이 울리다"
-  },
-  {
-    "text": "answer",
-    "meaning": "받다"
+    "meanings": [
+      "전화 받다"
+    ]
   },
   {
     "text": "missed call",
-    "meaning": "부재중 전화"
+    "meanings": [
+      "부재중 전화"
+    ]
   },
   {
     "text": "attendance",
-    "meaning": "참석"
+    "meanings": [
+      "참석"
+    ]
   },
   {
     "text": "absent",
-    "meaning": "결석한"
-  },
-  {
-    "text": "present",
-    "meaning": "참석한"
+    "meanings": [
+      "결석한"
+    ]
   },
   {
     "text": "postpone",
-    "meaning": "연기하다"
+    "meanings": [
+      "연기하다"
+    ]
   },
   {
     "text": "reschedule",
-    "meaning": "일정을 변경하다"
+    "meanings": [
+      "일정을 변경하다"
+    ]
   },
   {
     "text": "minutes",
-    "meaning": "회의록"
+    "meanings": [
+      "회의록"
+    ]
   },
   {
     "text": "vote",
-    "meaning": "투표하다"
+    "meanings": [
+      "투표하다"
+    ]
   },
   {
     "text": "disagree",
-    "meaning": "반대하다"
+    "meanings": [
+      "반대하다"
+    ]
   },
   {
     "text": "suggest",
-    "meaning": "제안하다"
+    "meanings": [
+      "제안하다"
+    ]
   },
   {
     "text": "recommend",
-    "meaning": "추천하다"
+    "meanings": [
+      "추천하다"
+    ]
   },
   {
     "text": "attendee",
-    "meaning": "참석자"
+    "meanings": [
+      "참석자"
+    ]
   },
   {
     "text": "recently",
-    "meaning": "최근에"
+    "meanings": [
+      "최근에"
+    ]
   },
   {
     "text": "currently",
-    "meaning": "현재"
+    "meanings": [
+      "현재"
+    ]
   },
   {
     "text": "immediately",
-    "meaning": "즉시"
+    "meanings": [
+      "즉시"
+    ]
   },
   {
     "text": "shortly",
-    "meaning": "곧"
+    "meanings": [
+      "곧"
+    ]
   },
   {
     "text": "eventually",
-    "meaning": "결국"
+    "meanings": [
+      "결국"
+    ]
   },
   {
     "text": "finally",
-    "meaning": "마침내"
+    "meanings": [
+      "마침내"
+    ]
   },
   {
     "text": "regularly",
-    "meaning": "정기적으로"
+    "meanings": [
+      "정기적으로"
+    ]
   },
   {
     "text": "daily",
-    "meaning": "매일"
+    "meanings": [
+      "매일"
+    ]
   },
   {
     "text": "weekly",
-    "meaning": "매주"
+    "meanings": [
+      "매주"
+    ]
   },
   {
     "text": "monthly",
-    "meaning": "매월"
+    "meanings": [
+      "매월"
+    ]
   },
   {
     "text": "annually",
-    "meaning": "매년"
+    "meanings": [
+      "매년"
+    ]
   },
   {
     "text": "biannual",
-    "meaning": "연 2회의"
-  },
-  {
-    "text": "morning",
-    "meaning": "아침"
-  },
-  {
-    "text": "evening",
-    "meaning": "저녁"
+    "meanings": [
+      "연 2회의"
+    ]
   },
   {
     "text": "price tag",
-    "meaning": "가격표"
-  },
-  {
-    "text": "size",
-    "meaning": "크기"
-  },
-  {
-    "text": "color",
-    "meaning": "색상"
+    "meanings": [
+      "가격표"
+    ]
   },
   {
     "text": "brand",
-    "meaning": "상표"
+    "meanings": [
+      "상표"
+    ]
   },
   {
     "text": "model",
-    "meaning": "모델"
+    "meanings": [
+      "모델"
+    ]
   },
   {
     "text": "style",
-    "meaning": "스타일"
+    "meanings": [
+      "스타일"
+    ]
   },
   {
     "text": "aisle",
-    "meaning": "통로"
+    "meanings": [
+      "통로"
+    ]
   },
   {
     "text": "shelf",
-    "meaning": "선반"
+    "meanings": [
+      "선반"
+    ]
   },
   {
     "text": "cashier",
-    "meaning": "계산원"
+    "meanings": [
+      "계산원"
+    ]
   },
   {
     "text": "checkout",
-    "meaning": "계산대"
+    "meanings": [
+      "계산대"
+    ]
   },
   {
     "text": "cash register",
-    "meaning": "금전 등록기"
-  },
-  {
-    "text": "change",
-    "meaning": "거스름돈"
+    "meanings": [
+      "금전 등록기"
+    ]
   },
   {
     "text": "coupon",
-    "meaning": "쿠폰"
+    "meanings": [
+      "쿠폰"
+    ]
   },
   {
     "text": "sale",
-    "meaning": "세일"
+    "meanings": [
+      "세일"
+    ]
   },
   {
     "text": "on sale",
-    "meaning": "할인 중"
+    "meanings": [
+      "할인 중"
+    ]
   },
   {
     "text": "clearance",
-    "meaning": "재고 정리"
+    "meanings": [
+      "재고 정리"
+    ]
   },
   {
     "text": "bargain",
-    "meaning": "저렴한 상품"
+    "meanings": [
+      "저렴한 상품"
+    ]
   },
   {
     "text": "purchase",
-    "meaning": "구입하다"
+    "meanings": [
+      "구입하다"
+    ]
   },
   {
     "text": "exchange",
-    "meaning": "교환하다"
-  },
-  {
-    "text": "return",
-    "meaning": "반품하다"
+    "meanings": [
+      "교환하다"
+    ]
   },
   {
     "text": "fitting room",
-    "meaning": "탈의실"
+    "meanings": [
+      "탈의실"
+    ]
   },
   {
     "text": "try on",
-    "meaning": "입어보다"
+    "meanings": [
+      "입어보다"
+    ]
   },
   {
     "text": "size up",
-    "meaning": "더 큰 사이즈"
+    "meanings": [
+      "더 큰 사이즈"
+    ]
   },
   {
     "text": "trip",
-    "meaning": "여행"
+    "meanings": [
+      "여행"
+    ]
   },
   {
     "text": "flight",
-    "meaning": "항공편"
+    "meanings": [
+      "항공편"
+    ]
   },
   {
     "text": "ticket",
-    "meaning": "표"
+    "meanings": [
+      "표"
+    ]
   },
   {
     "text": "boarding pass",
-    "meaning": "탑승권"
+    "meanings": [
+      "탑승권"
+    ]
   },
   {
     "text": "passport",
-    "meaning": "여권"
+    "meanings": [
+      "여권"
+    ]
   },
   {
     "text": "visa",
-    "meaning": "비자"
+    "meanings": [
+      "비자"
+    ]
   },
   {
     "text": "luggage",
-    "meaning": "짐"
+    "meanings": [
+      "짐"
+    ]
   },
   {
     "text": "baggage",
-    "meaning": "수하물"
+    "meanings": [
+      "수하물"
+    ]
   },
   {
     "text": "suitcase",
-    "meaning": "여행 가방"
+    "meanings": [
+      "여행 가방"
+    ]
   },
   {
     "text": "carry-on",
-    "meaning": "기내 휴대용"
+    "meanings": [
+      "기내 휴대용"
+    ]
   },
   {
     "text": "departure",
-    "meaning": "출발"
+    "meanings": [
+      "출발"
+    ]
   },
   {
     "text": "arrival",
-    "meaning": "도착"
+    "meanings": [
+      "도착"
+    ]
   },
   {
     "text": "gate",
-    "meaning": "탑승구"
+    "meanings": [
+      "탑승구"
+    ]
   },
   {
     "text": "terminal",
-    "meaning": "터미널"
+    "meanings": [
+      "터미널"
+    ]
   },
   {
     "text": "aisle seat",
-    "meaning": "통로 좌석"
+    "meanings": [
+      "통로 좌석"
+    ]
   },
   {
     "text": "window seat",
-    "meaning": "창가 좌석"
+    "meanings": [
+      "창가 좌석"
+    ]
   },
   {
     "text": "airline",
-    "meaning": "항공사"
+    "meanings": [
+      "항공사"
+    ]
   },
   {
     "text": "pilot",
-    "meaning": "조종사"
+    "meanings": [
+      "조종사"
+    ]
   },
   {
     "text": "flight attendant",
-    "meaning": "승무원"
+    "meanings": [
+      "승무원"
+    ]
   },
   {
     "text": "security",
-    "meaning": "보안 검사"
+    "meanings": [
+      "보안 검사"
+    ]
   },
   {
     "text": "customs",
-    "meaning": "세관"
+    "meanings": [
+      "세관"
+    ]
   },
   {
     "text": "immigration",
-    "meaning": "출입국 관리"
+    "meanings": [
+      "출입국 관리"
+    ]
   },
   {
     "text": "baggage claim",
-    "meaning": "수하물 찾는 곳"
+    "meanings": [
+      "수하물 찾는 곳"
+    ]
   },
   {
     "text": "currency",
-    "meaning": "통화"
+    "meanings": [
+      "통화"
+    ]
   },
   {
     "text": "exchange rate",
-    "meaning": "환율"
+    "meanings": [
+      "환율"
+    ]
   },
   {
     "text": "souvenir",
-    "meaning": "기념품"
+    "meanings": [
+      "기념품"
+    ]
   },
   {
     "text": "tourist",
-    "meaning": "관광객"
+    "meanings": [
+      "관광객"
+    ]
   },
   {
     "text": "destination",
-    "meaning": "목적지"
+    "meanings": [
+      "목적지"
+    ]
   },
   {
     "text": "waiter",
-    "meaning": "웨이터"
+    "meanings": [
+      "웨이터"
+    ]
   },
   {
     "text": "waitress",
-    "meaning": "웨이트리스"
+    "meanings": [
+      "웨이트리스"
+    ]
   },
   {
     "text": "server",
-    "meaning": "종업원"
+    "meanings": [
+      "종업원"
+    ]
   },
   {
     "text": "reservation",
-    "meaning": "예약"
-  },
-  {
-    "text": "table",
-    "meaning": "테이블"
+    "meanings": [
+      "예약"
+    ]
   },
   {
     "text": "party",
-    "meaning": "일행"
+    "meanings": [
+      "일행"
+    ]
   },
   {
     "text": "appetizer",
-    "meaning": "전채"
+    "meanings": [
+      "전채"
+    ]
   },
   {
     "text": "entree",
-    "meaning": "주요리"
+    "meanings": [
+      "주요리"
+    ]
   },
   {
     "text": "dessert",
-    "meaning": "후식"
+    "meanings": [
+      "후식"
+    ]
   },
   {
     "text": "beverage",
-    "meaning": "음료"
-  },
-  {
-    "text": "special",
-    "meaning": "특별 요리"
+    "meanings": [
+      "음료"
+    ]
   },
   {
     "text": "vegetarian",
-    "meaning": "채식주의자"
+    "meanings": [
+      "채식주의자"
+    ]
   },
   {
     "text": "allergy",
-    "meaning": "알레르기"
+    "meanings": [
+      "알레르기"
+    ]
   },
   {
     "text": "tip",
-    "meaning": "팁"
+    "meanings": [
+      "팁"
+    ]
   },
   {
     "text": "split",
-    "meaning": "나누다"
+    "meanings": [
+      "나누다"
+    ]
   },
   {
     "text": "front desk",
-    "meaning": "프런트"
+    "meanings": [
+      "프런트"
+    ]
   },
   {
     "text": "check-in",
-    "meaning": "체크인"
+    "meanings": [
+      "체크인"
+    ]
   },
   {
     "text": "check-out",
-    "meaning": "체크아웃"
+    "meanings": [
+      "체크아웃"
+    ]
   },
   {
     "text": "room key",
-    "meaning": "객실 키"
+    "meanings": [
+      "객실 키"
+    ]
   },
   {
     "text": "single room",
-    "meaning": "1인실"
+    "meanings": [
+      "1인실"
+    ]
   },
   {
     "text": "double room",
-    "meaning": "2인실"
+    "meanings": [
+      "2인실"
+    ]
   },
   {
     "text": "suite",
-    "meaning": "스위트룸"
+    "meanings": [
+      "스위트룸"
+    ]
   },
   {
     "text": "vacancy",
-    "meaning": "빈 객실"
+    "meanings": [
+      "빈 객실"
+    ]
   },
   {
     "text": "amenity",
-    "meaning": "편의시설"
+    "meanings": [
+      "편의시설"
+    ]
   },
   {
     "text": "housekeeping",
-    "meaning": "객실 청소"
+    "meanings": [
+      "객실 청소"
+    ]
   },
   {
     "text": "concierge",
-    "meaning": "안내인"
+    "meanings": [
+      "안내인"
+    ]
   },
   {
     "text": "room service",
-    "meaning": "룸서비스"
+    "meanings": [
+      "룸서비스"
+    ]
   },
   {
     "text": "wake-up call",
-    "meaning": "모닝콜"
+    "meanings": [
+      "모닝콜"
+    ]
   },
   {
     "text": "minibar",
-    "meaning": "미니바"
+    "meanings": [
+      "미니바"
+    ]
   },
   {
     "text": "laundry",
-    "meaning": "세탁"
+    "meanings": [
+      "세탁"
+    ]
   },
   {
     "text": "subway",
-    "meaning": "지하철"
+    "meanings": [
+      "지하철"
+    ]
   },
   {
     "text": "taxi",
-    "meaning": "택시"
+    "meanings": [
+      "택시"
+    ]
   },
   {
     "text": "bicycle",
-    "meaning": "자전거"
+    "meanings": [
+      "자전거"
+    ]
   },
   {
     "text": "scooter",
-    "meaning": "스쿠터"
+    "meanings": [
+      "스쿠터"
+    ]
   },
   {
     "text": "motorcycle",
-    "meaning": "오토바이"
+    "meanings": [
+      "오토바이"
+    ]
   },
   {
     "text": "truck",
-    "meaning": "트럭"
+    "meanings": [
+      "트럭"
+    ]
   },
   {
     "text": "van",
-    "meaning": "승합차"
+    "meanings": [
+      "승합차"
+    ]
   },
   {
     "text": "ferry",
-    "meaning": "여객선"
+    "meanings": [
+      "여객선"
+    ]
   },
   {
     "text": "highway",
-    "meaning": "고속도로"
+    "meanings": [
+      "고속도로"
+    ]
   },
   {
     "text": "traffic",
-    "meaning": "교통"
+    "meanings": [
+      "교통"
+    ]
   },
   {
     "text": "rush hour",
-    "meaning": "출퇴근 시간"
+    "meanings": [
+      "출퇴근 시간"
+    ]
   },
   {
     "text": "traffic jam",
-    "meaning": "교통 체증"
+    "meanings": [
+      "교통 체증"
+    ]
   },
   {
     "text": "commute",
-    "meaning": "통근하다"
+    "meanings": [
+      "통근하다"
+    ]
   },
   {
     "text": "commuter",
-    "meaning": "통근자"
+    "meanings": [
+      "통근자"
+    ]
   },
   {
     "text": "passenger",
-    "meaning": "승객"
+    "meanings": [
+      "승객"
+    ]
   },
   {
     "text": "fare",
-    "meaning": "요금"
+    "meanings": [
+      "요금"
+    ]
   },
   {
     "text": "ticket machine",
-    "meaning": "발권기"
+    "meanings": [
+      "발권기"
+    ]
   },
   {
     "text": "platform",
-    "meaning": "승강장"
+    "meanings": [
+      "승강장"
+    ]
   },
   {
     "text": "wake up",
-    "meaning": "일어나다"
+    "meanings": [
+      "일어나다"
+    ]
   },
   {
     "text": "get up",
-    "meaning": "일어나다"
+    "meanings": [
+      "일어나다"
+    ]
   },
   {
     "text": "brush",
-    "meaning": "닦다, 빗다"
+    "meanings": [
+      "닦다",
+      "빗다"
+    ]
   },
   {
     "text": "shower",
-    "meaning": "샤워하다"
+    "meanings": [
+      "샤워하다"
+    ]
   },
   {
     "text": "bath",
-    "meaning": "목욕"
+    "meanings": [
+      "목욕"
+    ]
   },
   {
     "text": "shave",
-    "meaning": "면도하다"
-  },
-  {
-    "text": "dress",
-    "meaning": "옷을 입다"
+    "meanings": [
+      "면도하다"
+    ]
   },
   {
     "text": "lunch break",
-    "meaning": "점심시간"
+    "meanings": [
+      "점심시간"
+    ]
   },
   {
     "text": "dollar",
-    "meaning": "달러"
+    "meanings": [
+      "달러"
+    ]
   },
   {
     "text": "cent",
-    "meaning": "센트"
+    "meanings": [
+      "센트"
+    ]
   },
   {
     "text": "coin",
-    "meaning": "동전"
+    "meanings": [
+      "동전"
+    ]
   },
   {
     "text": "wallet",
-    "meaning": "지갑"
+    "meanings": [
+      "지갑"
+    ]
   },
   {
     "text": "ATM",
-    "meaning": "현금자동입출금기"
+    "meanings": [
+      "현금자동입출금기"
+    ]
   },
   {
     "text": "withdraw",
-    "meaning": "인출하다"
+    "meanings": [
+      "인출하다"
+    ]
   },
   {
     "text": "deposit",
-    "meaning": "예금하다"
+    "meanings": [
+      "예금하다"
+    ]
   },
   {
     "text": "balance",
-    "meaning": "잔액"
+    "meanings": [
+      "잔액"
+    ]
   },
   {
     "text": "account",
-    "meaning": "계좌"
+    "meanings": [
+      "계좌"
+    ]
   },
   {
     "text": "credit card",
-    "meaning": "신용카드"
+    "meanings": [
+      "신용카드"
+    ]
   },
   {
     "text": "debit card",
-    "meaning": "직불카드"
+    "meanings": [
+      "직불카드"
+    ]
   },
   {
     "text": "checkbook",
-    "meaning": "수표책"
+    "meanings": [
+      "수표책"
+    ]
   },
   {
     "text": "urgent",
-    "meaning": "긴급한"
+    "meanings": [
+      "긴급한"
+    ]
   },
   {
     "text": "immediate",
-    "meaning": "즉각적인"
+    "meanings": [
+      "즉각적인"
+    ]
   },
   {
     "text": "optional",
-    "meaning": "선택적인"
+    "meanings": [
+      "선택적인"
+    ]
   },
   {
     "text": "required",
-    "meaning": "필수의"
+    "meanings": [
+      "필수의"
+    ]
   },
   {
     "text": "temporary",
-    "meaning": "임시의"
+    "meanings": [
+      "임시의"
+    ]
   },
   {
     "text": "permanent",
-    "meaning": "영구적인"
+    "meanings": [
+      "영구적인"
+    ]
   },
   {
     "text": "part-time",
-    "meaning": "시간제의"
+    "meanings": [
+      "시간제의"
+    ]
   },
   {
     "text": "full-time",
-    "meaning": "전일제의"
+    "meanings": [
+      "전일제의"
+    ]
   },
   {
     "text": "overtime",
-    "meaning": "초과 근무"
+    "meanings": [
+      "초과 근무"
+    ]
   },
   {
     "text": "shift",
-    "meaning": "교대 근무"
-  },
-  {
-    "text": "break",
-    "meaning": "휴식"
-  },
-  {
-    "text": "leave",
-    "meaning": "휴가"
+    "meanings": [
+      "교대 근무"
+    ]
   },
   {
     "text": "vacation",
-    "meaning": "휴가"
+    "meanings": [
+      "휴가"
+    ]
   },
   {
     "text": "holiday",
-    "meaning": "휴일"
+    "meanings": [
+      "휴일"
+    ]
   },
   {
     "text": "sick leave",
-    "meaning": "병가"
+    "meanings": [
+      "병가"
+    ]
   },
   {
     "text": "hire",
-    "meaning": "고용하다"
-  },
-  {
-    "text": "fire",
-    "meaning": "해고하다"
+    "meanings": [
+      "고용하다"
+    ]
   },
   {
     "text": "quit",
-    "meaning": "그만두다"
+    "meanings": [
+      "그만두다"
+    ]
   },
   {
     "text": "retire",
-    "meaning": "은퇴하다"
+    "meanings": [
+      "은퇴하다"
+    ]
   },
   {
     "text": "promote",
-    "meaning": "승진시키다"
+    "meanings": [
+      "승진시키다"
+    ]
   },
   {
     "text": "recruit",
-    "meaning": "채용하다"
+    "meanings": [
+      "채용하다"
+    ]
   },
   {
     "text": "monitor",
-    "meaning": "모니터"
-  },
-  {
-    "text": "mouse",
-    "meaning": "마우스"
+    "meanings": [
+      "모니터"
+    ]
   },
   {
     "text": "laptop",
-    "meaning": "노트북"
+    "meanings": [
+      "노트북"
+    ]
   },
   {
     "text": "tablet",
-    "meaning": "태블릿"
+    "meanings": [
+      "태블릿"
+    ]
   },
   {
     "text": "scanner",
-    "meaning": "스캐너"
+    "meanings": [
+      "스캐너"
+    ]
   },
   {
     "text": "photocopier",
-    "meaning": "복사기"
+    "meanings": [
+      "복사기"
+    ]
   },
   {
     "text": "projector",
-    "meaning": "프로젝터"
+    "meanings": [
+      "프로젝터"
+    ]
   },
   {
     "text": "microphone",
-    "meaning": "마이크"
+    "meanings": [
+      "마이크"
+    ]
   },
   {
     "text": "speaker",
-    "meaning": "스피커"
+    "meanings": [
+      "스피커"
+    ]
   },
   {
     "text": "headphones",
-    "meaning": "헤드폰"
+    "meanings": [
+      "헤드폰"
+    ]
   },
   {
     "text": "cable",
-    "meaning": "케이블"
+    "meanings": [
+      "케이블"
+    ]
   },
   {
     "text": "charger",
-    "meaning": "충전기"
+    "meanings": [
+      "충전기"
+    ]
   },
   {
     "text": "battery",
-    "meaning": "건전지"
+    "meanings": [
+      "건전지"
+    ]
   },
   {
     "text": "power",
-    "meaning": "전원"
+    "meanings": [
+      "전원"
+    ]
   },
   {
     "text": "login",
-    "meaning": "로그인"
+    "meanings": [
+      "로그인"
+    ]
   },
   {
     "text": "logout",
-    "meaning": "로그아웃"
+    "meanings": [
+      "로그아웃"
+    ]
   },
   {
     "text": "password",
-    "meaning": "비밀번호"
+    "meanings": [
+      "비밀번호"
+    ]
   },
   {
     "text": "username",
-    "meaning": "사용자명"
+    "meanings": [
+      "사용자명"
+    ]
   },
   {
     "text": "download",
-    "meaning": "다운로드"
+    "meanings": [
+      "다운로드"
+    ]
   },
   {
     "text": "upload",
-    "meaning": "업로드"
+    "meanings": [
+      "업로드"
+    ]
   },
   {
     "text": "install",
-    "meaning": "설치하다"
+    "meanings": [
+      "설치하다"
+    ]
   },
   {
     "text": "uninstall",
-    "meaning": "삭제하다"
+    "meanings": [
+      "삭제하다"
+    ]
   },
   {
     "text": "click",
-    "meaning": "클릭하다"
+    "meanings": [
+      "클릭하다"
+    ]
   },
   {
     "text": "scroll",
-    "meaning": "스크롤하다"
+    "meanings": [
+      "스크롤하다"
+    ]
   },
   {
     "text": "type",
-    "meaning": "타자치다"
+    "meanings": [
+      "타자치다"
+    ]
   },
   {
     "text": "paste",
-    "meaning": "붙여넣다"
+    "meanings": [
+      "붙여넣다"
+    ]
   },
   {
     "text": "information",
-    "meaning": "정보"
+    "meanings": [
+      "정보"
+    ]
   },
   {
     "text": "data",
-    "meaning": "자료"
+    "meanings": [
+      "자료"
+    ]
   },
   {
     "text": "detail",
-    "meaning": "세부사항"
+    "meanings": [
+      "세부사항"
+    ]
   },
   {
     "text": "background",
-    "meaning": "배경"
+    "meanings": [
+      "배경"
+    ]
   },
   {
     "text": "summary",
-    "meaning": "요약"
+    "meanings": [
+      "요약"
+    ]
   },
   {
     "text": "conclusion",
-    "meaning": "결론"
+    "meanings": [
+      "결론"
+    ]
   },
   {
     "text": "introduction",
-    "meaning": "소개"
+    "meanings": [
+      "소개"
+    ]
   },
   {
     "text": "section",
-    "meaning": "구역"
+    "meanings": [
+      "구역"
+    ]
   },
   {
     "text": "chapter",
-    "meaning": "장"
+    "meanings": [
+      "장"
+    ]
   },
   {
     "text": "page",
-    "meaning": "페이지"
+    "meanings": [
+      "페이지"
+    ]
   },
   {
     "text": "paragraph",
-    "meaning": "단락"
+    "meanings": [
+      "단락"
+    ]
   },
   {
     "text": "sentence",
-    "meaning": "문장"
-  },
-  {
-    "text": "word",
-    "meaning": "단어"
+    "meanings": [
+      "문장"
+    ]
   },
   {
     "text": "title",
-    "meaning": "제목"
+    "meanings": [
+      "제목"
+    ]
   },
   {
     "text": "heading",
-    "meaning": "표제"
+    "meanings": [
+      "표제"
+    ]
   },
   {
     "text": "location",
-    "meaning": "위치"
+    "meanings": [
+      "위치"
+    ]
   },
   {
     "text": "direction",
-    "meaning": "방향"
+    "meanings": [
+      "방향"
+    ]
   },
   {
     "text": "map",
-    "meaning": "지도"
+    "meanings": [
+      "지도"
+    ]
   },
   {
     "text": "upstairs",
-    "meaning": "위층"
+    "meanings": [
+      "위층"
+    ]
   },
   {
     "text": "downstairs",
-    "meaning": "아래층"
+    "meanings": [
+      "아래층"
+    ]
   },
   {
     "text": "ground floor",
-    "meaning": "1층"
+    "meanings": [
+      "1층"
+    ]
   },
   {
     "text": "client",
-    "meaning": "고객, 의뢰인"
+    "meanings": [
+      "고객",
+      "의뢰인"
+    ]
   },
   {
     "text": "partner",
-    "meaning": "파트너"
+    "meanings": [
+      "파트너"
+    ]
   },
   {
     "text": "teammate",
-    "meaning": "팀원"
+    "meanings": [
+      "팀원"
+    ]
   },
   {
     "text": "agent",
-    "meaning": "대리인"
+    "meanings": [
+      "대리인"
+    ]
   },
   {
     "text": "representative",
-    "meaning": "대표자"
+    "meanings": [
+      "대표자"
+    ]
   },
   {
     "text": "call back",
-    "meaning": "다시 전화하다"
+    "meanings": [
+      "다시 전화하다"
+    ]
   },
   {
     "text": "follow up",
-    "meaning": "후속조치하다"
+    "meanings": [
+      "후속조치하다"
+    ]
   },
   {
     "text": "get back to",
-    "meaning": "다시 연락하다"
+    "meanings": [
+      "다시 연락하다"
+    ]
   },
   {
     "text": "look forward to",
-    "meaning": "기대하다"
+    "meanings": [
+      "기대하다"
+    ]
   },
   {
     "text": "take care of",
-    "meaning": "돌보다"
+    "meanings": [
+      "돌보다"
+    ]
   },
   {
     "text": "deal with",
-    "meaning": "처리하다"
+    "meanings": [
+      "처리하다"
+    ]
   },
   {
     "text": "get in touch",
-    "meaning": "연락하다"
+    "meanings": [
+      "연락하다"
+    ]
   },
   {
     "text": "keep in touch",
-    "meaning": "연락하고 지내다"
+    "meanings": [
+      "연락하고 지내다"
+    ]
   },
   {
     "text": "drop off",
-    "meaning": "내려주다"
+    "meanings": [
+      "내려주다"
+    ]
   },
   {
     "text": "set up",
-    "meaning": "준비하다"
+    "meanings": [
+      "준비하다"
+    ]
   },
   {
     "text": "turn on",
-    "meaning": "켜다"
+    "meanings": [
+      "켜다"
+    ]
   },
   {
     "text": "turn off",
-    "meaning": "끄다"
+    "meanings": [
+      "끄다"
+    ]
   },
   {
     "text": "plug in",
-    "meaning": "플러그를 꽂다"
+    "meanings": [
+      "플러그를 꽂다"
+    ]
   },
   {
     "text": "look up",
-    "meaning": "찾아보다"
+    "meanings": [
+      "찾아보다"
+    ]
   },
   {
     "text": "write down",
-    "meaning": "적어두다"
+    "meanings": [
+      "적어두다"
+    ]
   },
   {
     "text": "hand in",
-    "meaning": "제출하다"
+    "meanings": [
+      "제출하다"
+    ]
   },
   {
     "text": "fill in",
-    "meaning": "기입하다"
+    "meanings": [
+      "기입하다"
+    ]
   },
   {
     "text": "sign up",
-    "meaning": "등록하다"
+    "meanings": [
+      "등록하다"
+    ]
   },
   {
     "text": "log in",
-    "meaning": "로그인하다"
+    "meanings": [
+      "로그인하다"
+    ]
   },
   {
     "text": "show up",
-    "meaning": "나타나다"
+    "meanings": [
+      "나타나다"
+    ]
   },
   {
     "text": "brand-new",
-    "meaning": "완전 새것의"
+    "meanings": [
+      "완전 새것의"
+    ]
   },
   {
     "text": "used",
-    "meaning": "중고의"
+    "meanings": [
+      "중고의"
+    ]
   },
   {
     "text": "damaged",
-    "meaning": "손상된"
+    "meanings": [
+      "손상된"
+    ]
   },
   {
     "text": "broken",
-    "meaning": "고장난"
+    "meanings": [
+      "고장난"
+    ]
   },
   {
     "text": "defective",
-    "meaning": "결함이 있는"
+    "meanings": [
+      "결함이 있는"
+    ]
   },
   {
     "text": "excellent",
-    "meaning": "훌륭한"
+    "meanings": [
+      "훌륭한"
+    ]
   },
   {
     "text": "perfect",
-    "meaning": "완벽한"
+    "meanings": [
+      "완벽한"
+    ]
   },
   {
     "text": "acceptable",
-    "meaning": "받아들일 만한"
+    "meanings": [
+      "받아들일 만한"
+    ]
   },
   {
     "text": "unacceptable",
-    "meaning": "용납할 수 없는"
+    "meanings": [
+      "용납할 수 없는"
+    ]
   },
   {
     "text": "affordable",
-    "meaning": "저렴한"
+    "meanings": [
+      "저렴한"
+    ]
   },
   {
     "text": "expensive",
-    "meaning": "비싼"
+    "meanings": [
+      "비싼"
+    ]
   },
   {
     "text": "cheap",
-    "meaning": "값싼"
+    "meanings": [
+      "값싼"
+    ]
   },
   {
     "text": "inexpensive",
-    "meaning": "값싼"
+    "meanings": [
+      "값싼"
+    ]
   },
   {
     "text": "pricey",
-    "meaning": "값비싼"
+    "meanings": [
+      "값비싼"
+    ]
   },
   {
     "text": "quickly",
-    "meaning": "빠르게"
+    "meanings": [
+      "빠르게"
+    ]
   },
   {
     "text": "slowly",
-    "meaning": "천천히"
+    "meanings": [
+      "천천히"
+    ]
   },
   {
     "text": "carefully",
-    "meaning": "주의깊게"
+    "meanings": [
+      "주의깊게"
+    ]
   },
   {
     "text": "safely",
-    "meaning": "안전하게"
+    "meanings": [
+      "안전하게"
+    ]
   },
   {
     "text": "clearly",
-    "meaning": "명확히"
+    "meanings": [
+      "명확히"
+    ]
   },
   {
     "text": "easily",
-    "meaning": "쉽게"
+    "meanings": [
+      "쉽게"
+    ]
   },
   {
     "text": "hardly",
-    "meaning": "거의 ~않는"
+    "meanings": [
+      "거의 ~않는"
+    ]
   },
   {
     "text": "nearly",
-    "meaning": "거의"
+    "meanings": [
+      "거의"
+    ]
   },
   {
     "text": "almost",
-    "meaning": "거의"
+    "meanings": [
+      "거의"
+    ]
   },
   {
     "text": "exactly",
-    "meaning": "정확히"
+    "meanings": [
+      "정확히"
+    ]
   },
   {
     "text": "perhaps",
-    "meaning": "아마도"
+    "meanings": [
+      "아마도"
+    ]
   },
   {
     "text": "probably",
-    "meaning": "아마"
+    "meanings": [
+      "아마"
+    ]
   },
   {
     "text": "definitely",
-    "meaning": "확실히"
+    "meanings": [
+      "확실히"
+    ]
   },
   {
     "text": "certainly",
-    "meaning": "확실히"
+    "meanings": [
+      "확실히"
+    ]
   },
   {
     "text": "possibly",
-    "meaning": "아마도"
+    "meanings": [
+      "아마도"
+    ]
   },
   {
     "text": "hopefully",
-    "meaning": "바라건대"
+    "meanings": [
+      "바라건대"
+    ]
   },
   {
     "text": "unfortunately",
-    "meaning": "유감스럽게도"
+    "meanings": [
+      "유감스럽게도"
+    ]
   },
   {
     "text": "luckily",
-    "meaning": "다행히"
+    "meanings": [
+      "다행히"
+    ]
   },
   {
     "text": "safety",
-    "meaning": "안전"
+    "meanings": [
+      "안전"
+    ]
   },
   {
     "text": "health",
-    "meaning": "건강"
+    "meanings": [
+      "건강"
+    ]
   },
   {
     "text": "emergency",
-    "meaning": "비상사태"
+    "meanings": [
+      "비상사태"
+    ]
   },
   {
     "text": "fire alarm",
-    "meaning": "화재 경보"
+    "meanings": [
+      "화재 경보"
+    ]
   },
   {
     "text": "first aid",
-    "meaning": "응급처치"
+    "meanings": [
+      "응급처치"
+    ]
   },
   {
     "text": "evacuate",
-    "meaning": "대피하다"
+    "meanings": [
+      "대피하다"
+    ]
   },
   {
     "text": "warning",
-    "meaning": "경고"
+    "meanings": [
+      "경고"
+    ]
   },
   {
     "text": "caution",
-    "meaning": "주의"
-  },
-  {
-    "text": "danger",
-    "meaning": "위험"
+    "meanings": [
+      "주의"
+    ]
   },
   {
     "text": "dozen",
-    "meaning": "12개"
+    "meanings": [
+      "12개"
+    ]
   },
   {
     "text": "pair",
-    "meaning": "한 쌍"
+    "meanings": [
+      "한 쌍"
+    ]
   },
   {
     "text": "piece",
-    "meaning": "조각"
+    "meanings": [
+      "조각"
+    ]
   },
   {
     "text": "bottle",
-    "meaning": "병"
-  },
-  {
-    "text": "can",
-    "meaning": "캔"
+    "meanings": [
+      "병"
+    ]
   },
   {
     "text": "box",
-    "meaning": "상자"
-  },
-  {
-    "text": "bag",
-    "meaning": "봉지"
+    "meanings": [
+      "상자"
+    ]
   },
   {
     "text": "package",
-    "meaning": "포장"
+    "meanings": [
+      "포장"
+    ]
   },
   {
     "text": "parcel",
-    "meaning": "소포"
+    "meanings": [
+      "소포"
+    ]
   },
   {
     "text": "envelope",
-    "meaning": "봉투"
+    "meanings": [
+      "봉투"
+    ]
   },
   {
     "text": "container",
-    "meaning": "용기"
+    "meanings": [
+      "용기"
+    ]
   },
   {
     "text": "jar",
-    "meaning": "병"
+    "meanings": [
+      "병"
+    ]
   },
   {
     "text": "stapler",
-    "meaning": "스테이플러"
+    "meanings": [
+      "스테이플러"
+    ]
   },
   {
     "text": "staple",
-    "meaning": "스테이플"
+    "meanings": [
+      "스테이플"
+    ]
   },
   {
     "text": "paper clip",
-    "meaning": "종이 집게"
+    "meanings": [
+      "종이 집게"
+    ]
   },
   {
     "text": "scissors",
-    "meaning": "가위"
+    "meanings": [
+      "가위"
+    ]
   },
   {
     "text": "tape",
-    "meaning": "테이프"
+    "meanings": [
+      "테이프"
+    ]
   },
   {
     "text": "glue",
-    "meaning": "풀"
+    "meanings": [
+      "풀"
+    ]
   },
   {
     "text": "pen",
-    "meaning": "펜"
+    "meanings": [
+      "펜"
+    ]
   },
   {
     "text": "pencil",
-    "meaning": "연필"
+    "meanings": [
+      "연필"
+    ]
   },
   {
     "text": "eraser",
-    "meaning": "지우개"
+    "meanings": [
+      "지우개"
+    ]
   },
   {
     "text": "marker",
-    "meaning": "마커"
+    "meanings": [
+      "마커"
+    ]
   },
   {
     "text": "highlighter",
-    "meaning": "형광펜"
+    "meanings": [
+      "형광펜"
+    ]
   },
   {
     "text": "ruler",
-    "meaning": "자"
+    "meanings": [
+      "자"
+    ]
   },
   {
     "text": "notebook",
-    "meaning": "공책"
+    "meanings": [
+      "공책"
+    ]
   },
   {
     "text": "folder",
-    "meaning": "폴더"
+    "meanings": [
+      "폴더"
+    ]
   },
   {
     "text": "binder",
-    "meaning": "바인더"
+    "meanings": [
+      "바인더"
+    ]
   },
   {
     "text": "paper",
-    "meaning": "종이"
+    "meanings": [
+      "종이"
+    ]
   },
   {
     "text": "notepad",
-    "meaning": "메모지"
+    "meanings": [
+      "메모지"
+    ]
   },
   {
     "text": "spring",
-    "meaning": "봄"
+    "meanings": [
+      "봄"
+    ]
   },
   {
     "text": "summer",
-    "meaning": "여름"
+    "meanings": [
+      "여름"
+    ]
   },
   {
     "text": "autumn",
-    "meaning": "가을"
+    "meanings": [
+      "가을"
+    ]
   },
   {
     "text": "fall",
-    "meaning": "가을"
+    "meanings": [
+      "가을"
+    ]
   },
   {
     "text": "winter",
-    "meaning": "겨울"
+    "meanings": [
+      "겨울"
+    ]
   },
   {
     "text": "season",
-    "meaning": "계절"
+    "meanings": [
+      "계절"
+    ]
   },
   {
     "text": "temperature",
-    "meaning": "온도"
+    "meanings": [
+      "온도"
+    ]
   },
   {
     "text": "degree",
-    "meaning": "도"
+    "meanings": [
+      "도"
+    ]
   },
   {
     "text": "weather",
-    "meaning": "날씨"
+    "meanings": [
+      "날씨"
+    ]
   },
   {
     "text": "forecast",
-    "meaning": "예보"
+    "meanings": [
+      "예보"
+    ]
   },
   {
     "text": "provide",
-    "meaning": "제공하다"
-  },
-  {
-    "text": "give",
-    "meaning": "주다"
+    "meanings": [
+      "제공하다"
+    ]
   },
   {
     "text": "accept",
-    "meaning": "수락하다"
+    "meanings": [
+      "수락하다"
+    ]
   },
   {
     "text": "refuse",
-    "meaning": "거절하다"
+    "meanings": [
+      "거절하다"
+    ]
   },
   {
     "text": "require",
-    "meaning": "요구하다"
-  },
-  {
-    "text": "need",
-    "meaning": "필요로 하다"
-  },
-  {
-    "text": "want",
-    "meaning": "원하다"
+    "meanings": [
+      "요구하다"
+    ]
   },
   {
     "text": "expect",
-    "meaning": "기대하다"
-  },
-  {
-    "text": "hope",
-    "meaning": "바라다"
+    "meanings": [
+      "기대하다"
+    ]
   },
   {
     "text": "wish",
-    "meaning": "바라다"
+    "meanings": [
+      "바라다"
+    ]
   },
   {
     "text": "intend",
-    "meaning": "의도하다"
+    "meanings": [
+      "의도하다"
+    ]
   },
   {
     "text": "prefer",
-    "meaning": "선호하다"
+    "meanings": [
+      "선호하다"
+    ]
   },
   {
     "text": "avoid",
-    "meaning": "피하다"
+    "meanings": [
+      "피하다"
+    ]
   },
   {
     "text": "allow",
-    "meaning": "허락하다"
+    "meanings": [
+      "허락하다"
+    ]
   },
   {
     "text": "permit",
-    "meaning": "허가하다"
+    "meanings": [
+      "허가하다"
+    ]
   },
   {
     "text": "forbid",
-    "meaning": "금지하다"
+    "meanings": [
+      "금지하다"
+    ]
   },
   {
     "text": "encourage",
-    "meaning": "격려하다"
+    "meanings": [
+      "격려하다"
+    ]
   },
   {
     "text": "discourage",
-    "meaning": "막다"
+    "meanings": [
+      "막다"
+    ]
   },
   {
     "text": "warn",
-    "meaning": "경고하다"
+    "meanings": [
+      "경고하다"
+    ]
   },
   {
     "text": "advise",
-    "meaning": "조언하다"
+    "meanings": [
+      "조언하다"
+    ]
   },
   {
     "text": "propose",
-    "meaning": "제안하다"
+    "meanings": [
+      "제안하다"
+    ]
+  },
+  {
+    "text": "copier",
+    "meanings": [
+      "복사기"
+    ]
+  },
+  {
+    "text": "mouse pad",
+    "meanings": [
+      "마우스 패드"
+    ]
+  },
+  {
+    "text": "clipboard",
+    "meanings": [
+      "클립보드"
+    ]
+  },
+  {
+    "text": "whiteboard",
+    "meanings": [
+      "화이트보드"
+    ]
+  },
+  {
+    "text": "cabinet",
+    "meanings": [
+      "캐비닛"
+    ]
+  },
+  {
+    "text": "drawer",
+    "meanings": [
+      "서랍"
+    ]
+  },
+  {
+    "text": "lounge",
+    "meanings": [
+      "휴게실"
+    ]
+  },
+  {
+    "text": "chairman",
+    "meanings": [
+      "회장"
+    ]
+  },
+  {
+    "text": "owner",
+    "meanings": [
+      "소유자"
+    ]
+  },
+  {
+    "text": "founder",
+    "meanings": [
+      "창업자"
+    ]
+  },
+  {
+    "text": "meeting room",
+    "meanings": [
+      "회의실"
+    ]
+  },
+  {
+    "text": "conference call",
+    "meanings": [
+      "전화 회의"
+    ]
+  },
+  {
+    "text": "video call",
+    "meanings": [
+      "화상 통화"
+    ]
+  },
+  {
+    "text": "wage",
+    "meanings": [
+      "임금"
+    ]
+  },
+  {
+    "text": "cover letter",
+    "meanings": [
+      "자기소개서"
+    ]
+  },
+  {
+    "text": "booking",
+    "meanings": [
+      "예약"
+    ]
+  },
+  {
+    "text": "layover",
+    "meanings": [
+      "경유"
+    ]
+  },
+  {
+    "text": "voucher",
+    "meanings": [
+      "상품권"
+    ]
+  },
+  {
+    "text": "respond",
+    "meanings": [
+      "응답하다"
+    ]
+  },
+  {
+    "text": "useful",
+    "meanings": [
+      "유용한"
+    ]
+  },
+  {
+    "text": "helpful",
+    "meanings": [
+      "도움이 되는"
+    ]
+  },
+  {
+    "text": "friendly",
+    "meanings": [
+      "친절한"
+    ]
+  },
+  {
+    "text": "careful",
+    "meanings": [
+      "조심스러운"
+    ]
+  },
+  {
+    "text": "correct",
+    "meanings": [
+      "올바른"
+    ]
+  },
+  {
+    "text": "division",
+    "meanings": [
+      "부서"
+    ]
+  },
+  {
+    "text": "finance",
+    "meanings": [
+      "재무"
+    ]
+  },
+  {
+    "text": "weight",
+    "meanings": [
+      "무게"
+    ]
+  },
+  {
+    "text": "subtotal",
+    "meanings": [
+      "소계"
+    ]
+  },
+  {
+    "text": "greetings",
+    "meanings": [
+      "인사말"
+    ]
+  },
+  {
+    "text": "corporation",
+    "meanings": [
+      "기업"
+    ]
+  },
+  {
+    "text": "firm",
+    "meanings": [
+      "회사"
+    ]
+  },
+  {
+    "text": "startup",
+    "meanings": [
+      "스타트업"
+    ]
+  },
+  {
+    "text": "cofounder",
+    "meanings": [
+      "공동 창업자"
+    ]
+  },
+  {
+    "text": "mechanic",
+    "meanings": [
+      "정비공"
+    ]
+  },
+  {
+    "text": "janitor",
+    "meanings": [
+      "관리인"
+    ]
+  },
+  {
+    "text": "reminder",
+    "meanings": [
+      "알림"
+    ]
+  },
+  {
+    "text": "alert",
+    "meanings": [
+      "경고"
+    ]
+  },
+  {
+    "text": "checklist",
+    "meanings": [
+      "점검표"
+    ]
+  },
+  {
+    "text": "task list",
+    "meanings": [
+      "할 일 목록"
+    ]
+  },
+  {
+    "text": "gathering",
+    "meanings": [
+      "모임"
+    ]
+  },
+  {
+    "text": "celebration",
+    "meanings": [
+      "축하"
+    ]
+  },
+  {
+    "text": "anniversary",
+    "meanings": [
+      "기념일"
+    ]
+  },
+  {
+    "text": "opening",
+    "meanings": [
+      "개막"
+    ]
+  },
+  {
+    "text": "crew",
+    "meanings": [
+      "승무원"
+    ]
+  },
+  {
+    "text": "captain",
+    "meanings": [
+      "선장",
+      "기장"
+    ]
+  },
+  {
+    "text": "boarding",
+    "meanings": [
+      "탑승"
+    ]
+  },
+  {
+    "text": "disembark",
+    "meanings": [
+      "하차하다"
+    ]
+  },
+  {
+    "text": "cabin",
+    "meanings": [
+      "객실"
+    ]
+  },
+  {
+    "text": "seat belt",
+    "meanings": [
+      "안전 벨트"
+    ]
+  },
+  {
+    "text": "overhead bin",
+    "meanings": [
+      "머리 위 짐칸"
+    ]
+  },
+  {
+    "text": "meal",
+    "meanings": [
+      "식사"
+    ]
+  },
+  {
+    "text": "main course",
+    "meanings": [
+      "주요리"
+    ]
+  },
+  {
+    "text": "takeout",
+    "meanings": [
+      "포장 음식"
+    ]
+  },
+  {
+    "text": "delivery service",
+    "meanings": [
+      "배달 서비스"
+    ]
+  },
+  {
+    "text": "catering",
+    "meanings": [
+      "출장 음식"
+    ]
+  },
+  {
+    "text": "apologize",
+    "meanings": [
+      "사과하다"
+    ]
+  },
+  {
+    "text": "thank",
+    "meanings": [
+      "감사하다"
+    ]
+  },
+  {
+    "text": "mention",
+    "meanings": [
+      "언급하다"
+    ]
+  },
+  {
+    "text": "check in",
+    "meanings": [
+      "체크인하다"
+    ]
+  },
+  {
+    "text": "crowded",
+    "meanings": [
+      "붐비는"
+    ]
+  },
+  {
+    "text": "inconvenient",
+    "meanings": [
+      "불편한"
+    ]
+  },
+  {
+    "text": "comfortable",
+    "meanings": [
+      "편안한"
+    ]
+  },
+  {
+    "text": "uncomfortable",
+    "meanings": [
+      "불편한"
+    ]
+  },
+  {
+    "text": "unclear",
+    "meanings": [
+      "불명확한"
+    ]
+  },
+  {
+    "text": "floor plan",
+    "meanings": [
+      "평면도"
+    ]
+  },
+  {
+    "text": "emergency exit",
+    "meanings": [
+      "비상구"
+    ]
+  },
+  {
+    "text": "moment",
+    "meanings": [
+      "순간"
+    ]
+  },
+  {
+    "text": "period",
+    "meanings": [
+      "기간"
+    ]
+  },
+  {
+    "text": "duration",
+    "meanings": [
+      "기간"
+    ]
+  },
+  {
+    "text": "regarding",
+    "meanings": [
+      "~에 관하여"
+    ]
+  },
+  {
+    "text": "concerning",
+    "meanings": [
+      "~에 관한"
+    ]
+  },
+  {
+    "text": "according to",
+    "meanings": [
+      "~에 따르면"
+    ]
+  },
+  {
+    "text": "such as",
+    "meanings": [
+      "~와 같은"
+    ]
+  },
+  {
+    "text": "for example",
+    "meanings": [
+      "예를 들어"
+    ]
   }
 ]

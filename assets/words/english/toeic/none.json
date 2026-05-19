@@ -1,2490 +1,4037 @@
 [
   {
     "text": "hello",
-    "meaning": "안녕"
+    "meanings": [
+      "안녕"
+    ]
   },
   {
     "text": "thank you",
-    "meaning": "감사합니다"
+    "meanings": [
+      "감사합니다"
+    ]
   },
   {
     "text": "please",
-    "meaning": "부탁합니다"
+    "meanings": [
+      "부탁합니다"
+    ]
   },
   {
     "text": "sorry",
-    "meaning": "죄송합니다"
+    "meanings": [
+      "죄송합니다"
+    ]
   },
   {
     "text": "yes",
-    "meaning": "예"
+    "meanings": [
+      "예"
+    ]
   },
   {
     "text": "no",
-    "meaning": "아니오"
+    "meanings": [
+      "아니오"
+    ]
   },
   {
     "text": "day",
-    "meaning": "날, 하루"
+    "meanings": [
+      "날",
+      "하루"
+    ]
   },
   {
     "text": "time",
-    "meaning": "시간"
+    "meanings": [
+      "시간"
+    ]
   },
   {
     "text": "work",
-    "meaning": "일하다"
+    "meanings": [
+      "일하다"
+    ]
   },
   {
     "text": "home",
-    "meaning": "집"
+    "meanings": [
+      "집"
+    ]
   },
   {
     "text": "book",
-    "meaning": "책"
+    "meanings": [
+      "책"
+    ]
   },
   {
     "text": "phone",
-    "meaning": "전화"
+    "meanings": [
+      "전화"
+    ]
   },
   {
     "text": "name",
-    "meaning": "이름"
+    "meanings": [
+      "이름"
+    ]
   },
   {
     "text": "year",
-    "meaning": "년, 해"
+    "meanings": [
+      "년",
+      "해"
+    ]
   },
   {
     "text": "month",
-    "meaning": "월, 달"
+    "meanings": [
+      "월",
+      "달"
+    ]
   },
   {
     "text": "week",
-    "meaning": "주"
+    "meanings": [
+      "주"
+    ]
   },
   {
     "text": "today",
-    "meaning": "오늘"
+    "meanings": [
+      "오늘"
+    ]
   },
   {
     "text": "tomorrow",
-    "meaning": "내일"
+    "meanings": [
+      "내일"
+    ]
   },
   {
     "text": "yesterday",
-    "meaning": "어제"
+    "meanings": [
+      "어제"
+    ]
   },
   {
     "text": "morning",
-    "meaning": "아침"
+    "meanings": [
+      "아침"
+    ]
   },
   {
     "text": "evening",
-    "meaning": "저녁"
+    "meanings": [
+      "저녁"
+    ]
   },
   {
     "text": "food",
-    "meaning": "음식"
+    "meanings": [
+      "음식"
+    ]
   },
   {
     "text": "water",
-    "meaning": "물"
+    "meanings": [
+      "물"
+    ]
   },
   {
     "text": "money",
-    "meaning": "돈"
+    "meanings": [
+      "돈"
+    ]
   },
   {
     "text": "friend",
-    "meaning": "친구"
+    "meanings": [
+      "친구"
+    ]
   },
   {
     "text": "people",
-    "meaning": "사람들"
+    "meanings": [
+      "사람들"
+    ]
   },
   {
     "text": "person",
-    "meaning": "사람"
+    "meanings": [
+      "사람"
+    ]
   },
   {
     "text": "man",
-    "meaning": "남자"
+    "meanings": [
+      "남자"
+    ]
   },
   {
     "text": "woman",
-    "meaning": "여자"
+    "meanings": [
+      "여자"
+    ]
   },
   {
     "text": "child",
-    "meaning": "아이"
+    "meanings": [
+      "아이"
+    ]
   },
   {
     "text": "family",
-    "meaning": "가족"
+    "meanings": [
+      "가족"
+    ]
   },
   {
     "text": "country",
-    "meaning": "나라"
+    "meanings": [
+      "나라"
+    ]
   },
   {
     "text": "city",
-    "meaning": "도시"
+    "meanings": [
+      "도시"
+    ]
   },
   {
     "text": "house",
-    "meaning": "집, 주택"
+    "meanings": [
+      "집",
+      "주택"
+    ]
   },
   {
     "text": "room",
-    "meaning": "방"
+    "meanings": [
+      "방"
+    ]
   },
   {
     "text": "school",
-    "meaning": "학교"
+    "meanings": [
+      "학교"
+    ]
   },
   {
     "text": "student",
-    "meaning": "학생"
+    "meanings": [
+      "학생"
+    ]
   },
   {
     "text": "teacher",
-    "meaning": "선생님"
+    "meanings": [
+      "선생님"
+    ]
   },
   {
     "text": "class",
-    "meaning": "수업"
+    "meanings": [
+      "수업"
+    ]
   },
   {
     "text": "study",
-    "meaning": "공부하다"
+    "meanings": [
+      "공부하다"
+    ]
   },
   {
     "text": "happy",
-    "meaning": "행복한"
+    "meanings": [
+      "행복한"
+    ]
   },
   {
     "text": "sad",
-    "meaning": "슬픈"
+    "meanings": [
+      "슬픈"
+    ]
   },
   {
     "text": "good",
-    "meaning": "좋은"
+    "meanings": [
+      "좋은"
+    ]
   },
   {
     "text": "bad",
-    "meaning": "나쁜"
+    "meanings": [
+      "나쁜"
+    ]
   },
   {
     "text": "big",
-    "meaning": "큰"
+    "meanings": [
+      "큰"
+    ]
   },
   {
     "text": "small",
-    "meaning": "작은"
+    "meanings": [
+      "작은"
+    ]
   },
   {
     "text": "new",
-    "meaning": "새로운"
+    "meanings": [
+      "새로운"
+    ]
   },
   {
     "text": "old",
-    "meaning": "오래된, 늙은"
+    "meanings": [
+      "오래된",
+      "늙은"
+    ]
   },
   {
     "text": "hot",
-    "meaning": "뜨거운"
+    "meanings": [
+      "뜨거운"
+    ]
   },
   {
     "text": "cold",
-    "meaning": "차가운"
+    "meanings": [
+      "차가운"
+    ]
   },
   {
     "text": "car",
-    "meaning": "자동차"
+    "meanings": [
+      "자동차"
+    ]
   },
   {
     "text": "bus",
-    "meaning": "버스"
+    "meanings": [
+      "버스"
+    ]
   },
   {
     "text": "train",
-    "meaning": "기차"
+    "meanings": [
+      "기차"
+    ]
   },
   {
     "text": "plane",
-    "meaning": "비행기"
+    "meanings": [
+      "비행기"
+    ]
   },
   {
     "text": "road",
-    "meaning": "도로"
+    "meanings": [
+      "도로"
+    ]
   },
   {
     "text": "door",
-    "meaning": "문"
+    "meanings": [
+      "문"
+    ]
   },
   {
     "text": "window",
-    "meaning": "창문"
+    "meanings": [
+      "창문"
+    ]
   },
   {
     "text": "key",
-    "meaning": "열쇠"
+    "meanings": [
+      "열쇠"
+    ]
   },
   {
     "text": "light",
-    "meaning": "빛, 가벼운"
+    "meanings": [
+      "빛",
+      "가벼운"
+    ]
   },
   {
     "text": "lamp",
-    "meaning": "전등"
+    "meanings": [
+      "전등"
+    ]
   },
   {
     "text": "table",
-    "meaning": "탁자"
+    "meanings": [
+      "탁자"
+    ]
   },
   {
     "text": "chair",
-    "meaning": "의자"
+    "meanings": [
+      "의자"
+    ]
   },
   {
     "text": "bed",
-    "meaning": "침대"
+    "meanings": [
+      "침대"
+    ]
   },
   {
     "text": "desk",
-    "meaning": "책상"
+    "meanings": [
+      "책상"
+    ]
   },
   {
     "text": "sofa",
-    "meaning": "소파"
+    "meanings": [
+      "소파"
+    ]
   },
   {
     "text": "dish",
-    "meaning": "접시, 요리"
+    "meanings": [
+      "접시",
+      "요리"
+    ]
   },
   {
     "text": "cup",
-    "meaning": "컵"
+    "meanings": [
+      "컵"
+    ]
   },
   {
     "text": "plate",
-    "meaning": "접시"
+    "meanings": [
+      "접시"
+    ]
   },
   {
     "text": "fork",
-    "meaning": "포크"
+    "meanings": [
+      "포크"
+    ]
   },
   {
     "text": "spoon",
-    "meaning": "숟가락"
+    "meanings": [
+      "숟가락"
+    ]
   },
   {
     "text": "buy",
-    "meaning": "사다"
+    "meanings": [
+      "사다"
+    ]
   },
   {
     "text": "sell",
-    "meaning": "팔다"
+    "meanings": [
+      "팔다"
+    ]
   },
   {
     "text": "give",
-    "meaning": "주다"
+    "meanings": [
+      "주다"
+    ]
   },
   {
     "text": "take",
-    "meaning": "가져가다"
+    "meanings": [
+      "가져가다"
+    ]
   },
   {
     "text": "get",
-    "meaning": "얻다"
+    "meanings": [
+      "얻다"
+    ]
   },
   {
     "text": "come",
-    "meaning": "오다"
+    "meanings": [
+      "오다"
+    ]
   },
   {
     "text": "go",
-    "meaning": "가다"
+    "meanings": [
+      "가다"
+    ]
   },
   {
     "text": "see",
-    "meaning": "보다"
+    "meanings": [
+      "보다"
+    ]
   },
   {
     "text": "look",
-    "meaning": "보다"
+    "meanings": [
+      "보다"
+    ]
   },
   {
     "text": "hear",
-    "meaning": "듣다"
+    "meanings": [
+      "듣다"
+    ]
   },
   {
     "text": "speak",
-    "meaning": "말하다"
+    "meanings": [
+      "말하다"
+    ]
   },
   {
     "text": "say",
-    "meaning": "말하다"
+    "meanings": [
+      "말하다"
+    ]
   },
   {
     "text": "tell",
-    "meaning": "전하다"
+    "meanings": [
+      "전하다"
+    ]
   },
   {
     "text": "ask",
-    "meaning": "묻다"
+    "meanings": [
+      "묻다"
+    ]
   },
   {
     "text": "answer",
-    "meaning": "대답하다"
+    "meanings": [
+      "대답하다"
+    ]
   },
   {
     "text": "write",
-    "meaning": "쓰다"
+    "meanings": [
+      "쓰다"
+    ]
   },
   {
     "text": "read",
-    "meaning": "읽다"
+    "meanings": [
+      "읽다"
+    ]
   },
   {
     "text": "learn",
-    "meaning": "배우다"
+    "meanings": [
+      "배우다"
+    ]
   },
   {
     "text": "teach",
-    "meaning": "가르치다"
+    "meanings": [
+      "가르치다"
+    ]
   },
   {
     "text": "know",
-    "meaning": "알다"
+    "meanings": [
+      "알다"
+    ]
   },
   {
     "text": "love",
-    "meaning": "사랑하다"
+    "meanings": [
+      "사랑하다"
+    ]
   },
   {
     "text": "like",
-    "meaning": "좋아하다"
+    "meanings": [
+      "좋아하다"
+    ]
   },
   {
     "text": "want",
-    "meaning": "원하다"
+    "meanings": [
+      "원하다"
+    ]
   },
   {
     "text": "need",
-    "meaning": "필요하다"
+    "meanings": [
+      "필요하다"
+    ]
   },
   {
     "text": "hope",
-    "meaning": "바라다"
+    "meanings": [
+      "바라다"
+    ]
   },
   {
     "text": "can",
-    "meaning": "할 수 있다"
+    "meanings": [
+      "할 수 있다"
+    ]
   },
   {
     "text": "must",
-    "meaning": "해야 한다"
+    "meanings": [
+      "해야 한다"
+    ]
   },
   {
     "text": "will",
-    "meaning": "할 것이다"
+    "meanings": [
+      "할 것이다"
+    ]
   },
   {
     "text": "should",
-    "meaning": "해야 한다"
+    "meanings": [
+      "해야 한다"
+    ]
   },
   {
     "text": "may",
-    "meaning": "할지도 모른다"
+    "meanings": [
+      "할지도 모른다"
+    ]
   },
   {
     "text": "early",
-    "meaning": "이른"
+    "meanings": [
+      "이른"
+    ]
   },
   {
     "text": "late",
-    "meaning": "늦은"
+    "meanings": [
+      "늦은"
+    ]
   },
   {
     "text": "hour",
-    "meaning": "시간"
+    "meanings": [
+      "시간"
+    ]
   },
   {
     "text": "minute",
-    "meaning": "분"
+    "meanings": [
+      "분"
+    ]
   },
   {
     "text": "second",
-    "meaning": "초, 두 번째"
+    "meanings": [
+      "초",
+      "두 번째"
+    ]
   },
   {
     "text": "fast",
-    "meaning": "빠른"
+    "meanings": [
+      "빠른"
+    ]
   },
   {
     "text": "slow",
-    "meaning": "느린"
+    "meanings": [
+      "느린"
+    ]
   },
   {
     "text": "easy",
-    "meaning": "쉬운"
+    "meanings": [
+      "쉬운"
+    ]
   },
   {
     "text": "hard",
-    "meaning": "어려운"
+    "meanings": [
+      "어려운"
+    ]
   },
   {
     "text": "right",
-    "meaning": "옳은, 오른쪽"
+    "meanings": [
+      "옳은",
+      "오른쪽"
+    ]
   },
   {
     "text": "wrong",
-    "meaning": "틀린"
+    "meanings": [
+      "틀린"
+    ]
   },
   {
     "text": "left",
-    "meaning": "왼쪽"
+    "meanings": [
+      "왼쪽"
+    ]
   },
   {
     "text": "near",
-    "meaning": "가까운"
+    "meanings": [
+      "가까운"
+    ]
   },
   {
     "text": "far",
-    "meaning": "먼"
+    "meanings": [
+      "먼"
+    ]
   },
   {
     "text": "front",
-    "meaning": "앞"
+    "meanings": [
+      "앞"
+    ]
   },
   {
     "text": "back",
-    "meaning": "뒤"
+    "meanings": [
+      "뒤"
+    ]
   },
   {
     "text": "top",
-    "meaning": "꼭대기"
+    "meanings": [
+      "꼭대기"
+    ]
   },
   {
     "text": "bottom",
-    "meaning": "바닥"
+    "meanings": [
+      "바닥"
+    ]
   },
   {
     "text": "first",
-    "meaning": "첫 번째"
+    "meanings": [
+      "첫 번째"
+    ]
   },
   {
     "text": "last",
-    "meaning": "마지막"
+    "meanings": [
+      "마지막"
+    ]
   },
   {
     "text": "next",
-    "meaning": "다음"
+    "meanings": [
+      "다음"
+    ]
   },
   {
     "text": "now",
-    "meaning": "지금"
+    "meanings": [
+      "지금"
+    ]
   },
   {
     "text": "then",
-    "meaning": "그때"
+    "meanings": [
+      "그때"
+    ]
   },
   {
     "text": "always",
-    "meaning": "항상"
+    "meanings": [
+      "항상"
+    ]
   },
   {
     "text": "never",
-    "meaning": "결코 ~않다"
+    "meanings": [
+      "결코 ~않다"
+    ]
   },
   {
     "text": "often",
-    "meaning": "자주"
+    "meanings": [
+      "자주"
+    ]
   },
   {
     "text": "sometimes",
-    "meaning": "가끔"
+    "meanings": [
+      "가끔"
+    ]
   },
   {
     "text": "usually",
-    "meaning": "보통"
+    "meanings": [
+      "보통"
+    ]
   },
   {
     "text": "really",
-    "meaning": "정말"
+    "meanings": [
+      "정말"
+    ]
   },
   {
     "text": "very",
-    "meaning": "매우"
+    "meanings": [
+      "매우"
+    ]
   },
   {
     "text": "much",
-    "meaning": "많은"
+    "meanings": [
+      "많은"
+    ]
   },
   {
     "text": "many",
-    "meaning": "많은"
+    "meanings": [
+      "많은"
+    ]
   },
   {
     "text": "little",
-    "meaning": "작은, 거의 없는"
+    "meanings": [
+      "작은",
+      "거의 없는"
+    ]
   },
   {
     "text": "few",
-    "meaning": "거의 없는"
+    "meanings": [
+      "거의 없는"
+    ]
   },
   {
     "text": "more",
-    "meaning": "더 많은"
+    "meanings": [
+      "더 많은"
+    ]
   },
   {
     "text": "less",
-    "meaning": "더 적은"
+    "meanings": [
+      "더 적은"
+    ]
   },
   {
     "text": "every",
-    "meaning": "모든"
+    "meanings": [
+      "모든"
+    ]
   },
   {
     "text": "some",
-    "meaning": "약간의"
+    "meanings": [
+      "약간의"
+    ]
   },
   {
     "text": "any",
-    "meaning": "어떤"
+    "meanings": [
+      "어떤"
+    ]
   },
   {
     "text": "all",
-    "meaning": "모든"
+    "meanings": [
+      "모든"
+    ]
   },
   {
     "text": "none",
-    "meaning": "아무것도"
+    "meanings": [
+      "아무것도"
+    ]
   },
   {
     "text": "again",
-    "meaning": "다시"
+    "meanings": [
+      "다시"
+    ]
   },
   {
     "text": "also",
-    "meaning": "또한"
+    "meanings": [
+      "또한"
+    ]
   },
   {
     "text": "too",
-    "meaning": "또한, 너무"
+    "meanings": [
+      "또한",
+      "너무"
+    ]
   },
   {
     "text": "only",
-    "meaning": "오직"
+    "meanings": [
+      "오직"
+    ]
   },
   {
     "text": "just",
-    "meaning": "단지"
+    "meanings": [
+      "단지"
+    ]
   },
   {
     "text": "head",
-    "meaning": "머리"
+    "meanings": [
+      "머리"
+    ]
   },
   {
     "text": "face",
-    "meaning": "얼굴"
+    "meanings": [
+      "얼굴"
+    ]
   },
   {
     "text": "eye",
-    "meaning": "눈"
+    "meanings": [
+      "눈"
+    ]
   },
   {
     "text": "ear",
-    "meaning": "귀"
+    "meanings": [
+      "귀"
+    ]
   },
   {
     "text": "nose",
-    "meaning": "코"
+    "meanings": [
+      "코"
+    ]
   },
   {
     "text": "mouth",
-    "meaning": "입"
+    "meanings": [
+      "입"
+    ]
   },
   {
     "text": "tooth",
-    "meaning": "치아"
+    "meanings": [
+      "치아"
+    ]
   },
   {
     "text": "tongue",
-    "meaning": "혀"
+    "meanings": [
+      "혀"
+    ]
   },
   {
     "text": "lip",
-    "meaning": "입술"
+    "meanings": [
+      "입술"
+    ]
   },
   {
     "text": "hair",
-    "meaning": "머리카락"
+    "meanings": [
+      "머리카락"
+    ]
   },
   {
     "text": "neck",
-    "meaning": "목"
+    "meanings": [
+      "목"
+    ]
   },
   {
     "text": "shoulder",
-    "meaning": "어깨"
+    "meanings": [
+      "어깨"
+    ]
   },
   {
     "text": "arm",
-    "meaning": "팔"
+    "meanings": [
+      "팔"
+    ]
   },
   {
     "text": "hand",
-    "meaning": "손"
+    "meanings": [
+      "손"
+    ]
   },
   {
     "text": "finger",
-    "meaning": "손가락"
+    "meanings": [
+      "손가락"
+    ]
   },
   {
     "text": "leg",
-    "meaning": "다리"
+    "meanings": [
+      "다리"
+    ]
   },
   {
     "text": "foot",
-    "meaning": "발"
+    "meanings": [
+      "발"
+    ]
   },
   {
     "text": "toe",
-    "meaning": "발가락"
+    "meanings": [
+      "발가락"
+    ]
   },
   {
     "text": "knee",
-    "meaning": "무릎"
+    "meanings": [
+      "무릎"
+    ]
   },
   {
     "text": "chest",
-    "meaning": "가슴"
+    "meanings": [
+      "가슴"
+    ]
   },
   {
     "text": "stomach",
-    "meaning": "배"
+    "meanings": [
+      "배"
+    ]
   },
   {
     "text": "heart",
-    "meaning": "심장"
+    "meanings": [
+      "심장"
+    ]
   },
   {
     "text": "skin",
-    "meaning": "피부"
+    "meanings": [
+      "피부"
+    ]
   },
   {
     "text": "bone",
-    "meaning": "뼈"
+    "meanings": [
+      "뼈"
+    ]
   },
   {
     "text": "father",
-    "meaning": "아버지"
+    "meanings": [
+      "아버지"
+    ]
   },
   {
     "text": "mother",
-    "meaning": "어머니"
+    "meanings": [
+      "어머니"
+    ]
   },
   {
     "text": "dad",
-    "meaning": "아빠"
+    "meanings": [
+      "아빠"
+    ]
   },
   {
     "text": "mom",
-    "meaning": "엄마"
+    "meanings": [
+      "엄마"
+    ]
   },
   {
     "text": "brother",
-    "meaning": "남자 형제"
+    "meanings": [
+      "남자 형제"
+    ]
   },
   {
     "text": "sister",
-    "meaning": "여자 형제"
+    "meanings": [
+      "여자 형제"
+    ]
   },
   {
     "text": "son",
-    "meaning": "아들"
+    "meanings": [
+      "아들"
+    ]
   },
   {
     "text": "daughter",
-    "meaning": "딸"
+    "meanings": [
+      "딸"
+    ]
   },
   {
     "text": "parent",
-    "meaning": "부모"
+    "meanings": [
+      "부모"
+    ]
   },
   {
     "text": "husband",
-    "meaning": "남편"
+    "meanings": [
+      "남편"
+    ]
   },
   {
     "text": "wife",
-    "meaning": "아내"
+    "meanings": [
+      "아내"
+    ]
   },
   {
     "text": "baby",
-    "meaning": "아기"
+    "meanings": [
+      "아기"
+    ]
   },
   {
     "text": "uncle",
-    "meaning": "삼촌"
+    "meanings": [
+      "삼촌"
+    ]
   },
   {
     "text": "aunt",
-    "meaning": "이모"
+    "meanings": [
+      "이모"
+    ]
   },
   {
     "text": "cousin",
-    "meaning": "사촌"
+    "meanings": [
+      "사촌"
+    ]
   },
   {
     "text": "grandfather",
-    "meaning": "할아버지"
+    "meanings": [
+      "할아버지"
+    ]
   },
   {
     "text": "grandmother",
-    "meaning": "할머니"
+    "meanings": [
+      "할머니"
+    ]
   },
   {
     "text": "grandparent",
-    "meaning": "조부모"
+    "meanings": [
+      "조부모"
+    ]
   },
   {
     "text": "nephew",
-    "meaning": "조카(남)"
+    "meanings": [
+      "조카(남)"
+    ]
   },
   {
     "text": "niece",
-    "meaning": "조카(여)"
+    "meanings": [
+      "조카(여)"
+    ]
   },
   {
     "text": "red",
-    "meaning": "빨강"
+    "meanings": [
+      "빨강"
+    ]
   },
   {
     "text": "blue",
-    "meaning": "파랑"
+    "meanings": [
+      "파랑"
+    ]
   },
   {
     "text": "green",
-    "meaning": "초록"
+    "meanings": [
+      "초록"
+    ]
   },
   {
     "text": "yellow",
-    "meaning": "노랑"
+    "meanings": [
+      "노랑"
+    ]
   },
   {
     "text": "black",
-    "meaning": "검정"
+    "meanings": [
+      "검정"
+    ]
   },
   {
     "text": "white",
-    "meaning": "흰색"
+    "meanings": [
+      "흰색"
+    ]
   },
   {
     "text": "orange",
-    "meaning": "주황"
+    "meanings": [
+      "주황"
+    ]
   },
   {
     "text": "purple",
-    "meaning": "보라"
+    "meanings": [
+      "보라"
+    ]
   },
   {
     "text": "pink",
-    "meaning": "분홍"
+    "meanings": [
+      "분홍"
+    ]
   },
   {
     "text": "brown",
-    "meaning": "갈색"
+    "meanings": [
+      "갈색"
+    ]
   },
   {
     "text": "gray",
-    "meaning": "회색"
+    "meanings": [
+      "회색"
+    ]
   },
   {
     "text": "color",
-    "meaning": "색상"
+    "meanings": [
+      "색상"
+    ]
   },
   {
     "text": "one",
-    "meaning": "하나"
+    "meanings": [
+      "하나"
+    ]
   },
   {
     "text": "two",
-    "meaning": "둘"
+    "meanings": [
+      "둘"
+    ]
   },
   {
     "text": "three",
-    "meaning": "셋"
+    "meanings": [
+      "셋"
+    ]
   },
   {
     "text": "four",
-    "meaning": "넷"
+    "meanings": [
+      "넷"
+    ]
   },
   {
     "text": "five",
-    "meaning": "다섯"
+    "meanings": [
+      "다섯"
+    ]
   },
   {
     "text": "six",
-    "meaning": "여섯"
+    "meanings": [
+      "여섯"
+    ]
   },
   {
     "text": "seven",
-    "meaning": "일곱"
+    "meanings": [
+      "일곱"
+    ]
   },
   {
     "text": "eight",
-    "meaning": "여덟"
+    "meanings": [
+      "여덟"
+    ]
   },
   {
     "text": "nine",
-    "meaning": "아홉"
+    "meanings": [
+      "아홉"
+    ]
   },
   {
     "text": "ten",
-    "meaning": "열"
+    "meanings": [
+      "열"
+    ]
   },
   {
     "text": "eleven",
-    "meaning": "열하나"
+    "meanings": [
+      "열하나"
+    ]
   },
   {
     "text": "twelve",
-    "meaning": "열둘"
+    "meanings": [
+      "열둘"
+    ]
   },
   {
     "text": "thirteen",
-    "meaning": "열셋"
+    "meanings": [
+      "열셋"
+    ]
   },
   {
     "text": "fourteen",
-    "meaning": "열넷"
+    "meanings": [
+      "열넷"
+    ]
   },
   {
     "text": "fifteen",
-    "meaning": "열다섯"
+    "meanings": [
+      "열다섯"
+    ]
   },
   {
     "text": "sixteen",
-    "meaning": "열여섯"
+    "meanings": [
+      "열여섯"
+    ]
   },
   {
     "text": "seventeen",
-    "meaning": "열일곱"
+    "meanings": [
+      "열일곱"
+    ]
   },
   {
     "text": "eighteen",
-    "meaning": "열여덟"
+    "meanings": [
+      "열여덟"
+    ]
   },
   {
     "text": "nineteen",
-    "meaning": "열아홉"
+    "meanings": [
+      "열아홉"
+    ]
   },
   {
     "text": "twenty",
-    "meaning": "스물"
+    "meanings": [
+      "스물"
+    ]
   },
   {
     "text": "thirty",
-    "meaning": "서른"
+    "meanings": [
+      "서른"
+    ]
   },
   {
     "text": "forty",
-    "meaning": "마흔"
+    "meanings": [
+      "마흔"
+    ]
   },
   {
     "text": "fifty",
-    "meaning": "쉰"
+    "meanings": [
+      "쉰"
+    ]
   },
   {
     "text": "sixty",
-    "meaning": "예순"
+    "meanings": [
+      "예순"
+    ]
   },
   {
     "text": "seventy",
-    "meaning": "일흔"
+    "meanings": [
+      "일흔"
+    ]
   },
   {
     "text": "eighty",
-    "meaning": "여든"
+    "meanings": [
+      "여든"
+    ]
   },
   {
     "text": "ninety",
-    "meaning": "아흔"
+    "meanings": [
+      "아흔"
+    ]
   },
   {
     "text": "hundred",
-    "meaning": "백"
+    "meanings": [
+      "백"
+    ]
   },
   {
     "text": "thousand",
-    "meaning": "천"
+    "meanings": [
+      "천"
+    ]
   },
   {
     "text": "million",
-    "meaning": "백만"
+    "meanings": [
+      "백만"
+    ]
   },
   {
     "text": "zero",
-    "meaning": "영"
+    "meanings": [
+      "영"
+    ]
   },
   {
     "text": "half",
-    "meaning": "절반"
+    "meanings": [
+      "절반"
+    ]
   },
   {
     "text": "third",
-    "meaning": "셋째"
+    "meanings": [
+      "셋째"
+    ]
   },
   {
     "text": "Monday",
-    "meaning": "월요일"
+    "meanings": [
+      "월요일"
+    ]
   },
   {
     "text": "Tuesday",
-    "meaning": "화요일"
+    "meanings": [
+      "화요일"
+    ]
   },
   {
     "text": "Wednesday",
-    "meaning": "수요일"
+    "meanings": [
+      "수요일"
+    ]
   },
   {
     "text": "Thursday",
-    "meaning": "목요일"
+    "meanings": [
+      "목요일"
+    ]
   },
   {
     "text": "Friday",
-    "meaning": "금요일"
+    "meanings": [
+      "금요일"
+    ]
   },
   {
     "text": "Saturday",
-    "meaning": "토요일"
+    "meanings": [
+      "토요일"
+    ]
   },
   {
     "text": "Sunday",
-    "meaning": "일요일"
+    "meanings": [
+      "일요일"
+    ]
   },
   {
     "text": "January",
-    "meaning": "1월"
+    "meanings": [
+      "1월"
+    ]
   },
   {
     "text": "February",
-    "meaning": "2월"
+    "meanings": [
+      "2월"
+    ]
   },
   {
     "text": "March",
-    "meaning": "3월"
+    "meanings": [
+      "3월"
+    ]
   },
   {
     "text": "April",
-    "meaning": "4월"
-  },
-  {
-    "text": "May",
-    "meaning": "5월"
+    "meanings": [
+      "4월"
+    ]
   },
   {
     "text": "June",
-    "meaning": "6월"
+    "meanings": [
+      "6월"
+    ]
   },
   {
     "text": "July",
-    "meaning": "7월"
+    "meanings": [
+      "7월"
+    ]
   },
   {
     "text": "August",
-    "meaning": "8월"
+    "meanings": [
+      "8월"
+    ]
   },
   {
     "text": "September",
-    "meaning": "9월"
+    "meanings": [
+      "9월"
+    ]
   },
   {
     "text": "October",
-    "meaning": "10월"
+    "meanings": [
+      "10월"
+    ]
   },
   {
     "text": "November",
-    "meaning": "11월"
+    "meanings": [
+      "11월"
+    ]
   },
   {
     "text": "December",
-    "meaning": "12월"
+    "meanings": [
+      "12월"
+    ]
   },
   {
     "text": "weekend",
-    "meaning": "주말"
+    "meanings": [
+      "주말"
+    ]
   },
   {
     "text": "weekday",
-    "meaning": "평일"
+    "meanings": [
+      "평일"
+    ]
   },
   {
     "text": "night",
-    "meaning": "밤"
+    "meanings": [
+      "밤"
+    ]
   },
   {
     "text": "afternoon",
-    "meaning": "오후"
+    "meanings": [
+      "오후"
+    ]
   },
   {
     "text": "noon",
-    "meaning": "정오"
+    "meanings": [
+      "정오"
+    ]
   },
   {
     "text": "midnight",
-    "meaning": "자정"
+    "meanings": [
+      "자정"
+    ]
   },
   {
     "text": "rain",
-    "meaning": "비"
+    "meanings": [
+      "비"
+    ]
   },
   {
     "text": "snow",
-    "meaning": "눈"
+    "meanings": [
+      "눈"
+    ]
   },
   {
     "text": "sun",
-    "meaning": "해"
+    "meanings": [
+      "해"
+    ]
   },
   {
     "text": "moon",
-    "meaning": "달"
+    "meanings": [
+      "달"
+    ]
   },
   {
     "text": "star",
-    "meaning": "별"
+    "meanings": [
+      "별"
+    ]
   },
   {
     "text": "sky",
-    "meaning": "하늘"
+    "meanings": [
+      "하늘"
+    ]
   },
   {
     "text": "cloud",
-    "meaning": "구름"
+    "meanings": [
+      "구름"
+    ]
   },
   {
     "text": "wind",
-    "meaning": "바람"
+    "meanings": [
+      "바람"
+    ]
   },
   {
     "text": "storm",
-    "meaning": "폭풍"
+    "meanings": [
+      "폭풍"
+    ]
   },
   {
     "text": "ice",
-    "meaning": "얼음"
+    "meanings": [
+      "얼음"
+    ]
   },
   {
     "text": "fire",
-    "meaning": "불"
+    "meanings": [
+      "불"
+    ]
   },
   {
     "text": "earth",
-    "meaning": "땅, 지구"
+    "meanings": [
+      "땅",
+      "지구"
+    ]
   },
   {
     "text": "sea",
-    "meaning": "바다"
+    "meanings": [
+      "바다"
+    ]
   },
   {
     "text": "ocean",
-    "meaning": "대양"
+    "meanings": [
+      "대양"
+    ]
   },
   {
     "text": "river",
-    "meaning": "강"
+    "meanings": [
+      "강"
+    ]
   },
   {
     "text": "lake",
-    "meaning": "호수"
+    "meanings": [
+      "호수"
+    ]
   },
   {
     "text": "mountain",
-    "meaning": "산"
+    "meanings": [
+      "산"
+    ]
   },
   {
     "text": "hill",
-    "meaning": "언덕"
+    "meanings": [
+      "언덕"
+    ]
   },
   {
     "text": "forest",
-    "meaning": "숲"
+    "meanings": [
+      "숲"
+    ]
   },
   {
     "text": "tree",
-    "meaning": "나무"
+    "meanings": [
+      "나무"
+    ]
   },
   {
     "text": "flower",
-    "meaning": "꽃"
+    "meanings": [
+      "꽃"
+    ]
   },
   {
     "text": "grass",
-    "meaning": "잔디"
+    "meanings": [
+      "잔디"
+    ]
   },
   {
     "text": "leaf",
-    "meaning": "잎"
+    "meanings": [
+      "잎"
+    ]
   },
   {
     "text": "plant",
-    "meaning": "식물"
+    "meanings": [
+      "식물"
+    ]
   },
   {
     "text": "rock",
-    "meaning": "바위"
+    "meanings": [
+      "바위"
+    ]
   },
   {
     "text": "stone",
-    "meaning": "돌"
+    "meanings": [
+      "돌"
+    ]
   },
   {
     "text": "sand",
-    "meaning": "모래"
+    "meanings": [
+      "모래"
+    ]
   },
   {
     "text": "beach",
-    "meaning": "해변"
+    "meanings": [
+      "해변"
+    ]
   },
   {
     "text": "island",
-    "meaning": "섬"
+    "meanings": [
+      "섬"
+    ]
   },
   {
     "text": "field",
-    "meaning": "들판"
+    "meanings": [
+      "들판"
+    ]
   },
   {
     "text": "warm",
-    "meaning": "따뜻한"
+    "meanings": [
+      "따뜻한"
+    ]
   },
   {
     "text": "cool",
-    "meaning": "시원한"
+    "meanings": [
+      "시원한"
+    ]
   },
   {
     "text": "sunny",
-    "meaning": "햇살이 비치는"
+    "meanings": [
+      "햇살이 비치는"
+    ]
   },
   {
     "text": "rainy",
-    "meaning": "비 오는"
+    "meanings": [
+      "비 오는"
+    ]
   },
   {
     "text": "snowy",
-    "meaning": "눈 오는"
+    "meanings": [
+      "눈 오는"
+    ]
   },
   {
     "text": "cloudy",
-    "meaning": "흐린"
+    "meanings": [
+      "흐린"
+    ]
   },
   {
     "text": "windy",
-    "meaning": "바람 부는"
+    "meanings": [
+      "바람 부는"
+    ]
   },
   {
     "text": "wet",
-    "meaning": "젖은"
+    "meanings": [
+      "젖은"
+    ]
   },
   {
     "text": "dry",
-    "meaning": "마른"
+    "meanings": [
+      "마른"
+    ]
   },
   {
     "text": "dog",
-    "meaning": "개"
+    "meanings": [
+      "개"
+    ]
   },
   {
     "text": "cat",
-    "meaning": "고양이"
+    "meanings": [
+      "고양이"
+    ]
   },
   {
     "text": "bird",
-    "meaning": "새"
+    "meanings": [
+      "새"
+    ]
   },
   {
     "text": "fish",
-    "meaning": "물고기"
+    "meanings": [
+      "물고기"
+    ]
   },
   {
     "text": "horse",
-    "meaning": "말"
+    "meanings": [
+      "말"
+    ]
   },
   {
     "text": "pig",
-    "meaning": "돼지"
+    "meanings": [
+      "돼지"
+    ]
   },
   {
     "text": "cow",
-    "meaning": "소"
+    "meanings": [
+      "소"
+    ]
   },
   {
     "text": "sheep",
-    "meaning": "양"
+    "meanings": [
+      "양"
+    ]
   },
   {
     "text": "chicken",
-    "meaning": "닭"
+    "meanings": [
+      "닭"
+    ]
   },
   {
     "text": "rabbit",
-    "meaning": "토끼"
+    "meanings": [
+      "토끼"
+    ]
   },
   {
     "text": "mouse",
-    "meaning": "쥐"
+    "meanings": [
+      "쥐"
+    ]
   },
   {
     "text": "duck",
-    "meaning": "오리"
+    "meanings": [
+      "오리"
+    ]
   },
   {
     "text": "lion",
-    "meaning": "사자"
+    "meanings": [
+      "사자"
+    ]
   },
   {
     "text": "tiger",
-    "meaning": "호랑이"
+    "meanings": [
+      "호랑이"
+    ]
   },
   {
     "text": "bear",
-    "meaning": "곰"
+    "meanings": [
+      "곰"
+    ]
   },
   {
     "text": "elephant",
-    "meaning": "코끼리"
+    "meanings": [
+      "코끼리"
+    ]
   },
   {
     "text": "monkey",
-    "meaning": "원숭이"
+    "meanings": [
+      "원숭이"
+    ]
   },
   {
     "text": "snake",
-    "meaning": "뱀"
+    "meanings": [
+      "뱀"
+    ]
   },
   {
     "text": "frog",
-    "meaning": "개구리"
+    "meanings": [
+      "개구리"
+    ]
   },
   {
     "text": "insect",
-    "meaning": "곤충"
+    "meanings": [
+      "곤충"
+    ]
   },
   {
     "text": "bee",
-    "meaning": "벌"
+    "meanings": [
+      "벌"
+    ]
   },
   {
     "text": "butterfly",
-    "meaning": "나비"
+    "meanings": [
+      "나비"
+    ]
   },
   {
     "text": "animal",
-    "meaning": "동물"
+    "meanings": [
+      "동물"
+    ]
   },
   {
     "text": "pet",
-    "meaning": "반려동물"
+    "meanings": [
+      "반려동물"
+    ]
   },
   {
     "text": "rice",
-    "meaning": "쌀, 밥"
+    "meanings": [
+      "쌀",
+      "밥"
+    ]
   },
   {
     "text": "bread",
-    "meaning": "빵"
+    "meanings": [
+      "빵"
+    ]
   },
   {
     "text": "meat",
-    "meaning": "고기"
+    "meanings": [
+      "고기"
+    ]
   },
   {
     "text": "vegetable",
-    "meaning": "채소"
+    "meanings": [
+      "채소"
+    ]
   },
   {
     "text": "fruit",
-    "meaning": "과일"
+    "meanings": [
+      "과일"
+    ]
   },
   {
     "text": "apple",
-    "meaning": "사과"
+    "meanings": [
+      "사과"
+    ]
   },
   {
     "text": "banana",
-    "meaning": "바나나"
+    "meanings": [
+      "바나나"
+    ]
   },
   {
     "text": "grape",
-    "meaning": "포도"
+    "meanings": [
+      "포도"
+    ]
   },
   {
     "text": "strawberry",
-    "meaning": "딸기"
+    "meanings": [
+      "딸기"
+    ]
   },
   {
     "text": "tomato",
-    "meaning": "토마토"
+    "meanings": [
+      "토마토"
+    ]
   },
   {
     "text": "potato",
-    "meaning": "감자"
+    "meanings": [
+      "감자"
+    ]
   },
   {
     "text": "onion",
-    "meaning": "양파"
+    "meanings": [
+      "양파"
+    ]
   },
   {
     "text": "carrot",
-    "meaning": "당근"
+    "meanings": [
+      "당근"
+    ]
   },
   {
     "text": "egg",
-    "meaning": "달걀"
+    "meanings": [
+      "달걀"
+    ]
   },
   {
     "text": "milk",
-    "meaning": "우유"
+    "meanings": [
+      "우유"
+    ]
   },
   {
     "text": "cheese",
-    "meaning": "치즈"
+    "meanings": [
+      "치즈"
+    ]
   },
   {
     "text": "butter",
-    "meaning": "버터"
+    "meanings": [
+      "버터"
+    ]
   },
   {
     "text": "sugar",
-    "meaning": "설탕"
+    "meanings": [
+      "설탕"
+    ]
   },
   {
     "text": "salt",
-    "meaning": "소금"
+    "meanings": [
+      "소금"
+    ]
   },
   {
     "text": "pepper",
-    "meaning": "후추"
+    "meanings": [
+      "후추"
+    ]
   },
   {
     "text": "oil",
-    "meaning": "기름"
+    "meanings": [
+      "기름"
+    ]
   },
   {
     "text": "soup",
-    "meaning": "수프"
+    "meanings": [
+      "수프"
+    ]
   },
   {
     "text": "salad",
-    "meaning": "샐러드"
+    "meanings": [
+      "샐러드"
+    ]
   },
   {
     "text": "cake",
-    "meaning": "케이크"
+    "meanings": [
+      "케이크"
+    ]
   },
   {
     "text": "cookie",
-    "meaning": "쿠키"
+    "meanings": [
+      "쿠키"
+    ]
   },
   {
     "text": "chocolate",
-    "meaning": "초콜릿"
+    "meanings": [
+      "초콜릿"
+    ]
   },
   {
     "text": "ice cream",
-    "meaning": "아이스크림"
+    "meanings": [
+      "아이스크림"
+    ]
   },
   {
     "text": "coffee",
-    "meaning": "커피"
+    "meanings": [
+      "커피"
+    ]
   },
   {
     "text": "tea",
-    "meaning": "차"
+    "meanings": [
+      "차"
+    ]
   },
   {
     "text": "juice",
-    "meaning": "주스"
+    "meanings": [
+      "주스"
+    ]
   },
   {
     "text": "beer",
-    "meaning": "맥주"
+    "meanings": [
+      "맥주"
+    ]
   },
   {
     "text": "wine",
-    "meaning": "와인"
+    "meanings": [
+      "와인"
+    ]
   },
   {
     "text": "breakfast",
-    "meaning": "아침식사"
+    "meanings": [
+      "아침식사"
+    ]
   },
   {
     "text": "lunch",
-    "meaning": "점심식사"
+    "meanings": [
+      "점심식사"
+    ]
   },
   {
     "text": "dinner",
-    "meaning": "저녁식사"
+    "meanings": [
+      "저녁식사"
+    ]
   },
   {
     "text": "snack",
-    "meaning": "간식"
+    "meanings": [
+      "간식"
+    ]
   },
   {
     "text": "menu",
-    "meaning": "메뉴"
+    "meanings": [
+      "메뉴"
+    ]
   },
   {
     "text": "drink",
-    "meaning": "마시다, 음료"
+    "meanings": [
+      "마시다",
+      "음료"
+    ]
   },
   {
     "text": "eat",
-    "meaning": "먹다"
+    "meanings": [
+      "먹다"
+    ]
   },
   {
     "text": "cook",
-    "meaning": "요리하다"
+    "meanings": [
+      "요리하다"
+    ]
   },
   {
     "text": "taste",
-    "meaning": "맛"
+    "meanings": [
+      "맛"
+    ]
   },
   {
     "text": "delicious",
-    "meaning": "맛있는"
+    "meanings": [
+      "맛있는"
+    ]
   },
   {
     "text": "shirt",
-    "meaning": "셔츠"
+    "meanings": [
+      "셔츠"
+    ]
   },
   {
     "text": "pants",
-    "meaning": "바지"
+    "meanings": [
+      "바지"
+    ]
   },
   {
     "text": "dress",
-    "meaning": "원피스"
+    "meanings": [
+      "원피스"
+    ]
   },
   {
     "text": "skirt",
-    "meaning": "치마"
+    "meanings": [
+      "치마"
+    ]
   },
   {
     "text": "coat",
-    "meaning": "코트"
+    "meanings": [
+      "코트"
+    ]
   },
   {
     "text": "jacket",
-    "meaning": "재킷"
+    "meanings": [
+      "재킷"
+    ]
   },
   {
     "text": "shoe",
-    "meaning": "신발"
+    "meanings": [
+      "신발"
+    ]
   },
   {
     "text": "sock",
-    "meaning": "양말"
+    "meanings": [
+      "양말"
+    ]
   },
   {
     "text": "hat",
-    "meaning": "모자"
+    "meanings": [
+      "모자"
+    ]
   },
   {
     "text": "cap",
-    "meaning": "모자"
+    "meanings": [
+      "모자"
+    ]
   },
   {
     "text": "scarf",
-    "meaning": "목도리"
+    "meanings": [
+      "목도리"
+    ]
   },
   {
     "text": "glove",
-    "meaning": "장갑"
+    "meanings": [
+      "장갑"
+    ]
   },
   {
     "text": "belt",
-    "meaning": "허리띠"
+    "meanings": [
+      "허리띠"
+    ]
   },
   {
     "text": "bag",
-    "meaning": "가방"
+    "meanings": [
+      "가방"
+    ]
   },
   {
     "text": "glasses",
-    "meaning": "안경"
+    "meanings": [
+      "안경"
+    ]
   },
   {
     "text": "watch",
-    "meaning": "시계"
+    "meanings": [
+      "시계"
+    ]
   },
   {
     "text": "ring",
-    "meaning": "반지"
+    "meanings": [
+      "반지"
+    ]
   },
   {
     "text": "clothes",
-    "meaning": "옷"
+    "meanings": [
+      "옷"
+    ]
   },
   {
     "text": "wear",
-    "meaning": "입다"
+    "meanings": [
+      "입다"
+    ]
   },
   {
     "text": "size",
-    "meaning": "크기"
+    "meanings": [
+      "크기"
+    ]
   },
   {
     "text": "do",
-    "meaning": "하다"
+    "meanings": [
+      "하다"
+    ]
   },
   {
     "text": "make",
-    "meaning": "만들다"
+    "meanings": [
+      "만들다"
+    ]
   },
   {
     "text": "put",
-    "meaning": "두다"
+    "meanings": [
+      "두다"
+    ]
   },
   {
     "text": "call",
-    "meaning": "부르다, 전화하다"
+    "meanings": [
+      "부르다",
+      "전화하다"
+    ]
   },
   {
     "text": "try",
-    "meaning": "시도하다"
+    "meanings": [
+      "시도하다"
+    ]
   },
   {
     "text": "use",
-    "meaning": "사용하다"
+    "meanings": [
+      "사용하다"
+    ]
   },
   {
     "text": "find",
-    "meaning": "찾다"
+    "meanings": [
+      "찾다"
+    ]
   },
   {
     "text": "help",
-    "meaning": "돕다"
+    "meanings": [
+      "돕다"
+    ]
   },
   {
     "text": "run",
-    "meaning": "달리다"
+    "meanings": [
+      "달리다"
+    ]
   },
   {
     "text": "walk",
-    "meaning": "걷다"
+    "meanings": [
+      "걷다"
+    ]
   },
   {
     "text": "jump",
-    "meaning": "뛰다"
+    "meanings": [
+      "뛰다"
+    ]
   },
   {
     "text": "swim",
-    "meaning": "수영하다"
+    "meanings": [
+      "수영하다"
+    ]
   },
   {
     "text": "sit",
-    "meaning": "앉다"
+    "meanings": [
+      "앉다"
+    ]
   },
   {
     "text": "stand",
-    "meaning": "서다"
+    "meanings": [
+      "서다"
+    ]
   },
   {
     "text": "sleep",
-    "meaning": "자다"
+    "meanings": [
+      "자다"
+    ]
   },
   {
     "text": "wake",
-    "meaning": "깨다"
+    "meanings": [
+      "깨다"
+    ]
   },
   {
     "text": "dream",
-    "meaning": "꿈꾸다"
+    "meanings": [
+      "꿈꾸다"
+    ]
   },
   {
     "text": "rest",
-    "meaning": "쉬다"
+    "meanings": [
+      "쉬다"
+    ]
   },
   {
     "text": "play",
-    "meaning": "놀다, 연주하다"
+    "meanings": [
+      "놀다",
+      "연주하다"
+    ]
   },
   {
     "text": "listen",
-    "meaning": "듣다"
+    "meanings": [
+      "듣다"
+    ]
   },
   {
     "text": "touch",
-    "meaning": "만지다"
+    "meanings": [
+      "만지다"
+    ]
   },
   {
     "text": "feel",
-    "meaning": "느끼다"
+    "meanings": [
+      "느끼다"
+    ]
   },
   {
     "text": "think",
-    "meaning": "생각하다"
+    "meanings": [
+      "생각하다"
+    ]
   },
   {
     "text": "remember",
-    "meaning": "기억하다"
+    "meanings": [
+      "기억하다"
+    ]
   },
   {
     "text": "forget",
-    "meaning": "잊다"
+    "meanings": [
+      "잊다"
+    ]
   },
   {
     "text": "understand",
-    "meaning": "이해하다"
+    "meanings": [
+      "이해하다"
+    ]
   },
   {
     "text": "believe",
-    "meaning": "믿다"
+    "meanings": [
+      "믿다"
+    ]
   },
   {
     "text": "agree",
-    "meaning": "동의하다"
+    "meanings": [
+      "동의하다"
+    ]
   },
   {
     "text": "smile",
-    "meaning": "미소짓다"
+    "meanings": [
+      "미소짓다"
+    ]
   },
   {
     "text": "laugh",
-    "meaning": "웃다"
+    "meanings": [
+      "웃다"
+    ]
   },
   {
     "text": "cry",
-    "meaning": "울다"
+    "meanings": [
+      "울다"
+    ]
   },
   {
     "text": "sing",
-    "meaning": "노래하다"
+    "meanings": [
+      "노래하다"
+    ]
   },
   {
     "text": "dance",
-    "meaning": "춤추다"
+    "meanings": [
+      "춤추다"
+    ]
   },
   {
     "text": "draw",
-    "meaning": "그리다"
+    "meanings": [
+      "그리다"
+    ]
   },
   {
     "text": "paint",
-    "meaning": "칠하다"
+    "meanings": [
+      "칠하다"
+    ]
   },
   {
     "text": "build",
-    "meaning": "짓다"
+    "meanings": [
+      "짓다"
+    ]
   },
   {
     "text": "break",
-    "meaning": "깨다"
+    "meanings": [
+      "깨다"
+    ]
   },
   {
     "text": "fix",
-    "meaning": "고치다"
+    "meanings": [
+      "고치다"
+    ]
   },
   {
     "text": "clean",
-    "meaning": "청소하다"
+    "meanings": [
+      "청소하다"
+    ]
   },
   {
     "text": "wash",
-    "meaning": "씻다"
+    "meanings": [
+      "씻다"
+    ]
   },
   {
     "text": "cut",
-    "meaning": "자르다"
+    "meanings": [
+      "자르다"
+    ]
   },
   {
     "text": "push",
-    "meaning": "밀다"
+    "meanings": [
+      "밀다"
+    ]
   },
   {
     "text": "pull",
-    "meaning": "당기다"
+    "meanings": [
+      "당기다"
+    ]
   },
   {
     "text": "throw",
-    "meaning": "던지다"
+    "meanings": [
+      "던지다"
+    ]
   },
   {
     "text": "catch",
-    "meaning": "잡다"
+    "meanings": [
+      "잡다"
+    ]
   },
   {
     "text": "carry",
-    "meaning": "운반하다"
+    "meanings": [
+      "운반하다"
+    ]
   },
   {
     "text": "hold",
-    "meaning": "잡다"
+    "meanings": [
+      "잡다"
+    ]
   },
   {
     "text": "drop",
-    "meaning": "떨어뜨리다"
+    "meanings": [
+      "떨어뜨리다"
+    ]
   },
   {
     "text": "turn",
-    "meaning": "돌다"
+    "meanings": [
+      "돌다"
+    ]
   },
   {
     "text": "move",
-    "meaning": "움직이다"
+    "meanings": [
+      "움직이다"
+    ]
   },
   {
     "text": "stop",
-    "meaning": "멈추다"
+    "meanings": [
+      "멈추다"
+    ]
   },
   {
     "text": "wait",
-    "meaning": "기다리다"
+    "meanings": [
+      "기다리다"
+    ]
   },
   {
     "text": "stay",
-    "meaning": "머무르다"
+    "meanings": [
+      "머무르다"
+    ]
   },
   {
     "text": "live",
-    "meaning": "살다"
+    "meanings": [
+      "살다"
+    ]
   },
   {
     "text": "die",
-    "meaning": "죽다"
+    "meanings": [
+      "죽다"
+    ]
   },
   {
     "text": "grow",
-    "meaning": "자라다"
+    "meanings": [
+      "자라다"
+    ]
   },
   {
     "text": "change",
-    "meaning": "변하다"
+    "meanings": [
+      "변하다"
+    ]
   },
   {
     "text": "begin",
-    "meaning": "시작하다"
+    "meanings": [
+      "시작하다"
+    ]
   },
   {
     "text": "end",
-    "meaning": "끝나다"
+    "meanings": [
+      "끝나다"
+    ]
   },
   {
     "text": "travel",
-    "meaning": "여행하다"
+    "meanings": [
+      "여행하다"
+    ]
   },
   {
     "text": "drive",
-    "meaning": "운전하다"
+    "meanings": [
+      "운전하다"
+    ]
   },
   {
     "text": "ride",
-    "meaning": "타다"
+    "meanings": [
+      "타다"
+    ]
   },
   {
     "text": "fly",
-    "meaning": "날다"
+    "meanings": [
+      "날다"
+    ]
   },
   {
     "text": "arrive",
-    "meaning": "도착하다"
+    "meanings": [
+      "도착하다"
+    ]
   },
   {
     "text": "leave",
-    "meaning": "떠나다"
+    "meanings": [
+      "떠나다"
+    ]
   },
   {
     "text": "return",
-    "meaning": "돌아오다"
+    "meanings": [
+      "돌아오다"
+    ]
   },
   {
     "text": "enter",
-    "meaning": "들어가다"
+    "meanings": [
+      "들어가다"
+    ]
   },
   {
     "text": "exit",
-    "meaning": "나가다"
+    "meanings": [
+      "나가다"
+    ]
   },
   {
     "text": "beautiful",
-    "meaning": "아름다운"
+    "meanings": [
+      "아름다운"
+    ]
   },
   {
     "text": "ugly",
-    "meaning": "못생긴"
+    "meanings": [
+      "못생긴"
+    ]
   },
   {
     "text": "pretty",
-    "meaning": "예쁜"
+    "meanings": [
+      "예쁜"
+    ]
   },
   {
     "text": "kind",
-    "meaning": "친절한"
+    "meanings": [
+      "친절한"
+    ]
   },
   {
     "text": "nice",
-    "meaning": "좋은"
+    "meanings": [
+      "좋은"
+    ]
   },
   {
     "text": "mean",
-    "meaning": "심술궂은"
+    "meanings": [
+      "심술궂은"
+    ]
   },
   {
     "text": "rich",
-    "meaning": "부유한"
+    "meanings": [
+      "부유한"
+    ]
   },
   {
     "text": "poor",
-    "meaning": "가난한"
+    "meanings": [
+      "가난한"
+    ]
   },
   {
     "text": "young",
-    "meaning": "젊은"
+    "meanings": [
+      "젊은"
+    ]
   },
   {
     "text": "tall",
-    "meaning": "키 큰"
+    "meanings": [
+      "키 큰"
+    ]
   },
   {
     "text": "short",
-    "meaning": "키 작은"
+    "meanings": [
+      "키 작은"
+    ]
   },
   {
     "text": "long",
-    "meaning": "긴"
+    "meanings": [
+      "긴"
+    ]
   },
   {
     "text": "wide",
-    "meaning": "넓은"
+    "meanings": [
+      "넓은"
+    ]
   },
   {
     "text": "narrow",
-    "meaning": "좁은"
+    "meanings": [
+      "좁은"
+    ]
   },
   {
     "text": "thick",
-    "meaning": "두꺼운"
+    "meanings": [
+      "두꺼운"
+    ]
   },
   {
     "text": "thin",
-    "meaning": "얇은"
+    "meanings": [
+      "얇은"
+    ]
   },
   {
     "text": "heavy",
-    "meaning": "무거운"
+    "meanings": [
+      "무거운"
+    ]
   },
   {
     "text": "strong",
-    "meaning": "강한"
+    "meanings": [
+      "강한"
+    ]
   },
   {
     "text": "weak",
-    "meaning": "약한"
+    "meanings": [
+      "약한"
+    ]
   },
   {
     "text": "dirty",
-    "meaning": "더러운"
+    "meanings": [
+      "더러운"
+    ]
   },
   {
     "text": "safe",
-    "meaning": "안전한"
+    "meanings": [
+      "안전한"
+    ]
   },
   {
     "text": "dangerous",
-    "meaning": "위험한"
+    "meanings": [
+      "위험한"
+    ]
   },
   {
     "text": "loud",
-    "meaning": "시끄러운"
+    "meanings": [
+      "시끄러운"
+    ]
   },
   {
     "text": "quiet",
-    "meaning": "조용한"
+    "meanings": [
+      "조용한"
+    ]
   },
   {
     "text": "dark",
-    "meaning": "어두운"
+    "meanings": [
+      "어두운"
+    ]
   },
   {
     "text": "bright",
-    "meaning": "밝은"
+    "meanings": [
+      "밝은"
+    ]
   },
   {
     "text": "soft",
-    "meaning": "부드러운"
+    "meanings": [
+      "부드러운"
+    ]
   },
   {
     "text": "smooth",
-    "meaning": "매끄러운"
+    "meanings": [
+      "매끄러운"
+    ]
   },
   {
     "text": "rough",
-    "meaning": "거친"
+    "meanings": [
+      "거친"
+    ]
   },
   {
     "text": "sweet",
-    "meaning": "달콤한"
+    "meanings": [
+      "달콤한"
+    ]
   },
   {
     "text": "sour",
-    "meaning": "신"
+    "meanings": [
+      "신"
+    ]
   },
   {
     "text": "bitter",
-    "meaning": "쓴"
+    "meanings": [
+      "쓴"
+    ]
   },
   {
     "text": "salty",
-    "meaning": "짠"
+    "meanings": [
+      "짠"
+    ]
   },
   {
     "text": "spicy",
-    "meaning": "매운"
+    "meanings": [
+      "매운"
+    ]
   },
   {
     "text": "fresh",
-    "meaning": "신선한"
+    "meanings": [
+      "신선한"
+    ]
   },
   {
     "text": "tired",
-    "meaning": "피곤한"
+    "meanings": [
+      "피곤한"
+    ]
   },
   {
     "text": "hungry",
-    "meaning": "배고픈"
+    "meanings": [
+      "배고픈"
+    ]
   },
   {
     "text": "thirsty",
-    "meaning": "목마른"
+    "meanings": [
+      "목마른"
+    ]
   },
   {
     "text": "full",
-    "meaning": "가득 찬"
+    "meanings": [
+      "가득 찬"
+    ]
   },
   {
     "text": "empty",
-    "meaning": "빈"
+    "meanings": [
+      "빈"
+    ]
   },
   {
     "text": "angry",
-    "meaning": "화난"
+    "meanings": [
+      "화난"
+    ]
   },
   {
     "text": "afraid",
-    "meaning": "두려운"
+    "meanings": [
+      "두려운"
+    ]
   },
   {
     "text": "surprised",
-    "meaning": "놀란"
+    "meanings": [
+      "놀란"
+    ]
   },
   {
     "text": "excited",
-    "meaning": "신난"
+    "meanings": [
+      "신난"
+    ]
   },
   {
     "text": "bored",
-    "meaning": "지루한"
+    "meanings": [
+      "지루한"
+    ]
   },
   {
     "text": "interesting",
-    "meaning": "흥미로운"
+    "meanings": [
+      "흥미로운"
+    ]
   },
   {
     "text": "funny",
-    "meaning": "재미있는"
+    "meanings": [
+      "재미있는"
+    ]
   },
   {
     "text": "serious",
-    "meaning": "진지한"
+    "meanings": [
+      "진지한"
+    ]
   },
   {
     "text": "important",
-    "meaning": "중요한"
+    "meanings": [
+      "중요한"
+    ]
   },
   {
     "text": "special",
-    "meaning": "특별한"
+    "meanings": [
+      "특별한"
+    ]
   },
   {
     "text": "simple",
-    "meaning": "간단한"
+    "meanings": [
+      "간단한"
+    ]
   },
   {
     "text": "difficult",
-    "meaning": "어려운"
+    "meanings": [
+      "어려운"
+    ]
   },
   {
     "text": "possible",
-    "meaning": "가능한"
+    "meanings": [
+      "가능한"
+    ]
   },
   {
     "text": "impossible",
-    "meaning": "불가능한"
+    "meanings": [
+      "불가능한"
+    ]
   },
   {
     "text": "real",
-    "meaning": "진짜의"
+    "meanings": [
+      "진짜의"
+    ]
   },
   {
     "text": "true",
-    "meaning": "사실인"
+    "meanings": [
+      "사실인"
+    ]
   },
   {
     "text": "false",
-    "meaning": "거짓의"
+    "meanings": [
+      "거짓의"
+    ]
   },
   {
     "text": "same",
-    "meaning": "같은"
+    "meanings": [
+      "같은"
+    ]
   },
   {
     "text": "different",
-    "meaning": "다른"
+    "meanings": [
+      "다른"
+    ]
   },
   {
     "text": "similar",
-    "meaning": "비슷한"
+    "meanings": [
+      "비슷한"
+    ]
   },
   {
     "text": "ready",
-    "meaning": "준비된"
+    "meanings": [
+      "준비된"
+    ]
   },
   {
     "text": "park",
-    "meaning": "공원"
+    "meanings": [
+      "공원"
+    ]
   },
   {
     "text": "store",
-    "meaning": "가게"
+    "meanings": [
+      "가게"
+    ]
   },
   {
     "text": "shop",
-    "meaning": "상점"
+    "meanings": [
+      "상점"
+    ]
   },
   {
     "text": "market",
-    "meaning": "시장"
+    "meanings": [
+      "시장"
+    ]
   },
   {
     "text": "hospital",
-    "meaning": "병원"
+    "meanings": [
+      "병원"
+    ]
   },
   {
     "text": "clinic",
-    "meaning": "진료소"
+    "meanings": [
+      "진료소"
+    ]
   },
   {
     "text": "pharmacy",
-    "meaning": "약국"
+    "meanings": [
+      "약국"
+    ]
   },
   {
     "text": "restaurant",
-    "meaning": "식당"
+    "meanings": [
+      "식당"
+    ]
   },
   {
     "text": "cafe",
-    "meaning": "카페"
+    "meanings": [
+      "카페"
+    ]
   },
   {
     "text": "hotel",
-    "meaning": "호텔"
+    "meanings": [
+      "호텔"
+    ]
   },
   {
     "text": "library",
-    "meaning": "도서관"
+    "meanings": [
+      "도서관"
+    ]
   },
   {
     "text": "museum",
-    "meaning": "박물관"
+    "meanings": [
+      "박물관"
+    ]
   },
   {
     "text": "bank",
-    "meaning": "은행"
+    "meanings": [
+      "은행"
+    ]
   },
   {
     "text": "post office",
-    "meaning": "우체국"
+    "meanings": [
+      "우체국"
+    ]
   },
   {
     "text": "station",
-    "meaning": "역"
+    "meanings": [
+      "역"
+    ]
   },
   {
     "text": "airport",
-    "meaning": "공항"
+    "meanings": [
+      "공항"
+    ]
   },
   {
     "text": "garden",
-    "meaning": "정원"
+    "meanings": [
+      "정원"
+    ]
   },
   {
     "text": "kitchen",
-    "meaning": "부엌"
+    "meanings": [
+      "부엌"
+    ]
   },
   {
     "text": "bathroom",
-    "meaning": "화장실"
+    "meanings": [
+      "화장실"
+    ]
   },
   {
     "text": "bedroom",
-    "meaning": "침실"
+    "meanings": [
+      "침실"
+    ]
   },
   {
     "text": "living room",
-    "meaning": "거실"
+    "meanings": [
+      "거실"
+    ]
   },
   {
     "text": "floor",
-    "meaning": "바닥, 층"
+    "meanings": [
+      "바닥",
+      "층"
+    ]
   },
   {
     "text": "wall",
-    "meaning": "벽"
+    "meanings": [
+      "벽"
+    ]
   },
   {
     "text": "ceiling",
-    "meaning": "천장"
+    "meanings": [
+      "천장"
+    ]
   },
   {
     "text": "roof",
-    "meaning": "지붕"
+    "meanings": [
+      "지붕"
+    ]
   },
   {
     "text": "yard",
-    "meaning": "마당"
+    "meanings": [
+      "마당"
+    ]
   },
   {
     "text": "street",
-    "meaning": "거리"
+    "meanings": [
+      "거리"
+    ]
   },
   {
     "text": "corner",
-    "meaning": "모퉁이"
+    "meanings": [
+      "모퉁이"
+    ]
   },
   {
     "text": "bridge",
-    "meaning": "다리"
+    "meanings": [
+      "다리"
+    ]
   },
   {
     "text": "place",
-    "meaning": "장소"
+    "meanings": [
+      "장소"
+    ]
   },
   {
     "text": "thing",
-    "meaning": "것"
+    "meanings": [
+      "것"
+    ]
   },
   {
     "text": "life",
-    "meaning": "인생"
+    "meanings": [
+      "인생"
+    ]
   },
   {
     "text": "world",
-    "meaning": "세계"
+    "meanings": [
+      "세계"
+    ]
   },
   {
     "text": "nature",
-    "meaning": "자연"
+    "meanings": [
+      "자연"
+    ]
   },
   {
     "text": "history",
-    "meaning": "역사"
+    "meanings": [
+      "역사"
+    ]
   },
   {
     "text": "future",
-    "meaning": "미래"
+    "meanings": [
+      "미래"
+    ]
   },
   {
     "text": "past",
-    "meaning": "과거"
+    "meanings": [
+      "과거"
+    ]
   },
   {
     "text": "present",
-    "meaning": "현재, 선물"
+    "meanings": [
+      "현재",
+      "선물"
+    ]
   },
   {
     "text": "idea",
-    "meaning": "생각"
+    "meanings": [
+      "생각"
+    ]
   },
   {
     "text": "story",
-    "meaning": "이야기"
+    "meanings": [
+      "이야기"
+    ]
   },
   {
     "text": "song",
-    "meaning": "노래"
+    "meanings": [
+      "노래"
+    ]
   },
   {
     "text": "music",
-    "meaning": "음악"
+    "meanings": [
+      "음악"
+    ]
   },
   {
     "text": "movie",
-    "meaning": "영화"
+    "meanings": [
+      "영화"
+    ]
   },
   {
     "text": "picture",
-    "meaning": "사진, 그림"
+    "meanings": [
+      "사진",
+      "그림"
+    ]
   },
   {
     "text": "photo",
-    "meaning": "사진"
+    "meanings": [
+      "사진"
+    ]
   },
   {
     "text": "game",
-    "meaning": "게임"
+    "meanings": [
+      "게임"
+    ]
   },
   {
     "text": "sport",
-    "meaning": "스포츠"
+    "meanings": [
+      "스포츠"
+    ]
   },
   {
     "text": "ball",
-    "meaning": "공"
+    "meanings": [
+      "공"
+    ]
   },
   {
     "text": "toy",
-    "meaning": "장난감"
+    "meanings": [
+      "장난감"
+    ]
   },
   {
     "text": "gift",
-    "meaning": "선물"
+    "meanings": [
+      "선물"
+    ]
   },
   {
     "text": "card",
-    "meaning": "카드"
+    "meanings": [
+      "카드"
+    ]
   },
   {
     "text": "language",
-    "meaning": "언어"
+    "meanings": [
+      "언어"
+    ]
   },
   {
     "text": "English",
-    "meaning": "영어"
+    "meanings": [
+      "영어"
+    ]
   },
   {
     "text": "Korean",
-    "meaning": "한국어"
+    "meanings": [
+      "한국어"
+    ]
   },
   {
     "text": "word",
-    "meaning": "단어"
+    "meanings": [
+      "단어"
+    ]
   },
   {
     "text": "question",
-    "meaning": "질문"
+    "meanings": [
+      "질문"
+    ]
   },
   {
     "text": "problem",
-    "meaning": "문제"
+    "meanings": [
+      "문제"
+    ]
   },
   {
     "text": "trouble",
-    "meaning": "곤란"
+    "meanings": [
+      "곤란"
+    ]
   },
   {
     "text": "danger",
-    "meaning": "위험"
+    "meanings": [
+      "위험"
+    ]
   },
   {
     "text": "luck",
-    "meaning": "운"
+    "meanings": [
+      "운"
+    ]
   },
   {
     "text": "chance",
-    "meaning": "기회"
+    "meanings": [
+      "기회"
+    ]
   },
   {
     "text": "reason",
-    "meaning": "이유"
+    "meanings": [
+      "이유"
+    ]
   },
   {
     "text": "everything",
-    "meaning": "모든 것"
+    "meanings": [
+      "모든 것"
+    ]
   },
   {
     "text": "nothing",
-    "meaning": "아무것도"
+    "meanings": [
+      "아무것도"
+    ]
   },
   {
     "text": "everyone",
-    "meaning": "모든 사람"
+    "meanings": [
+      "모든 사람"
+    ]
   },
   {
     "text": "someone",
-    "meaning": "누군가"
+    "meanings": [
+      "누군가"
+    ]
   },
   {
     "text": "everywhere",
-    "meaning": "모든 곳"
+    "meanings": [
+      "모든 곳"
+    ]
   },
   {
     "text": "somewhere",
-    "meaning": "어딘가"
+    "meanings": [
+      "어딘가"
+    ]
   },
   {
     "text": "nowhere",
-    "meaning": "아무 데도"
+    "meanings": [
+      "아무 데도"
+    ]
   },
   {
     "text": "here",
-    "meaning": "여기"
+    "meanings": [
+      "여기"
+    ]
   },
   {
     "text": "there",
-    "meaning": "거기"
+    "meanings": [
+      "거기"
+    ]
   },
   {
     "text": "where",
-    "meaning": "어디"
+    "meanings": [
+      "어디"
+    ]
   },
   {
     "text": "when",
-    "meaning": "언제"
+    "meanings": [
+      "언제"
+    ]
   },
   {
     "text": "why",
-    "meaning": "왜"
+    "meanings": [
+      "왜"
+    ]
   },
   {
     "text": "how",
-    "meaning": "어떻게"
+    "meanings": [
+      "어떻게"
+    ]
   },
   {
     "text": "what",
-    "meaning": "무엇"
+    "meanings": [
+      "무엇"
+    ]
   },
   {
     "text": "who",
-    "meaning": "누구"
+    "meanings": [
+      "누구"
+    ]
   },
   {
     "text": "because",
-    "meaning": "왜냐하면"
+    "meanings": [
+      "왜냐하면"
+    ]
   },
   {
     "text": "but",
-    "meaning": "그러나"
+    "meanings": [
+      "그러나"
+    ]
   },
   {
     "text": "and",
-    "meaning": "그리고"
+    "meanings": [
+      "그리고"
+    ]
   },
   {
     "text": "or",
-    "meaning": "또는"
+    "meanings": [
+      "또는"
+    ]
   },
   {
     "text": "if",
-    "meaning": "만약"
+    "meanings": [
+      "만약"
+    ]
   },
   {
     "text": "so",
-    "meaning": "그래서"
+    "meanings": [
+      "그래서"
+    ]
   },
   {
     "text": "about",
-    "meaning": "~에 대해"
+    "meanings": [
+      "~에 대해"
+    ]
   },
   {
     "text": "with",
-    "meaning": "~와 함께"
+    "meanings": [
+      "~와 함께"
+    ]
   },
   {
     "text": "without",
-    "meaning": "~없이"
+    "meanings": [
+      "~없이"
+    ]
   },
   {
     "text": "for",
-    "meaning": "~을 위해"
+    "meanings": [
+      "~을 위해"
+    ]
   },
   {
     "text": "from",
-    "meaning": "~로부터"
+    "meanings": [
+      "~로부터"
+    ]
   },
   {
     "text": "to",
-    "meaning": "~에게"
+    "meanings": [
+      "~에게"
+    ]
   },
   {
     "text": "at",
-    "meaning": "~에"
+    "meanings": [
+      "~에"
+    ]
   },
   {
     "text": "in",
-    "meaning": "~안에"
+    "meanings": [
+      "~안에"
+    ]
   },
   {
     "text": "on",
-    "meaning": "~위에"
+    "meanings": [
+      "~위에"
+    ]
   },
   {
     "text": "under",
-    "meaning": "~아래에"
+    "meanings": [
+      "~아래에"
+    ]
   },
   {
     "text": "over",
-    "meaning": "~위에"
+    "meanings": [
+      "~위에"
+    ]
   },
   {
     "text": "between",
-    "meaning": "~사이에"
+    "meanings": [
+      "~사이에"
+    ]
   },
   {
     "text": "inside",
-    "meaning": "안쪽"
+    "meanings": [
+      "안쪽"
+    ]
   },
   {
     "text": "outside",
-    "meaning": "바깥쪽"
+    "meanings": [
+      "바깥쪽"
+    ]
   },
   {
     "text": "clear",
-    "meaning": "맑은, 분명한"
+    "meanings": [
+      "맑은",
+      "분명한"
+    ]
   },
   {
     "text": "sure",
-    "meaning": "확실한"
+    "meanings": [
+      "확실한"
+    ]
   },
   {
     "text": "certain",
-    "meaning": "확실한"
+    "meanings": [
+      "확실한"
+    ]
   },
   {
     "text": "able",
-    "meaning": "할 수 있는"
+    "meanings": [
+      "할 수 있는"
+    ]
   },
   {
     "text": "alone",
-    "meaning": "혼자의"
+    "meanings": [
+      "혼자의"
+    ]
   },
   {
     "text": "together",
-    "meaning": "함께"
+    "meanings": [
+      "함께"
+    ]
   },
   {
     "text": "alive",
-    "meaning": "살아있는"
+    "meanings": [
+      "살아있는"
+    ]
   },
   {
     "text": "dead",
-    "meaning": "죽은"
+    "meanings": [
+      "죽은"
+    ]
   },
   {
     "text": "sick",
-    "meaning": "아픈"
+    "meanings": [
+      "아픈"
+    ]
   },
   {
     "text": "well",
-    "meaning": "잘"
+    "meanings": [
+      "잘"
+    ]
   },
   {
     "text": "healthy",
-    "meaning": "건강한"
+    "meanings": [
+      "건강한"
+    ]
+  },
+  {
+    "text": "parents",
+    "meanings": [
+      "부모"
+    ]
+  },
+  {
+    "text": "beef",
+    "meanings": [
+      "소고기"
+    ]
+  },
+  {
+    "text": "pork",
+    "meanings": [
+      "돼지고기"
+    ]
+  },
+  {
+    "text": "lemon",
+    "meanings": [
+      "레몬"
+    ]
+  },
+  {
+    "text": "watermelon",
+    "meanings": [
+      "수박"
+    ]
+  },
+  {
+    "text": "elbow",
+    "meanings": [
+      "팔꿈치"
+    ]
+  },
+  {
+    "text": "hate",
+    "meanings": [
+      "싫어하다"
+    ]
+  },
+  {
+    "text": "high",
+    "meanings": [
+      "높은"
+    ]
+  },
+  {
+    "text": "low",
+    "meanings": [
+      "낮은"
+    ]
+  },
+  {
+    "text": "bus stop",
+    "meanings": [
+      "버스 정류장"
+    ]
+  },
+  {
+    "text": "bike",
+    "meanings": [
+      "자전거"
+    ]
+  },
+  {
+    "text": "boat",
+    "meanings": [
+      "배"
+    ]
+  },
+  {
+    "text": "film",
+    "meanings": [
+      "영화"
+    ]
+  },
+  {
+    "text": "doll",
+    "meanings": [
+      "인형"
+    ]
+  },
+  {
+    "text": "shoes",
+    "meanings": [
+      "신발"
+    ]
+  },
+  {
+    "text": "socks",
+    "meanings": [
+      "양말"
+    ]
+  },
+  {
+    "text": "shorts",
+    "meanings": [
+      "반바지"
+    ]
+  },
+  {
+    "text": "umbrella",
+    "meanings": [
+      "우산"
+    ]
+  },
+  {
+    "text": "clock",
+    "meanings": [
+      "시계"
+    ]
+  },
+  {
+    "text": "button",
+    "meanings": [
+      "단추"
+    ]
+  },
+  {
+    "text": "zipper",
+    "meanings": [
+      "지퍼"
+    ]
+  },
+  {
+    "text": "pocket",
+    "meanings": [
+      "주머니"
+    ]
+  },
+  {
+    "text": "purse",
+    "meanings": [
+      "지갑",
+      "핸드백"
+    ]
+  },
+  {
+    "text": "lock",
+    "meanings": [
+      "자물쇠"
+    ]
+  },
+  {
+    "text": "dining room",
+    "meanings": [
+      "식당"
+    ]
+  },
+  {
+    "text": "mirror",
+    "meanings": [
+      "거울"
+    ]
+  },
+  {
+    "text": "towel",
+    "meanings": [
+      "수건"
+    ]
+  },
+  {
+    "text": "soap",
+    "meanings": [
+      "비누"
+    ]
+  },
+  {
+    "text": "shampoo",
+    "meanings": [
+      "샴푸"
+    ]
+  },
+  {
+    "text": "toothbrush",
+    "meanings": [
+      "칫솔"
+    ]
+  },
+  {
+    "text": "toothpaste",
+    "meanings": [
+      "치약"
+    ]
+  },
+  {
+    "text": "knife",
+    "meanings": [
+      "칼"
+    ]
+  },
+  {
+    "text": "chopsticks",
+    "meanings": [
+      "젓가락"
+    ]
+  },
+  {
+    "text": "bowl",
+    "meanings": [
+      "그릇"
+    ]
+  },
+  {
+    "text": "glass",
+    "meanings": [
+      "유리잔"
+    ]
+  },
+  {
+    "text": "basket",
+    "meanings": [
+      "바구니"
+    ]
+  },
+  {
+    "text": "deep",
+    "meanings": [
+      "깊은"
+    ]
+  },
+  {
+    "text": "shallow",
+    "meanings": [
+      "얕은"
+    ]
+  },
+  {
+    "text": "north",
+    "meanings": [
+      "북"
+    ]
+  },
+  {
+    "text": "south",
+    "meanings": [
+      "남"
+    ]
+  },
+  {
+    "text": "east",
+    "meanings": [
+      "동"
+    ]
+  },
+  {
+    "text": "west",
+    "meanings": [
+      "서"
+    ]
+  },
+  {
+    "text": "up",
+    "meanings": [
+      "위"
+    ]
+  },
+  {
+    "text": "down",
+    "meanings": [
+      "아래"
+    ]
+  },
+  {
+    "text": "welcome",
+    "meanings": [
+      "환영합니다"
+    ]
+  },
+  {
+    "text": "excuse me",
+    "meanings": [
+      "실례합니다"
+    ]
+  },
+  {
+    "text": "goodbye",
+    "meanings": [
+      "안녕히 가세요"
+    ]
+  },
+  {
+    "text": "maybe",
+    "meanings": [
+      "아마도"
+    ]
   }
 ]
